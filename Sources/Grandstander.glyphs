@@ -1,9 +1,8 @@
 {
-.appVersion = "1284";
+.appVersion = "1287";
 DisplayStrings = (
 "67534819673810139456748310325793156745310489173654743810948756784310934816574831089376215480143796543174905831653467013657831256749318013457896431870138495634109653470843165413675348196738101394567483103257931567465310489173654743810948756784310934816574831089376215480143796543174905831653467013657831256749318013457896431870138495634109653470843165413\0127172737475767787970",
-"AMAZINGLY FEW DISCOTHEQUES PROVIDE JUKEBOXES\012amazingly few discotheques provide jukeboxes\012\012Suzy mishandled the rogue axe, requiring five backwards jumps\012QUANTUM PRETZELS BRING YOU JUICY HEXADECIMAL FLAVORS FOR WEEKS\012heck, abolish flamethrowing oxen to quiver joyful trapezoids\012YOUR WACK EMOJI RAP BLAZED EXACTLY FIVE DOZEN QUASI-GHOSTS \01201234567891237654210\012\012\012",
-"/trademark"
+"AMAZINGLY FEW DISCOTHEQUES PROVIDE JUKEBOXES\012amazingly few discotheques provide jukeboxes\012\012Suzy mishandled the rogue axe, requiring five backwards jumps\012QUANTUM PRETZELS BRING YOU JUICY HEXADECIMAL FLAVORS FOR WEEKS\012heck, abolish flamethrowing oxen to quiver joyful trapezoids\012YOUR WACK EMOJI RAP BLAZED EXACTLY FIVE DOZEN QUASI-GHOSTS \01201234567891237654210\012\012\012"
 );
 copyright = "Copyright 2020 The Grandstander Project Authors (https://github.com/Etcetera-Type-Co/Grandstander)";
 customParameters = (
@@ -77,7 +76,7 @@ name = vendorID;
 value = ETCO;
 }
 );
-date = "2020-01-05 17:20:54 +0000";
+date = "2020-01-28 23:00:58 +0000";
 designer = "Tyler Finck";
 designerURL = "http://www.finck.co";
 disablesNiceNames = 1;
@@ -268,6 +267,19 @@ value = 540;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 descender = -530;
@@ -326,6 +338,19 @@ value = 540;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Slant;
+Location = "0";
+}
+);
 }
 );
 descender = -530;
@@ -392,6 +417,19 @@ value = 540;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "100";
+},
+{
+Axis = Slant;
+Location = -15;
+}
+);
 }
 );
 descender = -530;
@@ -404,7 +442,7 @@ italicAngle = 15;
 verticalStems = (
 91
 );
-widthValue = 15;
+widthValue = -15;
 xHeight = 1063;
 },
 {
@@ -455,6 +493,19 @@ value = 540;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Slant;
+Location = "-15";
+}
+);
 }
 );
 descender = -530;
@@ -468,7 +519,7 @@ verticalStems = (
 426
 );
 weightValue = 900;
-widthValue = 15;
+widthValue = -15;
 xHeight = 1063;
 }
 );
@@ -57909,6 +57960,12 @@ unicode = 0000;
 );
 instances = (
 {
+customParameters = (
+{
+name = weightClass;
+value = 250;
+}
+);
 interpolationCustom = 1;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -57918,6 +57975,12 @@ name = Thin;
 weightClass = Thin;
 },
 {
+customParameters = (
+{
+name = weightClass;
+value = 275;
+}
+);
 interpolationCustom = 1;
 interpolationWeight = 200;
 interpolationWidth = 0;
@@ -58012,10 +58075,14 @@ name = "Rename Glyphs";
 value = (
 "a.ss01=a"
 );
+},
+{
+name = weightClass;
+value = 250;
 }
 );
 interpolationCustom = 1;
-interpolationWidth = 15;
+interpolationWidth = -15;
 instanceInterpolations = {
 "82219AB4-7C60-4B3A-9196-329BE868CB10" = 1;
 };
@@ -58031,11 +58098,15 @@ name = "Rename Glyphs";
 value = (
 "a.ss01=a"
 );
+},
+{
+name = weightClass;
+value = 275;
 }
 );
 interpolationCustom = 1;
 interpolationWeight = 200;
-interpolationWidth = 15;
+interpolationWidth = -15;
 instanceInterpolations = {
 "63DB0068-8B02-4205-807F-6F2453D24B26" = 0.125;
 "82219AB4-7C60-4B3A-9196-329BE868CB10" = 0.875;
@@ -58056,7 +58127,7 @@ value = (
 );
 interpolationCustom = 1;
 interpolationWeight = 300;
-interpolationWidth = 15;
+interpolationWidth = -15;
 instanceInterpolations = {
 "63DB0068-8B02-4205-807F-6F2453D24B26" = 0.25;
 "82219AB4-7C60-4B3A-9196-329BE868CB10" = 0.75;
@@ -58077,7 +58148,7 @@ value = (
 );
 interpolationCustom = 1;
 interpolationWeight = 400;
-interpolationWidth = 15;
+interpolationWidth = -15;
 instanceInterpolations = {
 "63DB0068-8B02-4205-807F-6F2453D24B26" = 0.375;
 "82219AB4-7C60-4B3A-9196-329BE868CB10" = 0.625;
@@ -58097,7 +58168,7 @@ value = (
 );
 interpolationCustom = 1;
 interpolationWeight = 500;
-interpolationWidth = 15;
+interpolationWidth = -15;
 instanceInterpolations = {
 "63DB0068-8B02-4205-807F-6F2453D24B26" = 0.5;
 "82219AB4-7C60-4B3A-9196-329BE868CB10" = 0.5;
@@ -58118,7 +58189,7 @@ value = (
 );
 interpolationCustom = 1;
 interpolationWeight = 600;
-interpolationWidth = 15;
+interpolationWidth = -15;
 instanceInterpolations = {
 "63DB0068-8B02-4205-807F-6F2453D24B26" = 0.625;
 "82219AB4-7C60-4B3A-9196-329BE868CB10" = 0.375;
@@ -58139,7 +58210,7 @@ value = (
 );
 interpolationCustom = 1;
 interpolationWeight = 700;
-interpolationWidth = 15;
+interpolationWidth = -15;
 instanceInterpolations = {
 "63DB0068-8B02-4205-807F-6F2453D24B26" = 0.75;
 "82219AB4-7C60-4B3A-9196-329BE868CB10" = 0.25;
@@ -58161,7 +58232,7 @@ value = (
 );
 interpolationCustom = 1;
 interpolationWeight = 800;
-interpolationWidth = 15;
+interpolationWidth = -15;
 instanceInterpolations = {
 "63DB0068-8B02-4205-807F-6F2453D24B26" = 0.875;
 "82219AB4-7C60-4B3A-9196-329BE868CB10" = 0.125;
@@ -58182,7 +58253,7 @@ value = (
 );
 interpolationCustom = 1;
 interpolationWeight = 900;
-interpolationWidth = 15;
+interpolationWidth = -15;
 instanceInterpolations = {
 "63DB0068-8B02-4205-807F-6F2453D24B26" = 1;
 };
@@ -58471,7 +58542,6 @@ b = {
 };
 h = {
 "@MMK_R_quotesingle" = -66.66666;
-"@MMK_R_t" = -80.34188;
 };
 l.ss01 = {
 "@MMK_R_quotesingle" = -78.63248;
@@ -58598,7 +58668,6 @@ t_i = -126.49573;
 "@MMK_R_w" = -20.51282;
 "@MMK_R_y" = -44.44444;
 comma = -160.68376;
-e = -18.80342;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -39.31624;
@@ -58770,7 +58839,6 @@ b = {
 };
 h = {
 "@MMK_R_quotesingle" = -66.66666;
-"@MMK_R_t" = -80.34188;
 };
 l.ss01 = {
 "@MMK_R_quotesingle" = -78.63248;
@@ -59069,7 +59137,6 @@ b = {
 };
 h = {
 "@MMK_R_quotesingle" = -66.66666;
-"@MMK_R_t" = -80.34188;
 };
 l.ss01 = {
 "@MMK_R_quotesingle" = -78.63248;
@@ -59196,7 +59263,6 @@ t_i = -126.49573;
 "@MMK_R_w" = -20.51282;
 "@MMK_R_y" = -44.44444;
 comma = -160.68376;
-e = -18.80342;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -39.31624;
@@ -59368,7 +59434,6 @@ b = {
 };
 h = {
 "@MMK_R_quotesingle" = -66.66666;
-"@MMK_R_t" = -80.34188;
 };
 l.ss01 = {
 "@MMK_R_quotesingle" = -78.63248;
@@ -59394,6 +59459,6 @@ t_i = {
 manufacturer = "Etcetera Type Co";
 manufacturerURL = "https://www.etc.supply";
 unitsPerEm = 2000;
-versionMajor = 1;
-versionMinor = 100;
+versionMajor = 0;
+versionMinor = 9;
 }
