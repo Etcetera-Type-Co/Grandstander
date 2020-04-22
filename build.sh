@@ -12,8 +12,6 @@ fontmake -g Grandstander.glyphs -i -o ttf --output-dir ../fonts/static/ttf/
 mkdir -p ../fonts/static/otf
 fontmake -g Grandstander.glyphs -i -o otf --output-dir ../fonts/static/otf/
 
-#echo "Generating VFs"
-#fontmake -g Grandstander.glyphs -o variable --output-path ../fonts/Grandstander[slnt,wght].ttf
 
 
 
@@ -25,18 +23,23 @@ cd ..
 # ============================================================================
 # Autohinting ================================================================
 
-statics=$(ls fonts/static/ttf/*.ttf)
-echo hello
-for file in $statics; do
-    echo "fix DSIG in " ${file}
-    gftools fix-dsig --autofix ${file}
 
-    echo "TTFautohint " ${file}
-    # autohint with detailed info
-    hintedFile=${file/".ttf"/"-hinted.ttf"}
-    ttfautohint -I ${file} ${hintedFile}
-    cp ${hintedFile} ${file}
-    rm -rf ${hintedFile}
+echo "Post processing TTFs"
+ttfs=$(ls fonts/static/ttf/*.ttf)
+for ttf in $ttfs
+do
+	gftools fix-dsig -f $ttf;
+	ttfautohint $ttf $ttf.fix
+	mv "$ttf.fix" $ttf;
+	gftools fix-hinting $ttf
+	mv "$ttf.fix" $ttf;
+done
+
+echo "Post processing OTFs"
+otfs=$(ls fonts/static/otf/*.otf)
+for otf in $otfs
+do
+	gftools fix-dsig -f $otf
 done
 
 
@@ -81,29 +84,22 @@ cd sources
 
 echo "Generating VFs"
 mkdir -p ../fonts/variable
-fontmake -g Grandstander.glyphs -o variable --output-path ../fonts/variable/GrandstanderVariable.ttf
+fontmake -g Grandstander.glyphs -o variable --output-path ../fonts/variable/Grandstander[slnt,wght].ttf
 
 rm -rf master_ufo/ instance_ufo/
 
 
 cd ../fonts/variable
 
-woff2_compress GrandstanderVariable.ttf
+woff2_compress Grandstander[slnt,wght].ttf
 
 cd ..
 
-echo "Post processing"
 
 
-ttfs=$(ls ../fonts/static/ttf/*.ttf)
-echo $ttfs
-for ttf in $ttfs
-do
-	gftools fix-dsig -f $ttf;
-	gftools fix-nonhinting $ttf $ttf.fix;
-	mv "$ttf.fix" $ttf;
-done
-rm ../fonts/static/ttf/*gasp.ttf
+
+
+echo "Post processing VFs"
 
 vfs=$(ls ../fonts/variable/*.ttf)
 for vf in $vfs
@@ -119,3 +115,5 @@ do
 	rm ../fonts/variable/*.ttx
 done
 rm ../fonts/variable/*gasp.ttf
+
+echo "Complete"
