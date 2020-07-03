@@ -7,8 +7,7 @@ mkdir -p ./fonts ./fonts/static/ttf ./fonts/static/otf ./fonts/variable
 
 
 echo "Generating VFs"
-fontmake -g Sources/Grandstander.glyphs -o variable --output-path ./fonts/variable/Grandstander[wght].ttf
-fontmake -g Sources/Grandstander-Italic.glyphs -o variable --output-path ./fonts/variable/Grandstander-Italic[wght].ttf
+fontmake -g Sources/Grandstander.glyphs -o variable --output-path ./fonts/variable/Grandstander[slnt,wght].ttf
 
 
 
@@ -20,10 +19,11 @@ do
 	gftools fix-nonhinting $ttf "$ttf.fix";
 	mv "$ttf.fix" $ttf;
 	gftools fix-unwanted-tables --tables MVAR $ttf;
-	gftools fix-vf-meta $ttf;
-	mv "$ttf.fix" $ttf;
-  woff2_compress $ttf;
+	#gftools fix-vf-meta $ttf;
+	#mv "$ttf.fix" $ttf;
+    woff2_compress $ttf;
 done
+statmake --stylespace Sources/stat.stylespace --designspace ./master_ufo/Grandstander.designspace ./fonts/variable/Grandstander\[slnt\,wght\].ttf
 
 
 rm ./fonts/variable/*gasp*
@@ -31,10 +31,8 @@ rm ./fonts/variable/*gasp*
 
 echo "Generating Static fonts"
 fontmake -g Sources/Grandstander.glyphs -i -o ttf --output-dir ./fonts/static/ttf/
-fontmake -g Sources/Grandstander-Italic.glyphs -i -o ttf --output-dir ./fonts/static/ttf/
 
 fontmake -g Sources/Grandstander.glyphs -i -o otf --output-dir ./fonts/static/otf/
-fontmake -g Sources/Grandstander-Italic.glyphs -i -o otf --output-dir ./fonts/static/otf/
 
 
 
