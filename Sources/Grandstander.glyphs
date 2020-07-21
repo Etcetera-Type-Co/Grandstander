@@ -1,5 +1,8 @@
 {
 .appVersion = "1343";
+DisplayStrings = (
+HO
+);
 classes = (
 {
 automatic = 1;
@@ -57,19 +60,11 @@ name = vendorID;
 value = ETCO;
 },
 {
-name = blueScale;
-value = 0;
-},
-{
-name = blueShift;
-value = 7;
-},
-{
 name = "Variable Font Origin";
 value = "B5195C1E-69AB-4BC6-9855-DF55601A0735";
 }
 );
-date = "2020-07-08 16:23:10 +0000";
+date = "2020-07-21 14:10:07 +0000";
 designer = "Tyler Finck";
 designerURL = "https://www.madebytyler.com";
 familyName = Grandstander;
@@ -561,14 +556,8 @@ value = u;
 }
 );
 descender = -530;
-horizontalStems = (
-85
-);
 iconName = Light;
 id = "B5195C1E-69AB-4BC6-9855-DF55601A0735";
-verticalStems = (
-91
-);
 widthValue = 0;
 xHeight = 1063;
 },
@@ -623,17 +612,11 @@ value = i;
 }
 );
 descender = -530;
-horizontalStems = (
-359
-);
 iconName = Bold;
 id = "B5042207-EFBA-41B6-8DFD-104A953B46A6";
 userData = {
 GSCornerRadius = 200;
 };
-verticalStems = (
-426
-);
 weightValue = 900;
 widthValue = 0;
 xHeight = 1063;
@@ -55005,5 +54988,5 @@ manufacturer = "Etcetera Type Co";
 manufacturerURL = "https://www.etc.supply";
 unitsPerEm = 2000;
 versionMajor = 1;
-versionMinor = 112;
+versionMinor = 200;
 }
