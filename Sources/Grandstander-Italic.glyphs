@@ -1,5 +1,5 @@
 {
-.appVersion = "1342";
+.appVersion = "1343";
 classes = (
 {
 automatic = 1;
@@ -63,6 +63,10 @@ value = 0;
 {
 name = blueShift;
 value = 7;
+},
+{
+name = "Variable Font Origin";
+value = "82219AB4-7C60-4B3A-9196-329BE868CB10";
 }
 );
 date = "2020-07-01 15:06:29 +0000";
