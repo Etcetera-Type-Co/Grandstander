@@ -1,92 +1,115 @@
 #!/bin/sh
+
+#===========================================================================
+#Update this variable ==========================================================
+
+thisFont="Grandstander"  #must match the name in the font file
+axis="wght" #eg with multiple axis "wdth,wght" --> with comma, no space
+
+#===========================================================================
+#Generating fonts ==========================================================
+
+#source ../env/bin/activate
 set -e
 
+#echo "CLEAN FONTS FOLDERS"
+#rm -rf ./fonts/ttf/ ./fonts/otf/ ./fonts/variable/ ./fonts/web/
 
+echo ".
+GENERATING STATIC TTF
+."
+mkdir -p ../fonts/ttf
+fontmake -g $thisFont.glyphs -i -o ttf --output-dir ../fonts/ttf/
+fontmake -g $thisFont-Italic.glyphs -i -o ttf --output-dir ../fonts/ttf/
 
-mkdir -p ./fonts ./fonts/static/ttf ./fonts/static/otf ./fonts/variable
+echo ".
+GENERATING STATIC OTF
+."
+mkdir -p ../fonts/otf
+fontmake -g $thisFont.glyphs -i -o otf --output-dir ../fonts/otf/
+fontmake -g $thisFont-Italic.glyphs -i -o otf --output-dir ../fonts/otf/
 
+echo ".
+GENERATING VARIABLE FONTS
+."
+mkdir -p ../fonts/variable
+VF_FILE="../fonts/variable/$thisFont[$axis].ttf"
+VF_FILE_IT="../fonts/variable/$thisFont-Italic[$axis].ttf"
+fontmake -g $thisFont.glyphs -o variable --output-path $VF_FILE
+fontmake -g $thisFont-Italic.glyphs -o variable --output-path $VF_FILE_IT
 
-echo "Generating VFs"
-fontmake -g Sources/Grandstander.glyphs -o variable --output-path ./fonts/variable/Grandstander[wght].ttf
-fontmake -g Sources/Grandstander-Italic.glyphs -o variable --output-path ./fonts/variable/Grandstander-Italic[wght].ttf
+#============================================================================
+#Post-processing fonts ======================================================
 
-
-
-
-echo "Post processing VFs"
-for ttf in ./fonts/variable/*.ttf
-do
-	gftools fix-dsig --autofix $ttf;
-	gftools fix-nonhinting $ttf "$ttf.fix";
-	mv "$ttf.fix" $ttf;
-	gftools fix-unwanted-tables --tables MVAR $ttf;
-	gftools fix-vf-meta $ttf;
-	mv "$ttf.fix" $ttf;
-  woff2_compress $ttf;
-done
-
-
-rm ./fonts/variable/*gasp*
-
-
-echo "Generating Static fonts"
-fontmake -g Sources/Grandstander.glyphs -i -o ttf --output-dir ./fonts/static/ttf/
-fontmake -g Sources/Grandstander-Italic.glyphs -i -o ttf --output-dir ./fonts/static/ttf/
-
-fontmake -g Sources/Grandstander.glyphs -i -o otf --output-dir ./fonts/static/otf/
-fontmake -g Sources/Grandstander-Italic.glyphs -i -o otf --output-dir ./fonts/static/otf/
-
-
-
-echo "Post processing TTFs"
-ttfs=$(ls ./fonts/static/ttf/*.ttf)
+echo ".
+POST-PROCESSING TTF
+."
+ttfs=$(ls ../fonts/ttf/*.ttf)
+echo $ttfs
 for ttf in $ttfs
 do
-	gftools fix-dsig -f $ttf;
-	ttfautohint $ttf $ttf.fix
-	[ -f $ttf.fix ] && mv $ttf.fix $ttf
-	gftools fix-hinting $ttf
+	gftools fix-dsig --autofix $ttf
+	gftools fix-nonhinting $ttf $ttf.fix
+	mv $ttf.fix $ttf
 	[ -f $ttf.fix ] && mv $ttf.fix $ttf
 done
+rm ../fonts/ttf/*gasp*
 
-echo "Post processing OTFs"
-otfs=$(ls ./fonts/static/otf/*.otf)
+echo ".
+POST-PROCESSING OTF
+."
+otfs=$(ls ../fonts/otf/*.otf)
 for otf in $otfs
 do
 	gftools fix-dsig -f $otf
+	gftools fix-weightclass $otf
+	[ -f $otf.fix ] && mv $otf.fix $otf
 done
 
-
-
-echo "Building webfonts"
-rm -rf ./fonts/web/woff2
-ttfs=$(ls ./fonts/static/ttf/*.ttf)
-for ttf in $ttfs; do
-    woff2_compress $ttf
+echo ".
+POST-PROCESSING VF
+."
+vfs=$(ls ../fonts/variable/*.ttf)
+for vf in $vfs
+do
+	gftools fix-dsig --autofix $vf
+	gftools fix-nonhinting $vf $vf.fix
+	mv $vf.fix $vf
+	gftools fix-unwanted-tables --tables MVAR $vf
+	woff2_compress $ttf
 done
-mkdir -p ./fonts/web/woff2
-woff2s=$(ls ./fonts/static/*/*.woff2)
-for woff2 in $woff2s; do
-    mv $woff2 ./fonts/web/woff2/$(basename $woff2)
-done
-#########
-rm -rf ./fonts/web/woff
-ttfs=$(ls ./fonts/static/ttf/*.ttf)
-for ttf in $ttfs; do
-    sfnt2woff-zopfli $ttf
-done
+rm ../fonts/variable/*gasp*
 
-mkdir -p ./fonts/web/woff
-woffs=$(ls ./fonts/static/*/*.woff)
-for woff in $woffs; do
-    mv $woff ./fonts/web/woff/$(basename $woff)
+gftools fix-vf-meta $VF_FILE $VF_FILE_IT
+for vf in $vfs
+do
+	mv $vf.fix $vf
 done
 
+#============================================================================
+#Build woff and woff2 fonts =================================================
+#requires https://github.com/bramstein/homebrew-webfonttools
 
+echo ".
+BUILD web
+."
+mkdir -p ../fonts/web
+
+ttfs=$(ls ../fonts/ttf/*.ttf)
+for ttf in $ttfs
+do
+  woff2_compress $ttf
+  sfnt2woff-zopfli $ttf
+done
+
+woffs=$(ls ../fonts/ttf/*.woff*)
+for woff in $woffs
+do
+	mv $woff ../fonts/web/
+done
 
 rm -rf master_ufo/ instance_ufo/
 
-
-
-
-echo "Complete!"
+echo ".
+COMPLETE!
+."
