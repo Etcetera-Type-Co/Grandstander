@@ -1,5 +1,8 @@
 {
 .appVersion = "1343";
+DisplayStrings = (
+"/quotesinglbase/quotedblright/quotedblbase"
+);
 classes = (
 {
 automatic = 1;
@@ -41314,69 +41317,33 @@ unicode = 005F;
 },
 {
 glyphname = quotesinglbase;
-lastChange = "2020-07-01 00:09:13 +0000";
+lastChange = "2020-07-21 15:42:35 +0000";
 layers = (
 {
-layerId = "B5042207-EFBA-41B6-8DFD-104A953B46A6";
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"314 90 OFFCURVE",
-"275 92 OFFCURVE",
-"235 92 CURVE SMOOTH",
-"174 92 OFFCURVE",
-"109 86 OFFCURVE",
-"38 75 CURVE",
-"42 3 OFFCURVE",
-"58 -125 OFFCURVE",
-"100 -301 CURVE",
-"145 -303 OFFCURVE",
-"253 -303 OFFCURVE",
-"317 -303 CURVE",
-"341 -205 OFFCURVE",
-"359 -72 OFFCURVE",
-"359 16 CURVE SMOOTH",
-"359 45 OFFCURVE",
-"357 68 OFFCURVE",
-"353 85 CURVE"
-);
+name = quoteright;
+transform = "{1, 0, 0, 1, 0, -1234}";
 }
 );
-width = 402;
+layerId = "B5042207-EFBA-41B6-8DFD-104A953B46A6";
+width = 515;
 },
 {
-layerId = "B5195C1E-69AB-4BC6-9855-DF55601A0735";
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"182 92 OFFCURVE",
-"168 92 OFFCURVE",
-"154 90 CURVE SMOOTH",
-"138 88 OFFCURVE",
-"124 85 OFFCURVE",
-"113 82 CURVE",
-"113 -31 OFFCURVE",
-"122 -259 OFFCURVE",
-"132 -315 CURVE",
-"143 -317 OFFCURVE",
-"162 -318 OFFCURVE",
-"168 -318 CURVE",
-"181 -236 OFFCURVE",
-"188 -141 OFFCURVE",
-"193 -57 CURVE SMOOTH",
-"196 0 OFFCURVE",
-"197 52 OFFCURVE",
-"197 92 CURVE"
-);
+name = quoteright;
+transform = "{1, 0, 0, 1, 0, -1234}";
 }
 );
-width = 402;
+layerId = "B5195C1E-69AB-4BC6-9855-DF55601A0735";
+width = 515;
 }
 );
 leftKerningGroup = period;
+leftMetricsKey = quoteright;
 rightKerningGroup = period;
+rightMetricsKey = quoteright;
 unicode = 201A;
 },
 {
