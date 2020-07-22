@@ -55901,7 +55901,7 @@ instanceInterpolations = {
 "63DB0068-8B02-4205-807F-6F2453D24B26" = 1;
 };
 isItalic = 1;
-linkStyle = Heavy;
+linkStyle = Black;
 name = "Black Italic";
 weightClass = Black;
 }
