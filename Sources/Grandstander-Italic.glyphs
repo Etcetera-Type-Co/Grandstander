@@ -29131,9 +29131,15 @@ unicode = 1E93;
 },
 {
 glyphname = B_B;
-lastChange = "2020-07-01 15:28:16 +0000";
+lastChange = "2020-07-22 15:23:01 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1026, 0}";
+}
+);
 components = (
 {
 name = B;
@@ -29207,6 +29213,12 @@ nodes = (
 width = 2240;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{979, 0}";
+}
+);
 components = (
 {
 name = B;
@@ -29287,9 +29299,15 @@ rightMetricsKey = B;
 },
 {
 glyphname = C_C;
-lastChange = "2020-07-01 15:28:30 +0000";
+lastChange = "2020-07-22 15:23:08 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1108, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -29338,6 +29356,12 @@ nodes = (
 width = 2218;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1147, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -29393,9 +29417,15 @@ rightMetricsKey = C;
 },
 {
 glyphname = D_D;
-lastChange = "2020-07-01 15:28:52 +0000";
+lastChange = "2020-07-22 15:23:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1042, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -29442,6 +29472,12 @@ nodes = (
 width = 2231;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1078, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -29495,13 +29531,17 @@ rightMetricsKey = D;
 },
 {
 glyphname = E_E;
-lastChange = "2020-07-21 15:22:13 +0000";
+lastChange = "2020-07-22 15:23:20 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 position = "{389, 0}";
+},
+{
+name = caret_1;
+position = "{844, 0}";
 },
 {
 name = ogonek;
@@ -29628,6 +29668,10 @@ anchors = (
 {
 name = bottom;
 position = "{357, -25}";
+},
+{
+name = caret_1;
+position = "{816, 0}";
 },
 {
 name = ogonek;
@@ -29757,9 +29801,15 @@ rightMetricsKey = E;
 },
 {
 glyphname = F_F;
-lastChange = "2020-07-01 15:30:37 +0000";
+lastChange = "2020-07-22 15:23:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{765, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -29811,6 +29861,12 @@ nodes = (
 width = 1848;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{707, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -29869,9 +29925,15 @@ rightMetricsKey = F;
 },
 {
 glyphname = G_G;
-lastChange = "2020-07-01 15:31:31 +0000";
+lastChange = "2020-07-22 15:23:31 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1266, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -29938,6 +30000,12 @@ nodes = (
 width = 2541;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1279, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30011,9 +30079,15 @@ rightMetricsKey = G;
 },
 {
 glyphname = L_L;
-lastChange = "2020-07-01 15:31:58 +0000";
+lastChange = "2020-07-22 15:24:10 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{905, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30056,6 +30130,12 @@ nodes = (
 width = 1890;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{840, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30105,9 +30185,15 @@ rightMetricsKey = L;
 },
 {
 glyphname = M_M;
-lastChange = "2020-07-01 15:37:52 +0000";
+lastChange = "2020-07-22 15:24:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1265, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30165,6 +30251,12 @@ nodes = (
 width = 2720;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1331, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30229,9 +30321,15 @@ rightMetricsKey = M;
 },
 {
 glyphname = N_N;
-lastChange = "2020-07-01 15:35:05 +0000";
+lastChange = "2020-07-22 15:24:23 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1212, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30280,6 +30378,12 @@ nodes = (
 width = 2531;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1117, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30335,9 +30439,15 @@ rightMetricsKey = N;
 },
 {
 glyphname = O_O;
-lastChange = "2020-07-01 15:27:33 +0000";
+lastChange = "2020-07-22 15:24:29 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1338, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30385,6 +30495,12 @@ nodes = (
 width = 2686;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1300, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30439,9 +30555,15 @@ rightMetricsKey = O;
 },
 {
 glyphname = P_P;
-lastChange = "2020-07-01 15:36:21 +0000";
+lastChange = "2020-07-22 15:24:32 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{849, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30494,6 +30616,12 @@ nodes = (
 width = 1930;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{905, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30553,9 +30681,15 @@ rightMetricsKey = P;
 },
 {
 glyphname = R_R;
-lastChange = "2020-07-01 15:37:46 +0000";
+lastChange = "2020-07-22 15:24:38 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{969, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30623,6 +30757,12 @@ nodes = (
 width = 2161;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1006, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30697,9 +30837,15 @@ rightMetricsKey = R;
 },
 {
 glyphname = S_S;
-lastChange = "2020-07-01 15:38:04 +0000";
+lastChange = "2020-07-22 15:24:44 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1088, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30760,6 +30906,12 @@ nodes = (
 width = 2235;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1048, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30827,9 +30979,15 @@ rightMetricsKey = S;
 },
 {
 glyphname = T_T;
-lastChange = "2020-07-01 15:40:19 +0000";
+lastChange = "2020-07-22 15:24:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{905, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30871,6 +31029,12 @@ nodes = (
 width = 1951;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{905, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30919,9 +31083,15 @@ rightMetricsKey = T;
 },
 {
 glyphname = b_b;
-lastChange = "2020-07-01 15:41:04 +0000";
+lastChange = "2020-07-22 15:24:54 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1090, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -30987,6 +31157,12 @@ nodes = (
 width = 2320;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1142, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -31059,9 +31235,15 @@ rightMetricsKey = b;
 },
 {
 glyphname = c_c;
-lastChange = "2020-07-01 15:27:33 +0000";
+lastChange = "2020-07-22 15:24:58 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{905, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -31107,6 +31289,12 @@ nodes = (
 width = 1998;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{976, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -31159,9 +31347,15 @@ rightMetricsKey = c;
 },
 {
 glyphname = d_d;
-lastChange = "2020-07-01 15:41:46 +0000";
+lastChange = "2020-07-22 15:25:04 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1058, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -31228,6 +31422,12 @@ nodes = (
 width = 2261;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1130, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -31301,9 +31501,15 @@ rightMetricsKey = d;
 },
 {
 glyphname = e_e;
-lastChange = "2020-07-01 15:42:07 +0000";
+lastChange = "2020-07-22 15:25:56 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{951, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -31366,6 +31572,12 @@ nodes = (
 width = 2074;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{951, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -31435,9 +31647,15 @@ rightMetricsKey = e;
 },
 {
 glyphname = f_a;
-lastChange = "2020-07-01 15:42:40 +0000";
+lastChange = "2020-07-22 15:26:01 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{679, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -31502,6 +31720,12 @@ nodes = (
 width = 2053;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{714, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -31573,9 +31797,15 @@ rightMetricsKey = a;
 },
 {
 glyphname = f_f;
-lastChange = "2020-07-01 15:43:33 +0000";
+lastChange = "2020-07-22 15:26:08 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{603, 0}";
+}
+);
 layerId = "82219AB4-7C60-4B3A-9196-329BE868CB10";
 paths = (
 {
@@ -31660,6 +31890,12 @@ nodes = (
 width = 1576;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{743, 0}";
+}
+);
 layerId = "63DB0068-8B02-4205-807F-6F2453D24B26";
 paths = (
 {
@@ -31751,9 +31987,19 @@ rightMetricsKey = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2020-07-21 15:34:51 +0000";
+lastChange = "2020-07-22 15:26:12 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{683.667, 0}";
+},
+{
+name = caret_2;
+position = "{1367.333, 0}";
+}
+);
 layerId = "82219AB4-7C60-4B3A-9196-329BE868CB10";
 paths = (
 {
@@ -31867,6 +32113,16 @@ nodes = (
 width = 2051;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{685.333, 0}";
+},
+{
+name = caret_2;
+position = "{1370.667, 0}";
+}
+);
 layerId = "63DB0068-8B02-4205-807F-6F2453D24B26";
 paths = (
 {
@@ -31987,9 +32243,19 @@ rightMetricsKey = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2020-07-03 19:01:24 +0000";
+lastChange = "2020-07-22 15:26:15 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{642.667, 0}";
+},
+{
+name = caret_2;
+position = "{1285.333, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -32045,6 +32311,16 @@ nodes = (
 width = 1928;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{638, 0}";
+},
+{
+name = caret_2;
+position = "{1276, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -32107,9 +32383,15 @@ rightMetricsKey = l;
 },
 {
 glyphname = f_i;
-lastChange = "2020-07-21 15:35:43 +0000";
+lastChange = "2020-07-22 15:26:23 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{603, 0}";
+}
+);
 layerId = "82219AB4-7C60-4B3A-9196-329BE868CB10";
 paths = (
 {
@@ -32194,6 +32476,12 @@ nodes = (
 width = 1341;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{626, 0}";
+}
+);
 layerId = "63DB0068-8B02-4205-807F-6F2453D24B26";
 paths = (
 {
@@ -32285,9 +32573,15 @@ rightMetricsKey = i;
 },
 {
 glyphname = f_l;
-lastChange = "2020-07-03 19:04:49 +0000";
+lastChange = "2020-07-22 15:26:38 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{600, 0}";
+}
+);
 layerId = "82219AB4-7C60-4B3A-9196-329BE868CB10";
 paths = (
 {
@@ -32372,6 +32666,12 @@ nodes = (
 width = 1301;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{622, 0}";
+}
+);
 layerId = "63DB0068-8B02-4205-807F-6F2453D24B26";
 paths = (
 {
@@ -32463,9 +32763,15 @@ rightMetricsKey = l;
 },
 {
 glyphname = f_t;
-lastChange = "2020-07-03 19:05:50 +0000";
+lastChange = "2020-07-22 15:26:46 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{772, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -32530,6 +32836,12 @@ nodes = (
 width = 1740;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{761, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -32601,9 +32913,15 @@ rightMetricsKey = t;
 },
 {
 glyphname = fi;
-lastChange = "2020-07-01 15:27:33 +0000";
+lastChange = "2020-07-22 15:26:53 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{619, 0}";
+}
+);
 components = (
 {
 name = f_i;
@@ -32613,6 +32931,12 @@ layerId = "82219AB4-7C60-4B3A-9196-329BE868CB10";
 width = 1341;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{626, 0}";
+}
+);
 components = (
 {
 name = f_i;
@@ -32630,9 +32954,15 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2020-07-01 15:27:33 +0000";
+lastChange = "2020-07-22 15:26:58 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{611, 0}";
+}
+);
 components = (
 {
 name = f_l;
@@ -32642,6 +32972,12 @@ layerId = "82219AB4-7C60-4B3A-9196-329BE868CB10";
 width = 1301;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{634, 0}";
+}
+);
 components = (
 {
 name = f_l;
@@ -32659,9 +32995,15 @@ unicode = FB02;
 },
 {
 glyphname = g_g;
-lastChange = "2020-07-03 19:06:54 +0000";
+lastChange = "2020-07-22 15:27:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1149, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -32736,6 +33078,12 @@ nodes = (
 width = 2406;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1229, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -32817,9 +33165,15 @@ rightMetricsKey = g;
 },
 {
 glyphname = l_l;
-lastChange = "2020-07-03 19:07:44 +0000";
+lastChange = "2020-07-22 15:27:12 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{384, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -32853,6 +33207,12 @@ nodes = (
 width = 942;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{419, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -32893,9 +33253,15 @@ rightMetricsKey = d;
 },
 {
 glyphname = m_m;
-lastChange = "2020-07-03 19:09:03 +0000";
+lastChange = "2020-07-22 15:27:20 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1699, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -32982,6 +33348,12 @@ nodes = (
 width = 3602;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1702, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33075,9 +33447,15 @@ rightMetricsKey = m;
 },
 {
 glyphname = n_n;
-lastChange = "2020-07-03 19:09:44 +0000";
+lastChange = "2020-07-22 15:27:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1221, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33135,6 +33513,12 @@ nodes = (
 width = 2580;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1247, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33199,9 +33583,15 @@ rightMetricsKey = n;
 },
 {
 glyphname = o_o;
-lastChange = "2020-07-01 15:27:33 +0000";
+lastChange = "2020-07-22 15:27:36 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{1028, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33249,6 +33639,12 @@ nodes = (
 width = 2252;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{1056, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33303,9 +33699,15 @@ rightMetricsKey = o;
 },
 {
 glyphname = p_p;
-lastChange = "2020-07-03 19:10:32 +0000";
+lastChange = "2020-07-22 15:27:43 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{991, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33371,6 +33773,12 @@ nodes = (
 width = 2294;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{970, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33443,9 +33851,15 @@ rightMetricsKey = p;
 },
 {
 glyphname = r_r;
-lastChange = "2020-07-03 19:10:52 +0000";
+lastChange = "2020-07-22 15:27:49 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{777, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33494,6 +33908,12 @@ nodes = (
 width = 1736;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{731, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33549,9 +33969,15 @@ rightMetricsKey = r;
 },
 {
 glyphname = s_s;
-lastChange = "2020-07-03 19:11:12 +0000";
+lastChange = "2020-07-22 15:27:53 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{905, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33611,6 +34037,12 @@ nodes = (
 width = 1843;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{905, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33677,9 +34109,15 @@ rightMetricsKey = s;
 },
 {
 glyphname = t_i;
-lastChange = "2020-07-03 19:16:42 +0000";
+lastChange = "2020-07-22 15:27:59 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{744, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33730,6 +34168,12 @@ nodes = (
 width = 1508;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{638, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -33787,13 +34231,17 @@ rightMetricsKey = i;
 },
 {
 glyphname = t_t;
-lastChange = "2020-07-21 15:20:54 +0000";
+lastChange = "2020-07-22 15:28:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 position = "{283, 21}";
+},
+{
+name = caret_1;
+position = "{677, 0}";
 },
 {
 name = center;
@@ -33881,6 +34329,10 @@ anchors = (
 {
 name = bottom;
 position = "{276, 21}";
+},
+{
+name = caret_1;
+position = "{683, 0}";
 },
 {
 name = center;
@@ -33971,9 +34423,15 @@ rightMetricsKey = t;
 },
 {
 glyphname = t_u;
-lastChange = "2020-07-03 19:15:35 +0000";
+lastChange = "2020-07-22 15:28:12 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{712, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -34030,6 +34488,12 @@ nodes = (
 width = 1932;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{639, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -34093,9 +34557,15 @@ rightMetricsKey = u;
 },
 {
 glyphname = t_w;
-lastChange = "2020-07-03 19:16:14 +0000";
+lastChange = "2020-07-22 15:28:18 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{722, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -34152,6 +34622,12 @@ nodes = (
 width = 2285;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{655, 0}";
+}
+);
 components = (
 {
 alignment = -1;
