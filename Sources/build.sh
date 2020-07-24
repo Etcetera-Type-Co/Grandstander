@@ -49,8 +49,9 @@ echo $ttfs
 for ttf in $ttfs
 do
 	gftools fix-dsig --autofix $ttf
-	gftools fix-nonhinting $ttf $ttf.fix
-	mv $ttf.fix $ttf
+	ttfautohint $ttf $ttf.fix
+	[ -f $ttf.fix ] && mv $ttf.fix $ttf
+	gftools fix-hinting $ttf
 	[ -f $ttf.fix ] && mv $ttf.fix $ttf
 done
 rm ../fonts/ttf/*gasp*
