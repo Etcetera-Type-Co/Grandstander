@@ -54,7 +54,6 @@ do
 	gftools fix-hinting $ttf
 	[ -f $ttf.fix ] && mv $ttf.fix $ttf
 done
-rm ../fonts/ttf/*gasp*
 
 echo ".
 POST-PROCESSING OTF
