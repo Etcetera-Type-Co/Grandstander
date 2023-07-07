@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C_C" format="2">
+  <advance width="2255.625"/>
+  <anchor x="1227.0" y="0.0" name="caret_1"/>
+  <anchor x="1687.625" y="0.0" name="bottom"/>
+  <anchor x="1683.875" y="1292.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="1140.375" y="113.875" type="curve"/>
+      <point x="1078.75" y="217.125"/>
+      <point x="1001.5" y="337.875"/>
+      <point x="917.875" y="421.75" type="curve"/>
+      <point x="867.5" y="371.125"/>
+      <point x="790.75" y="340.0"/>
+      <point x="707.125" y="340.0" type="curve" smooth="yes"/>
+      <point x="524.75" y="340.0"/>
+      <point x="464.375" y="446.0"/>
+      <point x="464.375" y="635.125" type="curve" smooth="yes"/>
+      <point x="464.375" y="812.875"/>
+      <point x="559.0" y="972.375"/>
+      <point x="709.0" y="972.375" type="curve" smooth="yes"/>
+      <point x="821.875" y="972.375"/>
+      <point x="887.5" y="914.125"/>
+      <point x="915.625" y="887.0" type="curve"/>
+      <point x="950.5" y="931.75"/>
+      <point x="1042.125" y="1118.125"/>
+      <point x="1063.375" y="1164.25" type="curve"/>
+      <point x="967.75" y="1251.125"/>
+      <point x="835.875" y="1288.375"/>
+      <point x="678.25" y="1288.375" type="curve" smooth="yes"/>
+      <point x="293.25" y="1288.375"/>
+      <point x="30.0" y="1052.75"/>
+      <point x="30.0" y="654.0" type="curve" smooth="yes"/>
+      <point x="30.0" y="214.0"/>
+      <point x="315.5" y="-8.75"/>
+      <point x="718.25" y="-8.75" type="curve" smooth="yes"/>
+      <point x="867.75" y="-8.75"/>
+      <point x="1047.125" y="43.125"/>
+    </contour>
+    <component base="C" xOffset="1118.625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>C</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

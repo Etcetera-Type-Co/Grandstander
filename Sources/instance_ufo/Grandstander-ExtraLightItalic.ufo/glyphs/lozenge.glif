@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="545.5" y="-26.0" type="line"/>
+      <point x="725.5" y="204.0"/>
+      <point x="914.25" y="425.0"/>
+      <point x="1108.0" y="635.0" type="curve"/>
+      <point x="1030.0" y="855.0"/>
+      <point x="966.0" y="1086.0"/>
+      <point x="913.0" y="1326.0" type="curve"/>
+      <point x="677.0" y="1316.0" type="line"/>
+      <point x="486.75" y="1076.0"/>
+      <point x="302.625" y="859.5"/>
+      <point x="97.625" y="639.5" type="curve"/>
+      <point x="201.375" y="434.5"/>
+      <point x="273.0" y="208.0"/>
+      <point x="342.0" y="-17.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="421.25" y="85.0" type="line"/>
+      <point x="373.125" y="279.125"/>
+      <point x="308.875" y="460.75"/>
+      <point x="237.0" y="637.5" type="curve"/>
+      <point x="400.375" y="818.875"/>
+      <point x="568.625" y="1013.25"/>
+      <point x="718.0" y="1212.375" type="curve"/>
+      <point x="829.875" y="1222.5" type="line"/>
+      <point x="868.125" y="1021.375"/>
+      <point x="914.75" y="837.125"/>
+      <point x="977.0" y="653.375" type="curve"/>
+      <point x="815.75" y="476.625"/>
+      <point x="644.875" y="274.0"/>
+      <point x="497.125" y="78.75" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

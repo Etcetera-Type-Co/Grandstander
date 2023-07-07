@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_u" format="2">
+  <advance width="1928.375"/>
+  <anchor x="702.875" y="0.0" name="caret_1"/>
+  <anchor x="1194.8868750000001" y="-2.0" name="bottom"/>
+  <anchor x="1407.25" y="-2.0" name="ogonek"/>
+  <anchor x="1479.6131249999999" y="1061.0" name="top"/>
+  <anchor x="1813.875" y="933.25" name="topright"/>
+  <outline>
+    <contour>
+      <point x="1105.625" y="932.125" type="curve"/>
+      <point x="1186.375" y="1035.875" type="line"/>
+      <point x="1135.5" y="1059.25"/>
+      <point x="992.25" y="1066.375"/>
+      <point x="866.375" y="1066.375" type="curve" smooth="yes"/>
+      <point x="798.375" y="1066.375"/>
+      <point x="720.0" y="1063.875"/>
+      <point x="677.75" y="1061.25" type="curve"/>
+      <point x="712.75" y="1210.125"/>
+      <point x="753.5" y="1386.875"/>
+      <point x="761.5" y="1432.5" type="curve"/>
+      <point x="625.125" y="1438.25" type="line"/>
+      <point x="610.875" y="1361.75"/>
+      <point x="574.875" y="1189.875"/>
+      <point x="542.25" y="1049.875" type="curve"/>
+      <point x="442.125" y="1042.125"/>
+      <point x="229.0" y="1007.875"/>
+      <point x="166.75" y="995.375" type="curve"/>
+      <point x="162.0" y="973.5"/>
+      <point x="149.0" y="901.75"/>
+      <point x="147.375" y="876.125" type="curve"/>
+      <point x="181.25" y="884.375"/>
+      <point x="359.125" y="927.25"/>
+      <point x="516.0" y="939.125" type="curve"/>
+      <point x="367.125" y="382.25"/>
+      <point x="286.125" y="120.0"/>
+      <point x="248.5" y="4.75" type="curve"/>
+      <point x="271.5" y="4.5"/>
+      <point x="336.0" y="0.625"/>
+      <point x="367.5" y="-2.0" type="curve"/>
+      <point x="407.875" y="100.875"/>
+      <point x="510.5" y="418.0"/>
+      <point x="652.5" y="948.25" type="curve"/>
+      <point x="700.125" y="954.5"/>
+      <point x="789.0" y="958.375"/>
+      <point x="853.75" y="958.375" type="curve" smooth="yes"/>
+      <point x="966.75" y="958.375"/>
+      <point x="1049.375" y="944.875"/>
+    </contour>
+    <component base="u" xOffset="749.5" yOffset="-2.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>u</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

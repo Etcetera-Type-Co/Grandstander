@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A.ss02" format="2">
+  <advance width="1124.0"/>
+  <anchor x="450.0" y="0.0" name="bottom"/>
+  <anchor x="1064.0" y="1.0" name="ogonek"/>
+  <anchor x="830.0" y="1325.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="136.5" y="-5.0" type="curve"/>
+      <point x="165.0" y="54.0"/>
+      <point x="268.0" y="255.5"/>
+      <point x="350.5" y="394.0" type="curve"/>
+      <point x="434.5" y="404.5"/>
+      <point x="640.0" y="419.0"/>
+      <point x="734.0" y="419.5" type="curve"/>
+      <point x="736.5" y="320.0"/>
+      <point x="724.5" y="55.0"/>
+      <point x="715.5" y="0.0" type="curve"/>
+      <point x="764.0" y="4.0"/>
+      <point x="933.5" y="40.5"/>
+      <point x="969.0" y="55.0" type="curve"/>
+      <point x="1006.5" y="367.5"/>
+      <point x="945.5" y="1094.0"/>
+      <point x="829.5" y="1343.5" type="curve"/>
+      <point x="577.0" y="1105.5"/>
+      <point x="179.5" y="575.0"/>
+      <point x="-94.5" y="75.5" type="curve"/>
+      <point x="-61.0" y="56.5"/>
+      <point x="94.0" y="5.5"/>
+    </contour>
+    <contour>
+      <point x="434.5" y="553.0" type="curve"/>
+      <point x="516.5" y="684.0"/>
+      <point x="665.0" y="903.5"/>
+      <point x="720.5" y="980.5" type="curve"/>
+      <point x="737.0" y="902.0"/>
+      <point x="747.5" y="671.5"/>
+      <point x="746.5" y="576.0" type="curve"/>
+      <point x="659.0" y="574.0"/>
+      <point x="508.0" y="563.5"/>
+    </contour>
+  </outline>
+</glyph>

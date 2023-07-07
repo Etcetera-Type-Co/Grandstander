@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>1470</integer>
+    <key>capHeight</key>
+    <integer>1291</integer>
+    <key>copyright</key>
+    <string>Copyright 2020 The Grandstander Project Authors (https://github.com/Etcetera-Type-Co/Grandstander)</string>
+    <key>descender</key>
+    <integer>-530</integer>
+    <key>familyName</key>
+    <string>Grandstander</string>
+    <key>italicAngle</key>
+    <integer>-15</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2020/07/21 14:10:07</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1465</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-530</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>A playful, fun, friendly typeface that merges the best handmade elements with smooth, precise forms.</string>
+    <key>openTypeNameDesigner</key>
+    <string>Tyler Finck</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://www.tyfromtheinternet.com</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Etcetera Type Co</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://www.etceteratype.co</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1465</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-530</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>ETCO</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>100</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>2395</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>915</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-52</integer>
+      <integer>0</integer>
+      <integer>1063</integer>
+      <integer>1078</integer>
+      <integer>1291</integer>
+      <integer>1321</integer>
+      <integer>1470</integer>
+      <integer>1486</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-561</integer>
+      <integer>-530</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Grandstander Thin</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
+    <key>styleName</key>
+    <string>Thin Italic</string>
+    <key>unitsPerEm</key>
+    <integer>2000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>300</integer>
+    <key>xHeight</key>
+    <integer>1063</integer>
+  </dict>
+</plist>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="564.0"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="244.75" y="-9.25" type="curve" smooth="yes"/>
+      <point x="323.75" y="-9.25"/>
+      <point x="388.25" y="43.75"/>
+      <point x="388.25" y="117.75" type="curve" smooth="yes"/>
+      <point x="388.25" y="195.0"/>
+      <point x="330.25" y="261.25"/>
+      <point x="242.75" y="261.25" type="curve" smooth="yes"/>
+      <point x="162.25" y="261.25"/>
+      <point x="93.5" y="194.0"/>
+      <point x="93.5" y="118.0" type="curve" smooth="yes"/>
+      <point x="93.5" y="45.5"/>
+      <point x="166.5" y="-9.25"/>
+    </contour>
+    <component base="period" xOffset="20.25" yOffset="743.75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

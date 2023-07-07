@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icircumflex" format="2">
+  <advance width="578.5"/>
+  <unicode hex="00CE"/>
+  <anchor x="297.5" y="0.0" name="bottom"/>
+  <anchor x="432.0" y="-18.0" name="ogonek"/>
+  <anchor x="297.5" y="1731.0" name="top"/>
+  <anchor x="50.25" y="1291.0" name="topleft"/>
+  <outline>
+    <component base="I"/>
+    <component base="circumflexcomb.case" xOffset="-148.75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="1048"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="989" y="744" type="curve"/>
+      <point x="989" y="852"/>
+      <point x="978" y="962"/>
+      <point x="973" y="1001" type="curve"/>
+      <point x="785" y="1001"/>
+      <point x="254" y="967"/>
+      <point x="44" y="931" type="curve"/>
+      <point x="44" y="857"/>
+      <point x="52" y="787"/>
+      <point x="64" y="710" type="curve"/>
+      <point x="347" y="731"/>
+      <point x="827" y="744"/>
+    </contour>
+    <component base="bar" xOffset="294"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

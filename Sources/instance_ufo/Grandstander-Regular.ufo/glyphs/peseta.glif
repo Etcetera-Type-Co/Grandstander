@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="1040.0"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="997.375" y="832.0" type="curve"/>
+      <point x="998.125" y="853.75"/>
+      <point x="998.25" y="915.125"/>
+      <point x="997.0" y="928.125" type="curve"/>
+      <point x="827.75" y="928.125"/>
+      <point x="173.75" y="915.125"/>
+      <point x="65.5" y="908.25" type="curve"/>
+      <point x="59.875" y="893.625"/>
+      <point x="54.25" y="856.5"/>
+      <point x="54.25" y="828.625" type="curve"/>
+      <point x="261.875" y="828.0"/>
+      <point x="828.875" y="832.0"/>
+    </contour>
+    <component base="pescomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

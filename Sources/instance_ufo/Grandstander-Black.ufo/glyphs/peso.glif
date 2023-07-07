@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="1060"/>
+  <unicode hex="20B1"/>
+  <outline>
+    <contour>
+      <point x="-24" y="947" type="curve"/>
+      <point x="-17" y="804" type="line"/>
+      <point x="135" y="807"/>
+      <point x="756" y="824"/>
+      <point x="1093" y="853" type="curve"/>
+      <point x="1084" y="1024" type="line"/>
+      <point x="719" y="989"/>
+      <point x="128" y="950"/>
+    </contour>
+    <contour>
+      <point x="4" y="739" type="curve"/>
+      <point x="-5" y="612" type="line"/>
+      <point x="160" y="622"/>
+      <point x="745" y="631"/>
+      <point x="1103" y="631" type="curve"/>
+      <point x="1100" y="779" type="line"/>
+      <point x="739" y="779"/>
+      <point x="165" y="748"/>
+    </contour>
+    <component base="pescomb" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

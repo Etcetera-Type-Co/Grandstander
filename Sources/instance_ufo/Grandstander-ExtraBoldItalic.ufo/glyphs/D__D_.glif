@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D_D" format="2">
+  <advance width="2287.0"/>
+  <anchor x="1073.5" y="0.0" name="caret_1"/>
+  <anchor x="456.585" y="0.0" name="bottom"/>
+  <anchor x="361.625" y="646.0" name="center"/>
+  <anchor x="716.0" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1206.75" y="-51.875" type="curve"/>
+      <point x="1942.0" y="-49.375"/>
+      <point x="2282.375" y="171.0"/>
+      <point x="2282.375" y="885.75" type="curve" smooth="yes"/>
+      <point x="2282.375" y="1156.375"/>
+      <point x="2154.25" y="1362.25"/>
+      <point x="1834.5" y="1362.25" type="curve" smooth="yes"/>
+      <point x="1737.625" y="1362.25"/>
+      <point x="1597.0" y="1354.25"/>
+      <point x="1459.875" y="1338.125" type="curve"/>
+      <point x="1436.25" y="1221.25"/>
+      <point x="1235.25" y="173.375"/>
+    </contour>
+    <contour>
+      <point x="1714.625" y="1056.625" type="curve"/>
+      <point x="1731.5" y="1059.875"/>
+      <point x="1782.0" y="1068.25"/>
+      <point x="1816.625" y="1068.25" type="curve" smooth="yes"/>
+      <point x="1920.375" y="1068.25"/>
+      <point x="1957.75" y="956.625"/>
+      <point x="1957.75" y="843.375" type="curve" smooth="yes"/>
+      <point x="1957.75" y="591.5"/>
+      <point x="1854.5" y="342.875"/>
+      <point x="1631.25" y="315.75" type="curve"/>
+      <point x="1660.375" y="561.375"/>
+      <point x="1688.5" y="811.0"/>
+    </contour>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>D</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

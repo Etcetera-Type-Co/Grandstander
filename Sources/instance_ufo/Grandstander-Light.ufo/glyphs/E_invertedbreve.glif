@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Einvertedbreve" format="2">
+  <advance width="957.0"/>
+  <unicode hex="0206"/>
+  <anchor x="484.0" y="0.0" name="bottom"/>
+  <anchor x="689.25" y="0.75" name="ogonek"/>
+  <anchor x="484.0" y="1718.0" name="top"/>
+  <anchor x="25.0" y="1291.0" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="breveinvertedcomb.case" xOffset="64.0" yOffset="22.5"/>
+  </outline>
+</glyph>

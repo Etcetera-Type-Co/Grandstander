@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="1026.0"/>
+  <unicode hex="00A2"/>
+  <anchor x="389.875" y="119.125" name="bottom"/>
+  <anchor x="638.280625" y="1182.125" name="top"/>
+  <outline>
+    <contour>
+      <point x="774.75" y="1318.0" type="curve"/>
+      <point x="654.25" y="991.875"/>
+      <point x="367.125" y="365.625"/>
+      <point x="178.25" y="15.875" type="curve"/>
+      <point x="205.875" y="0.125"/>
+      <point x="254.5" y="-12.625"/>
+      <point x="298.125" y="-17.0" type="curve"/>
+      <point x="428.125" y="211.375"/>
+      <point x="756.375" y="939.5"/>
+      <point x="881.75" y="1303.375" type="curve"/>
+      <point x="867.75" y="1311.0"/>
+      <point x="811.0" y="1318.0"/>
+    </contour>
+    <component base="c" xOffset="-10.625" yOffset="119.125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

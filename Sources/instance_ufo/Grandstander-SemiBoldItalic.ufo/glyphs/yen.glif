@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="2">
+  <advance width="1065.0"/>
+  <unicode hex="00A5"/>
+  <anchor x="405.75" y="0.0" name="bottom"/>
+  <anchor x="751.75" y="1291.0" name="top"/>
+  <anchor x="238.75" y="1291.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="124.125" y="496.0" type="curve"/>
+      <point x="225.5" y="498.375"/>
+      <point x="860.125" y="507.375"/>
+      <point x="954.125" y="507.375" type="curve"/>
+      <point x="966.875" y="555.5"/>
+      <point x="976.375" y="623.875"/>
+      <point x="982.625" y="683.125" type="curve"/>
+      <point x="901.375" y="693.125"/>
+      <point x="777.25" y="697.75"/>
+      <point x="638.875" y="697.75" type="curve" smooth="yes"/>
+      <point x="476.125" y="697.75"/>
+      <point x="339.125" y="692.75"/>
+      <point x="195.0" y="682.125" type="curve"/>
+      <point x="181.25" y="653.25"/>
+      <point x="142.0" y="561.75"/>
+    </contour>
+    <contour>
+      <point x="883.0" y="227.5" type="curve"/>
+      <point x="900.25" y="287.0"/>
+      <point x="911.0" y="366.25"/>
+      <point x="914.0" y="398.75" type="curve"/>
+      <point x="825.875" y="405.125"/>
+      <point x="698.75" y="409.25"/>
+      <point x="568.625" y="409.25" type="curve" smooth="yes"/>
+      <point x="384.375" y="409.25"/>
+      <point x="229.125" y="404.125"/>
+      <point x="103.375" y="395.375" type="curve"/>
+      <point x="78.875" y="342.375"/>
+      <point x="56.875" y="291.125"/>
+      <point x="41.625" y="234.25" type="curve"/>
+      <point x="136.0" y="235.0"/>
+      <point x="773.75" y="229.375"/>
+    </contour>
+    <component base="Y" xOffset="-5.25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

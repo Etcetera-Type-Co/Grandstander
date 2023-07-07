@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcircumflex" format="2">
+  <advance width="1123.0"/>
+  <unicode hex="0125"/>
+  <anchor x="565.75" y="0.0" name="bottom"/>
+  <anchor x="336.125" y="1236.5" name="center"/>
+  <anchor x="207.0" y="1816.375" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="circumflexcomb.case" xOffset="-235.125" yOffset="124.375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>h</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

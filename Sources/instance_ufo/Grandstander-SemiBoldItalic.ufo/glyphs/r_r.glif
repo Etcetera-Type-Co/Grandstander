@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r_r" format="2">
+  <advance width="1740.375"/>
+  <anchor x="748.25" y="0.0" name="caret_1"/>
+  <anchor x="1178.4693750000001" y="0.0" name="bottom"/>
+  <anchor x="1462.7806249999999" y="1063.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="431.5" y="877.0" type="curve"/>
+      <point x="432.0" y="909.125"/>
+      <point x="428.0" y="975.125"/>
+      <point x="423.125" y="1018.75" type="curve"/>
+      <point x="396.75" y="1012.875"/>
+      <point x="243.75" y="969.125"/>
+      <point x="157.375" y="932.75" type="curve"/>
+      <point x="167.5" y="715.25"/>
+      <point x="165.5" y="221.25"/>
+      <point x="165.5" y="7.0" type="curve"/>
+      <point x="225.375" y="11.125"/>
+      <point x="394.375" y="28.125"/>
+      <point x="451.875" y="38.875" type="curve"/>
+      <point x="455.0" y="137.375"/>
+      <point x="464.125" y="502.0"/>
+      <point x="460.375" y="629.5" type="curve"/>
+      <point x="529.625" y="725.875"/>
+      <point x="630.0" y="805.125"/>
+      <point x="759.5" y="805.125" type="curve" smooth="yes"/>
+      <point x="793.875" y="805.125"/>
+      <point x="853.875" y="800.25"/>
+      <point x="871.25" y="797.0" type="curve"/>
+      <point x="892.375" y="879.375"/>
+      <point x="923.125" y="1017.875"/>
+      <point x="935.375" y="1080.5" type="curve"/>
+      <point x="920.875" y="1085.625"/>
+      <point x="877.5" y="1092.75"/>
+      <point x="832.0" y="1092.75" type="curve" smooth="yes"/>
+      <point x="679.75" y="1092.75"/>
+      <point x="521.375" y="1017.875"/>
+    </contour>
+    <component base="r" xOffset="887.375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>r</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

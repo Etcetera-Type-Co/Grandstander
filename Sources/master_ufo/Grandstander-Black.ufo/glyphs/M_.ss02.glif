@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.ss02" format="2">
+  <advance width="1492"/>
+  <anchor x="672" y="0" name="bottom"/>
+  <anchor x="1012" y="1291" name="top"/>
+  <outline>
+    <contour>
+      <point x="-58" y="37" type="curve"/>
+      <point x="-4" y="21"/>
+      <point x="298" y="-11"/>
+      <point x="348" y="-8" type="curve"/>
+      <point x="353" y="12"/>
+      <point x="453" y="319"/>
+      <point x="562" y="627" type="curve"/>
+      <point x="590" y="591"/>
+      <point x="681" y="336"/>
+      <point x="700" y="274" type="curve"/>
+      <point x="758" y="344"/>
+      <point x="917" y="522"/>
+      <point x="993" y="591" type="curve"/>
+      <point x="982" y="498"/>
+      <point x="918" y="78"/>
+      <point x="895" y="-6" type="curve"/>
+      <point x="966" y="-11"/>
+      <point x="1191" y="10"/>
+      <point x="1291" y="34" type="curve"/>
+      <point x="1420" y="666"/>
+      <point x="1382" y="1238"/>
+      <point x="1345" y="1334" type="curve"/>
+      <point x="1243" y="1266"/>
+      <point x="981" y="993"/>
+      <point x="875" y="870" type="curve"/>
+      <point x="839" y="1000"/>
+      <point x="679" y="1283"/>
+      <point x="588" y="1351" type="curve"/>
+      <point x="490" y="1240"/>
+      <point x="190" y="687"/>
+    </contour>
+  </outline>
+</glyph>

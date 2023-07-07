@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z.ss02" format="2">
+  <advance width="1074.0"/>
+  <anchor x="372.5" y="-8.25" name="bottom"/>
+  <anchor x="537.0" y="532.0" name="center"/>
+  <anchor x="698.25" y="1063.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="837.75" y="3.25" type="curve"/>
+      <point x="853.75" y="37.75"/>
+      <point x="916.5" y="249.25"/>
+      <point x="924.0" y="276.5" type="curve"/>
+      <point x="841.75" y="269.0"/>
+      <point x="725.0" y="263.0"/>
+      <point x="639.75" y="263.0" type="curve" smooth="yes"/>
+      <point x="552.25" y="263.0"/>
+      <point x="435.0" y="264.75"/>
+      <point x="399.25" y="270.0" type="curve"/>
+      <point x="514.5" y="384.5"/>
+      <point x="974.0" y="831.0"/>
+      <point x="1124.25" y="983.0" type="curve"/>
+      <point x="1031.5" y="1012.25"/>
+      <point x="771.25" y="1058.5"/>
+      <point x="234.75" y="1058.5" type="curve"/>
+      <point x="157.25" y="816.5" type="line"/>
+      <point x="189.75" y="815.75"/>
+      <point x="255.0" y="814.75"/>
+      <point x="308.25" y="812.25" type="curve" smooth="yes"/>
+      <point x="416.0" y="810.0"/>
+      <point x="560.0" y="809.0"/>
+      <point x="608.5" y="810.5" type="curve"/>
+      <point x="418.25" y="618.25"/>
+      <point x="21.75" y="197.0"/>
+      <point x="-110.25" y="24.5" type="curve"/>
+      <point x="-4.0" y="7.0"/>
+      <point x="214.0" y="-9.0"/>
+      <point x="392.0" y="-9.0" type="curve" smooth="yes"/>
+      <point x="564.0" y="-9.0"/>
+      <point x="731.0" y="-3.25"/>
+    </contour>
+  </outline>
+</glyph>

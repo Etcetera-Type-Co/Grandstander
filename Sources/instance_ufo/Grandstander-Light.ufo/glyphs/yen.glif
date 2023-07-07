@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="2">
+  <advance width="1065.0"/>
+  <unicode hex="00A5"/>
+  <anchor x="598.0" y="0.0" name="bottom"/>
+  <anchor x="598.0" y="1291.0" name="top"/>
+  <anchor x="85.0" y="1291.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="177.0" y="484.0" type="curve"/>
+      <point x="290.0" y="486.75"/>
+      <point x="864.25" y="495.75"/>
+      <point x="958.25" y="495.75" type="curve"/>
+      <point x="958.25" y="524.0"/>
+      <point x="954.5" y="562.75"/>
+      <point x="945.5" y="600.25" type="curve"/>
+      <point x="868.25" y="610.25"/>
+      <point x="750.75" y="614.5"/>
+      <point x="621.0" y="614.5" type="curve" smooth="yes"/>
+      <point x="445.5" y="614.5"/>
+      <point x="337.5" y="609.5"/>
+      <point x="194.5" y="599.25" type="curve"/>
+      <point x="189.0" y="577.5"/>
+      <point x="177.75" y="520.5"/>
+    </contour>
+    <contour>
+      <point x="961.25" y="262.0" type="curve"/>
+      <point x="963.5" y="293.0"/>
+      <point x="960.25" y="335.5"/>
+      <point x="958.25" y="366.5" type="curve"/>
+      <point x="882.75" y="370.25"/>
+      <point x="781.0" y="372.5"/>
+      <point x="673.75" y="372.5" type="curve" smooth="yes"/>
+      <point x="472.25" y="372.5"/>
+      <point x="330.25" y="369.25"/>
+      <point x="179.5" y="359.75" type="curve"/>
+      <point x="171.25" y="327.75"/>
+      <point x="165.0" y="292.25"/>
+      <point x="165.0" y="260.5" type="curve"/>
+      <point x="259.0" y="262.0"/>
+      <point x="858.5" y="262.75"/>
+    </contour>
+    <component base="Y" xOffset="22.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

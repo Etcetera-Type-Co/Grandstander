@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e_e" format="2">
+  <advance width="2115.25"/>
+  <anchor x="1058.5" y="0.0" name="caret_1"/>
+  <anchor x="1568.0" y="10.0" name="bottom"/>
+  <anchor x="1766.25" y="23.75" name="ogonek"/>
+  <anchor x="1613.25" y="1064.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="568.25" y="28.5" type="curve" smooth="yes"/>
+      <point x="695.75" y="28.5"/>
+      <point x="864.0" y="62.25"/>
+      <point x="955.25" y="132.0" type="curve"/>
+      <point x="927.25" y="190.5"/>
+      <point x="850.0" y="335.25"/>
+      <point x="833.0" y="357.0" type="curve"/>
+      <point x="790.25" y="325.75"/>
+      <point x="667.0" y="283.0"/>
+      <point x="533.75" y="283.0" type="curve" smooth="yes"/>
+      <point x="420.25" y="283.0"/>
+      <point x="334.0" y="351.75"/>
+      <point x="332.25" y="453.5" type="curve"/>
+      <point x="417.75" y="456.0"/>
+      <point x="801.5" y="469.75"/>
+      <point x="947.25" y="478.75" type="curve"/>
+      <point x="952.0" y="518.25"/>
+      <point x="953.5" y="556.75"/>
+      <point x="952.75" y="593.25" type="curve" smooth="yes"/>
+      <point x="943.0" y="840.75"/>
+      <point x="827.0" y="1010.0"/>
+      <point x="562.0" y="1010.0" type="curve" smooth="yes"/>
+      <point x="269.0" y="1010.0"/>
+      <point x="59.5" y="795.75"/>
+      <point x="59.5" y="491.75" type="curve" smooth="yes"/>
+      <point x="59.5" y="193.75"/>
+      <point x="260.5" y="28.5"/>
+    </contour>
+    <contour>
+      <point x="342.5" y="631.75" type="curve"/>
+      <point x="346.25" y="723.25"/>
+      <point x="391.75" y="839.5"/>
+      <point x="551.25" y="839.5" type="curve" smooth="yes"/>
+      <point x="665.25" y="839.5"/>
+      <point x="704.75" y="774.0"/>
+      <point x="711.0" y="712.5" type="curve" smooth="yes"/>
+      <point x="714.5" y="692.25"/>
+      <point x="714.75" y="674.5"/>
+      <point x="714.0" y="663.75" type="curve"/>
+      <point x="622.75" y="658.5"/>
+      <point x="446.25" y="641.5"/>
+    </contour>
+    <component base="e" xOffset="1000.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

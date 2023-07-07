@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokelongcomb" format="2">
+  <unicode hex="0336"/>
+  <anchor x="532.5" y="574.5" name="_center"/>
+  <outline>
+    <contour>
+      <point x="961.25" y="541.0" type="curve"/>
+      <point x="973.75" y="586.0"/>
+      <point x="983.0" y="634.5"/>
+      <point x="984.25" y="649.5" type="curve"/>
+      <point x="792.5" y="649.5"/>
+      <point x="246.75" y="619.25"/>
+      <point x="121.5" y="601.25" type="curve"/>
+      <point x="109.75" y="576.0"/>
+      <point x="99.75" y="538.25"/>
+      <point x="94.5" y="508.5" type="curve"/>
+      <point x="342.75" y="525.0"/>
+      <point x="749.25" y="541.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1079</integer>
+    </dict>
+  </lib>
+</glyph>

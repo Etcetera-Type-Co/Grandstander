@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="1544.0"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="767.0" y="-43.5" type="curve" smooth="yes"/>
+      <point x="879.5" y="-43.5"/>
+      <point x="983.0" y="20.25"/>
+      <point x="983.0" y="138.0" type="curve" smooth="yes"/>
+      <point x="983.0" y="268.5"/>
+      <point x="902.75" y="363.0"/>
+      <point x="779.75" y="363.0" type="curve" smooth="yes"/>
+      <point x="665.75" y="363.0"/>
+      <point x="567.0" y="256.5"/>
+      <point x="567.0" y="134.75" type="curve" smooth="yes"/>
+      <point x="567.0" y="22.25"/>
+      <point x="654.0" y="-43.5"/>
+    </contour>
+    <contour>
+      <point x="1288.75" y="-17.5" type="curve" smooth="yes"/>
+      <point x="1459.5" y="-17.5"/>
+      <point x="1492.25" y="81.0"/>
+      <point x="1492.25" y="175.0" type="curve" smooth="yes"/>
+      <point x="1492.25" y="262.25"/>
+      <point x="1415.5" y="330.5"/>
+      <point x="1313.0" y="330.5" type="curve" smooth="yes"/>
+      <point x="1197.5" y="330.5"/>
+      <point x="1108.25" y="260.0"/>
+      <point x="1108.25" y="161.5" type="curve" smooth="yes"/>
+      <point x="1108.25" y="73.5"/>
+      <point x="1156.0" y="-17.5"/>
+    </contour>
+    <component base="period"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

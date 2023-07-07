@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
+  <unicode hex="030B"/>
+  <anchor x="735.875" y="1063.0" name="_top"/>
+  <anchor x="898.0" y="1618.125" name="top"/>
+  <outline>
+    <contour>
+      <point x="727.375" y="1618.125" type="curve"/>
+      <point x="620.375" y="1560.125"/>
+      <point x="431.375" y="1402.875"/>
+      <point x="357.5" y="1304.25" type="curve"/>
+      <point x="531.875" y="1227.125" type="line"/>
+      <point x="688.375" y="1352.375"/>
+      <point x="804.5" y="1426.375"/>
+      <point x="954.625" y="1513.0" type="curve"/>
+      <point x="927.125" y="1543.625"/>
+      <point x="831.125" y="1617.875"/>
+    </contour>
+    <contour>
+      <point x="1150.5" y="1535.0" type="curve"/>
+      <point x="1063.625" y="1510.0"/>
+      <point x="826.5" y="1368.75"/>
+      <point x="730.5" y="1278.75" type="curve"/>
+      <point x="884.125" y="1185.875" type="line"/>
+      <point x="943.625" y="1225.0"/>
+      <point x="1148.75" y="1329.875"/>
+      <point x="1308.25" y="1392.375" type="curve"/>
+      <point x="1300.0" y="1426.125"/>
+      <point x="1233.5" y="1508.625"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1207</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron.ss01" format="2">
+  <advance width="621"/>
+  <anchor x="140" y="0" name="bottom"/>
+  <anchor x="337" y="735" name="center"/>
+  <anchor x="533" y="1470" name="top"/>
+  <anchor x="537" y="1063" name="topright"/>
+  <outline>
+    <component base="l.ss01"/>
+    <component base="caroncomb.alt" xOffset="325"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l.ss01</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

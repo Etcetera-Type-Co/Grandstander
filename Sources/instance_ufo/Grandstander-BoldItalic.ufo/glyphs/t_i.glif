@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_i" format="2">
+  <advance width="1438.25"/>
+  <anchor x="664.5" y="0.0" name="caret_1"/>
+  <anchor x="991.25" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="134.25" y="-2.0" type="curve"/>
+      <point x="408.75" y="-0.5" type="line"/>
+      <point x="449.5" y="117.5"/>
+      <point x="520.75" y="373.0"/>
+      <point x="584.5" y="629.75" type="curve"/>
+      <point x="738.75" y="637.0"/>
+      <point x="1019.25" y="635.0"/>
+      <point x="1132.75" y="632.75" type="curve"/>
+      <point x="1380.25" y="926.0" type="line"/>
+      <point x="1160.25" y="926.0"/>
+      <point x="813.5" y="911.25"/>
+      <point x="663.0" y="894.75" type="curve"/>
+      <point x="690.5" y="985.0"/>
+      <point x="760.0" y="1201.25"/>
+      <point x="797.5" y="1321.75" type="curve"/>
+      <point x="670.75" y="1322.75"/>
+      <point x="558.25" y="1310.25"/>
+      <point x="495.5" y="1303.5" type="curve"/>
+      <point x="466.0" y="1205.75"/>
+      <point x="406.75" y="1013.25"/>
+      <point x="365.75" y="864.25" type="curve"/>
+      <point x="273.5" y="854.0"/>
+      <point x="139.5" y="830.5"/>
+      <point x="100.0" y="821.0" type="curve"/>
+      <point x="80.0" y="771.75"/>
+      <point x="42.0" y="666.0"/>
+      <point x="17.5" y="573.5" type="curve"/>
+      <point x="49.75" y="576.5"/>
+      <point x="193.5" y="591.75"/>
+      <point x="290.75" y="608.0" type="curve"/>
+      <point x="230.0" y="348.25"/>
+      <point x="153.25" y="61.75"/>
+    </contour>
+    <component base="i" xOffset="828.25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>i</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

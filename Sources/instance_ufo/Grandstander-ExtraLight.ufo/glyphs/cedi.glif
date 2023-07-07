@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance width="1137.0"/>
+  <unicode hex="20B5"/>
+  <anchor x="569.0" y="0.0" name="bottom"/>
+  <anchor x="542.75" y="1299.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="817.5" y="1473.25" type="curve"/>
+      <point x="647.25" y="950.875"/>
+      <point x="411.25" y="255.75"/>
+      <point x="254.125" y="-115.875" type="curve"/>
+      <point x="270.125" y="-125.75"/>
+      <point x="320.25" y="-144.25"/>
+      <point x="341.625" y="-150.75" type="curve"/>
+      <point x="469.0" y="152.375"/>
+      <point x="705.875" y="827.75"/>
+      <point x="912.125" y="1431.375" type="curve"/>
+      <point x="901.625" y="1439.75"/>
+      <point x="835.5" y="1466.875"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

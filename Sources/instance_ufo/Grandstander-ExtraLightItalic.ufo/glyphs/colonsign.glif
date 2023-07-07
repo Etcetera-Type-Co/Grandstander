@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign" format="2">
+  <advance width="1137.0"/>
+  <unicode hex="20A1"/>
+  <anchor x="400.698125" y="0.0" name="bottom"/>
+  <anchor x="746.688375" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1108.125" y="1480.625" type="line"/>
+      <point x="1059.375" y="1419.5"/>
+      <point x="999.125" y="1346.625"/>
+      <point x="942.375" y="1285.75" type="curve"/>
+      <point x="1020.75" y="1235.0" type="line"/>
+      <point x="1070.75" y="1294.0"/>
+      <point x="1135.125" y="1381.0"/>
+      <point x="1181.75" y="1450.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1266.75" y="1437.0" type="line"/>
+      <point x="1204.0" y="1346.375"/>
+      <point x="1141.75" y="1263.375"/>
+      <point x="1067.75" y="1186.0" type="curve"/>
+      <point x="1135.875" y="1128.25" type="line"/>
+      <point x="1208.0" y="1209.125"/>
+      <point x="1271.125" y="1303.25"/>
+      <point x="1322.0" y="1382.5" type="curve"/>
+    </contour>
+    <contour>
+      <point x="211.0" y="175.875" type="line"/>
+      <point x="161.875" y="114.875"/>
+      <point x="70.25" y="12.875"/>
+      <point x="11.375" y="-48.125" type="curve"/>
+      <point x="87.25" y="-109.125" type="line"/>
+      <point x="137.25" y="-49.875"/>
+      <point x="229.875" y="66.625"/>
+      <point x="282.875" y="136.625" type="curve"/>
+    </contour>
+    <contour>
+      <point x="323.125" y="75.0" type="line"/>
+      <point x="259.25" y="-16.0"/>
+      <point x="212.25" y="-79.0"/>
+      <point x="149.125" y="-156.0" type="curve"/>
+      <point x="222.875" y="-207.25" type="line"/>
+      <point x="284.875" y="-125.25"/>
+      <point x="346.0" y="-38.25"/>
+      <point x="398.75" y="43.75" type="curve"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPPC</string>
+    </dict>
+  </lib>
+</glyph>

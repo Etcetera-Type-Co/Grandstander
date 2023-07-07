@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevegrave" format="2">
+  <advance width="1295.0"/>
+  <unicode hex="1EB1"/>
+  <anchor x="610.0" y="0.0" name="bottom"/>
+  <anchor x="1168.0" y="3.5" name="ogonek"/>
+  <anchor x="609.8785" y="1826.4299999999998" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb_gravecomb" xOffset="199.0" yOffset="212.0"/>
+  </outline>
+</glyph>

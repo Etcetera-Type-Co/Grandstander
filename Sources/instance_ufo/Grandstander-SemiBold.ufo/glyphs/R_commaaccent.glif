@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rcommaaccent" format="2">
+  <advance width="1094.0"/>
+  <unicode hex="0156"/>
+  <anchor x="547.375" y="-522.5" name="bottom"/>
+  <anchor x="498.375" y="1325.75" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="commaaccentcomb.case" xOffset="344.75"/>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash" format="2">
+  <advance width="725"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="718" y="-40" type="curve"/>
+      <point x="578" y="141"/>
+      <point x="150" y="1311"/>
+      <point x="106" y="1468" type="curve"/>
+      <point x="87" y="1468"/>
+      <point x="46" y="1458"/>
+      <point x="36" y="1454" type="curve"/>
+      <point x="205" y="913"/>
+      <point x="413" y="381"/>
+      <point x="646" y="-77" type="curve"/>
+      <point x="659" y="-73"/>
+      <point x="702" y="-55"/>
+    </contour>
+  </outline>
+</glyph>

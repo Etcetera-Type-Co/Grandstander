@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae" format="2">
+  <advance width="1788.25"/>
+  <unicode hex="00E6"/>
+  <anchor x="727.0" y="0.0" name="bottom"/>
+  <anchor x="1022.5" y="1063.0" name="top"/>
+  <anchor x="1380.0" y="44.25" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="382.5" y="12.0" type="curve" smooth="yes"/>
+      <point x="627.75" y="12.0"/>
+      <point x="890.5" y="175.0"/>
+      <point x="939.75" y="391.5" type="curve" smooth="yes"/>
+      <point x="976.0" y="560.25"/>
+      <point x="998.5" y="682.5"/>
+      <point x="998.5" y="776.0" type="curve" smooth="yes"/>
+      <point x="998.5" y="985.75"/>
+      <point x="864.0" y="1107.5"/>
+      <point x="652.5" y="1107.5" type="curve" smooth="yes"/>
+      <point x="437.5" y="1107.5"/>
+      <point x="250.5" y="993.25"/>
+      <point x="154.0" y="886.75" type="curve"/>
+      <point x="248.75" y="786.25" type="line"/>
+      <point x="324.75" y="888.0"/>
+      <point x="464.25" y="969.75"/>
+      <point x="619.75" y="969.75" type="curve" smooth="yes"/>
+      <point x="777.75" y="969.75"/>
+      <point x="843.25" y="884.75"/>
+      <point x="843.25" y="742.0" type="curve" smooth="yes"/>
+      <point x="843.25" y="713.25"/>
+      <point x="840.5" y="682.0"/>
+      <point x="835.75" y="649.25" type="curve"/>
+      <point x="807.75" y="662.75"/>
+      <point x="618.75" y="690.0"/>
+      <point x="532.0" y="690.0" type="curve" smooth="yes"/>
+      <point x="269.5" y="690.0"/>
+      <point x="21.0" y="551.75"/>
+      <point x="21.0" y="292.5" type="curve" smooth="yes"/>
+      <point x="21.0" y="98.75"/>
+      <point x="182.25" y="12.0"/>
+    </contour>
+    <contour>
+      <point x="386.5" y="138.5" type="curve" smooth="yes"/>
+      <point x="272.25" y="138.5"/>
+      <point x="178.25" y="180.25"/>
+      <point x="178.25" y="300.75" type="curve" smooth="yes"/>
+      <point x="178.25" y="468.0"/>
+      <point x="347.5" y="569.75"/>
+      <point x="516.25" y="569.75" type="curve" smooth="yes"/>
+      <point x="632.5" y="569.75"/>
+      <point x="775.0" y="545.75"/>
+      <point x="814.0" y="533.25" type="curve"/>
+      <point x="807.75" y="486.25"/>
+      <point x="796.0" y="417.5"/>
+      <point x="784.5" y="373.0" type="curve" smooth="yes"/>
+      <point x="759.25" y="274.0"/>
+      <point x="590.5" y="138.5"/>
+    </contour>
+    <component base="e" xOffset="751.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

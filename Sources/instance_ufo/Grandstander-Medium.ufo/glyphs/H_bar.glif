@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="1094.0"/>
+  <unicode hex="0126"/>
+  <anchor x="547.0" y="0.0" name="bottom"/>
+  <anchor x="521.5" y="1063.0" name="center"/>
+  <anchor x="547.0" y="1291.0" name="top"/>
+  <anchor x="20.0" y="1291.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="1051.0" y="964.0" type="curve"/>
+      <point x="1051.0" y="1023.0"/>
+      <point x="1044.5" y="1097.5"/>
+      <point x="1040.5" y="1118.0" type="curve"/>
+      <point x="847.5" y="1118.0"/>
+      <point x="126.5" y="1107.0"/>
+      <point x="-3.0" y="1081.5" type="curve"/>
+      <point x="-6.5" y="1045.0"/>
+      <point x="-4.0" y="992.5"/>
+      <point x="2.0" y="948.0" type="curve"/>
+      <point x="268.5" y="957.5"/>
+      <point x="853.0" y="964.0"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

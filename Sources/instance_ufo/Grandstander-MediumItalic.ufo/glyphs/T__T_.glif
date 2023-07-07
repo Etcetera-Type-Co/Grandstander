@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T_T" format="2">
+  <advance width="1964.0"/>
+  <anchor x="905.0" y="0.0" name="caret_1"/>
+  <anchor x="400.0" y="0.0" name="bottom"/>
+  <anchor x="550.8399999999999" y="646.0" name="center"/>
+  <anchor x="723.507" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1163.0" y="1065.5" type="curve"/>
+      <point x="1216.0" y="1063.0"/>
+      <point x="1377.5" y="1064.0"/>
+      <point x="1461.0" y="1064.0" type="curve"/>
+      <point x="1397.5" y="872.0"/>
+      <point x="1233.5" y="320.5"/>
+      <point x="1151.0" y="17.5" type="curve"/>
+      <point x="1193.5" y="11.5"/>
+      <point x="1348.5" y="7.5"/>
+      <point x="1409.0" y="9.0" type="curve"/>
+      <point x="1422.0" y="73.5"/>
+      <point x="1642.5" y="882.0"/>
+      <point x="1690.5" y="1053.5" type="curve"/>
+      <point x="1777.0" y="1053.5"/>
+      <point x="1997.0" y="1031.5"/>
+      <point x="2022.5" y="1025.0" type="curve"/>
+      <point x="2043.5" y="1064.5"/>
+      <point x="2080.5" y="1156.0"/>
+      <point x="2109.0" y="1244.5" type="curve"/>
+      <point x="2001.0" y="1263.5"/>
+      <point x="1585.0" y="1278.0"/>
+      <point x="1227.0" y="1278.0" type="curve"/>
+      <point x="1219.0" y="1251.0"/>
+      <point x="1175.0" y="1116.0"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>T</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

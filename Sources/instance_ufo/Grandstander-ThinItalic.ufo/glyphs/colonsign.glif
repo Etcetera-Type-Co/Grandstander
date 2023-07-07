@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign" format="2">
+  <advance width="1137"/>
+  <unicode hex="20A1"/>
+  <anchor x="397" y="0" name="bottom"/>
+  <anchor x="743" y="1291" name="top"/>
+  <outline>
+    <contour>
+      <point x="1125" y="1479" type="line"/>
+      <point x="1075" y="1418"/>
+      <point x="1015" y="1346"/>
+      <point x="957" y="1285" type="curve"/>
+      <point x="1022" y="1235" type="line"/>
+      <point x="1072" y="1294"/>
+      <point x="1136" y="1381"/>
+      <point x="1183" y="1450" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1268" y="1437" type="line"/>
+      <point x="1205" y="1346"/>
+      <point x="1143" y="1263"/>
+      <point x="1069" y="1186" type="curve"/>
+      <point x="1129" y="1136" type="line"/>
+      <point x="1201" y="1218"/>
+      <point x="1259" y="1305"/>
+      <point x="1313" y="1387" type="curve"/>
+    </contour>
+    <contour>
+      <point x="220" y="167" type="line"/>
+      <point x="171" y="106"/>
+      <point x="80" y="4"/>
+      <point x="21" y="-57" type="curve"/>
+      <point x="86" y="-107" type="line"/>
+      <point x="136" y="-48"/>
+      <point x="229" y="69"/>
+      <point x="282" y="138" type="curve"/>
+    </contour>
+    <contour>
+      <point x="317" y="75" type="line"/>
+      <point x="253" y="-16"/>
+      <point x="206" y="-79"/>
+      <point x="143" y="-156" type="curve"/>
+      <point x="202" y="-206" type="line"/>
+      <point x="264" y="-124"/>
+      <point x="327" y="-37"/>
+      <point x="381" y="45" type="curve"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPPC</string>
+    </dict>
+  </lib>
+</glyph>

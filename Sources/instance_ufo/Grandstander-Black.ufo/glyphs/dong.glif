@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dong" format="2">
+  <advance width="1195"/>
+  <unicode hex="20AB"/>
+  <anchor x="598" y="0" name="bottom"/>
+  <anchor x="841" y="1191" name="center"/>
+  <anchor x="598" y="1470" name="top"/>
+  <anchor x="1145" y="1063" name="topright"/>
+  <outline>
+    <contour>
+      <point x="1175" y="1054" type="curve"/>
+      <point x="1183" y="1123"/>
+      <point x="1191" y="1234"/>
+      <point x="1191" y="1291" type="curve"/>
+      <point x="1031" y="1291"/>
+      <point x="588" y="1269"/>
+      <point x="449" y="1260" type="curve"/>
+      <point x="431" y="1059" type="line"/>
+      <point x="582" y="1059"/>
+      <point x="1037" y="1054"/>
+    </contour>
+    <contour>
+      <point x="1093" y="-255" type="curve"/>
+      <point x="1093" y="-179"/>
+      <point x="1082" y="-80"/>
+      <point x="1078" y="-53" type="curve"/>
+      <point x="899" y="-53"/>
+      <point x="233" y="-60"/>
+      <point x="80" y="-95" type="curve"/>
+      <point x="80" y="-147"/>
+      <point x="88" y="-210"/>
+      <point x="99" y="-271" type="curve"/>
+      <point x="374" y="-260"/>
+      <point x="932" y="-256"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

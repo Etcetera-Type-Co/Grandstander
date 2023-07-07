@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q.ss01" format="2">
+  <advance width="1291.0"/>
+  <anchor x="646.0" y="0.0" name="bottom"/>
+  <anchor x="646.0" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1112.75" y="-272.75" type="curve"/>
+      <point x="1187.5" y="-186.25"/>
+      <point x="1246.875" y="-51.25"/>
+      <point x="1254.75" y="-26.5" type="curve"/>
+      <point x="1192.875" y="-6.125"/>
+      <point x="1077.875" y="91.25"/>
+      <point x="1035.5" y="162.125" type="curve"/>
+      <point x="1132.0" y="246.875"/>
+      <point x="1174.0" y="429.25"/>
+      <point x="1174.0" y="627.125" type="curve" smooth="yes"/>
+      <point x="1174.0" y="1026.375"/>
+      <point x="991.125" y="1288.375"/>
+      <point x="602.125" y="1288.375" type="curve" smooth="yes"/>
+      <point x="243.75" y="1288.375"/>
+      <point x="59.25" y="1003.0"/>
+      <point x="59.25" y="620.875" type="curve" smooth="yes"/>
+      <point x="59.25" y="236.125"/>
+      <point x="262.25" y="-20.0"/>
+      <point x="643.0" y="-20.0" type="curve" smooth="yes"/>
+      <point x="712.5" y="-20.0"/>
+      <point x="774.875" y="-5.25"/>
+      <point x="821.25" y="29.375" type="curve"/>
+      <point x="852.75" y="-70.625"/>
+      <point x="971.875" y="-218.625"/>
+    </contour>
+    <contour>
+      <point x="610.5" y="239.0" type="curve" smooth="yes"/>
+      <point x="417.375" y="239.0"/>
+      <point x="314.75" y="409.75"/>
+      <point x="314.75" y="619.375" type="curve" smooth="yes"/>
+      <point x="314.75" y="867.375"/>
+      <point x="404.375" y="1059.375"/>
+      <point x="633.5" y="1059.375" type="curve" smooth="yes"/>
+      <point x="873.625" y="1059.375"/>
+      <point x="931.5" y="841.75"/>
+      <point x="931.5" y="651.25" type="curve" smooth="yes"/>
+      <point x="931.5" y="414.0"/>
+      <point x="839.125" y="239.0"/>
+    </contour>
+  </outline>
+</glyph>

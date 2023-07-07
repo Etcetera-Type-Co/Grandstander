@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otildedieresis" format="2">
+  <advance width="1354"/>
+  <unicode hex="1E4E"/>
+  <anchor x="534.585" y="0.0" name="bottom"/>
+  <anchor x="661" y="646" name="center"/>
+  <anchor x="895" y="0" name="ogonek"/>
+  <anchor x="1116.568" y="2237.0" name="top"/>
+  <anchor x="223.507" y="1291.0" name="topleft"/>
+  <anchor x="1198" y="1190" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb.case" xOffset="173"/>
+    <component base="dieresiscomb.case" xOffset="318" yOffset="478"/>
+  </outline>
+</glyph>

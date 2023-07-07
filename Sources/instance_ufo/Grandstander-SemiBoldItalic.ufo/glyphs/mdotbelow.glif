@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mdotbelow" format="2">
+  <advance width="1858.0"/>
+  <unicode hex="1E43"/>
+  <anchor x="685.375" y="-428.0" name="bottom"/>
+  <anchor x="1071.415" y="1063.0" name="top"/>
+  <outline>
+    <component base="m"/>
+    <component base="dotbelowcomb" xOffset="686.25"/>
+  </outline>
+</glyph>

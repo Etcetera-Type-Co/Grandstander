@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="1156"/>
+  <unicode hex="0138"/>
+  <anchor x="435.585" y="0" name="bottom"/>
+  <anchor x="715" y="1063" name="top"/>
+  <outline>
+    <contour>
+      <point x="667" y="-57" type="curve"/>
+      <point x="740" y="-40"/>
+      <point x="1006" y="53"/>
+      <point x="1064" y="84" type="curve"/>
+      <point x="999" y="279"/>
+      <point x="887" y="439"/>
+      <point x="807" y="499" type="curve"/>
+      <point x="883" y="545"/>
+      <point x="1090" y="667"/>
+      <point x="1226" y="744" type="curve"/>
+      <point x="1202" y="819"/>
+      <point x="1116" y="988"/>
+      <point x="1060" y="1034" type="curve"/>
+      <point x="887" y="942"/>
+      <point x="663" y="820"/>
+      <point x="535" y="700" type="curve"/>
+      <point x="578" y="818"/>
+      <point x="630" y="987"/>
+      <point x="647" y="1073" type="curve"/>
+      <point x="587" y="1093"/>
+      <point x="514" y="1101"/>
+      <point x="435" y="1101" type="curve" smooth="yes"/>
+      <point x="382" y="1101"/>
+      <point x="326" y="1097"/>
+      <point x="269" y="1092" type="curve"/>
+      <point x="223" y="920"/>
+      <point x="-47" y="91"/>
+      <point x="-81" y="-19" type="curve"/>
+      <point x="-32" y="-25"/>
+      <point x="39" y="-31"/>
+      <point x="121" y="-31" type="curve" smooth="yes"/>
+      <point x="179" y="-31"/>
+      <point x="243" y="-28"/>
+      <point x="308" y="-21" type="curve"/>
+      <point x="328" y="36"/>
+      <point x="360" y="131"/>
+      <point x="393" y="246" type="curve"/>
+      <point x="405" y="253"/>
+      <point x="471" y="291"/>
+      <point x="496" y="304" type="curve"/>
+      <point x="575" y="268"/>
+      <point x="656" y="27"/>
+    </contour>
+  </outline>
+</glyph>

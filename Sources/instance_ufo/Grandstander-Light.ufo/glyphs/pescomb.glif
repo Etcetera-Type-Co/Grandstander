@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pescomb" format="2">
+  <advance width="1040.0"/>
+  <outline>
+    <contour>
+      <point x="125.25" y="-20.5" type="curve"/>
+      <point x="162.25" y="-22.75"/>
+      <point x="252.5" y="-24.5"/>
+      <point x="292.5" y="-24.5" type="curve"/>
+      <point x="294.0" y="235.25"/>
+      <point x="305.5" y="375.25"/>
+      <point x="307.0" y="452.0" type="curve"/>
+      <point x="361.75" y="443.75"/>
+      <point x="425.0" y="438.0"/>
+      <point x="478.25" y="438.0" type="curve" smooth="yes"/>
+      <point x="763.0" y="438.0"/>
+      <point x="910.25" y="581.25"/>
+      <point x="910.75" y="875.25" type="curve" smooth="yes"/>
+      <point x="911.25" y="1141.75"/>
+      <point x="771.5" y="1286.0"/>
+      <point x="515.5" y="1286.0" type="curve" smooth="yes"/>
+      <point x="369.5" y="1286.0"/>
+      <point x="261.25" y="1269.5"/>
+      <point x="166.75" y="1250.0" type="curve"/>
+      <point x="140.5" y="754.75"/>
+      <point x="129.75" y="283.75"/>
+    </contour>
+    <contour>
+      <point x="304.75" y="591.25" type="curve"/>
+      <point x="304.75" y="629.25"/>
+      <point x="317.5" y="1130.5"/>
+      <point x="317.5" y="1145.5" type="curve"/>
+      <point x="402.0" y="1157.25"/>
+      <point x="466.25" y="1162.0"/>
+      <point x="522.5" y="1162.0" type="curve" smooth="yes"/>
+      <point x="666.5" y="1162.0"/>
+      <point x="773.25" y="1092.75"/>
+      <point x="773.25" y="867.25" type="curve" smooth="yes"/>
+      <point x="773.25" y="632.25"/>
+      <point x="617.25" y="575.25"/>
+      <point x="475.75" y="575.25" type="curve" smooth="yes"/>
+      <point x="413.0" y="575.25"/>
+      <point x="354.0" y="583.5"/>
+    </contour>
+  </outline>
+</glyph>

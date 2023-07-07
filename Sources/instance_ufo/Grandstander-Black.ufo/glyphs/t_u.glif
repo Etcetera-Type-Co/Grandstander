@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_u" format="2">
+  <advance width="1915"/>
+  <anchor x="748" y="0" name="caret_1"/>
+  <anchor x="1306" y="-2" name="bottom"/>
+  <anchor x="1553" y="-2" name="ogonek"/>
+  <anchor x="1306" y="1061" name="top"/>
+  <anchor x="1810" y="900" name="topright"/>
+  <outline>
+    <contour>
+      <point x="1078" y="688" type="curve"/>
+      <point x="1219" y="993" type="line"/>
+      <point x="1122" y="1012"/>
+      <point x="1027" y="1020"/>
+      <point x="916" y="1020" type="curve" smooth="yes"/>
+      <point x="820" y="1020"/>
+      <point x="643" y="1014"/>
+      <point x="531" y="1007" type="curve"/>
+      <point x="526" y="1155"/>
+      <point x="523" y="1393"/>
+      <point x="523" y="1422" type="curve"/>
+      <point x="173" y="1426" type="line"/>
+      <point x="179" y="1325"/>
+      <point x="188" y="1101"/>
+      <point x="188" y="986" type="curve"/>
+      <point x="90" y="973"/>
+      <point x="38" y="960"/>
+      <point x="-19" y="942" type="curve"/>
+      <point x="-19" y="879"/>
+      <point x="-15" y="711"/>
+      <point x="-1" y="611" type="curve"/>
+      <point x="36" y="621"/>
+      <point x="150" y="649"/>
+      <point x="200" y="653" type="curve"/>
+      <point x="200" y="363"/>
+      <point x="182" y="74"/>
+      <point x="178" y="10" type="curve"/>
+      <point x="216" y="8"/>
+      <point x="447" y="-2"/>
+      <point x="517" y="-2" type="curve"/>
+      <point x="523" y="58"/>
+      <point x="542" y="334"/>
+      <point x="542" y="684" type="curve"/>
+      <point x="619" y="692"/>
+      <point x="754" y="702"/>
+      <point x="859" y="702" type="curve" smooth="yes"/>
+      <point x="944" y="702"/>
+      <point x="975" y="699"/>
+    </contour>
+    <component base="u" xOffset="737" yOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>u</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

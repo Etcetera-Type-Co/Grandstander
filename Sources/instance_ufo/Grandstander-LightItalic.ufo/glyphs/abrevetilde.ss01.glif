@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevetilde.ss01" format="2">
+  <advance width="1200.0"/>
+  <anchor x="457.585" y="0.0" name="bottom"/>
+  <anchor x="959.25" y="18.5" name="ogonek"/>
+  <anchor x="932.25" y="1847.75" name="top"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="brevecomb_tildecomb" xOffset="254.75" yOffset="283.5"/>
+  </outline>
+</glyph>

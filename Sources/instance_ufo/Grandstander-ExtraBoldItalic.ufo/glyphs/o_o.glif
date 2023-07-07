@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o_o" format="2">
+  <advance width="2278.25"/>
+  <anchor x="1052.5" y="0.0" name="caret_1"/>
+  <anchor x="1541.875" y="0.0" name="bottom"/>
+  <anchor x="1683.875" y="532.0" name="center"/>
+  <anchor x="1735.25" y="0.0" name="ogonek"/>
+  <anchor x="1825.875" y="1063.0" name="top"/>
+  <anchor x="2084.0" y="941.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="472.25" y="-39.875" type="curve" smooth="yes"/>
+      <point x="883.625" y="-39.875"/>
+      <point x="1126.5" y="300.5"/>
+      <point x="1126.5" y="731.25" type="curve" smooth="yes"/>
+      <point x="1126.5" y="973.125"/>
+      <point x="1016.75" y="1137.0"/>
+      <point x="747.375" y="1137.0" type="curve" smooth="yes"/>
+      <point x="319.75" y="1137.0"/>
+      <point x="44.125" y="793.375"/>
+      <point x="44.125" y="354.125" type="curve" smooth="yes"/>
+      <point x="44.125" y="109.875"/>
+      <point x="182.125" y="-39.875"/>
+    </contour>
+    <contour>
+      <point x="501.5" y="251.625" type="curve" smooth="yes"/>
+      <point x="407.375" y="251.625"/>
+      <point x="375.5" y="309.5"/>
+      <point x="375.5" y="390.625" type="curve" smooth="yes"/>
+      <point x="375.5" y="592.0"/>
+      <point x="504.75" y="851.25"/>
+      <point x="683.625" y="851.25" type="curve" smooth="yes"/>
+      <point x="782.25" y="851.25"/>
+      <point x="818.25" y="790.0"/>
+      <point x="818.25" y="700.125" type="curve" smooth="yes"/>
+      <point x="818.25" y="485.25"/>
+      <point x="693.0" y="251.625"/>
+    </contour>
+    <component base="o" xOffset="1108.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

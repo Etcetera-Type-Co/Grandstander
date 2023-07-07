@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecedillabreve" format="2">
+  <advance width="1115.25"/>
+  <unicode hex="1E1D"/>
+  <anchor x="408.25" y="10.0" name="bottom"/>
+  <anchor x="661.5" y="26.75" name="ogonek"/>
+  <anchor x="805.75" y="1538.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="322.25" y="-515.75" type="curve" smooth="yes"/>
+      <point x="547.0" y="-515.75"/>
+      <point x="775.0" y="-437.25"/>
+      <point x="775.0" y="-227.5" type="curve" smooth="yes"/>
+      <point x="775.0" y="-124.0"/>
+      <point x="710.75" y="-77.0"/>
+      <point x="614.75" y="-77.0" type="curve" smooth="yes"/>
+      <point x="550.25" y="-77.0"/>
+      <point x="489.75" y="-102.75"/>
+      <point x="464.0" y="-131.5" type="curve"/>
+      <point x="508.0" y="41.5" type="line"/>
+      <point x="325.0" y="33.5" type="line"/>
+      <point x="240.0" y="-243.25" type="line"/>
+      <point x="278.5" y="-229.0"/>
+      <point x="367.0" y="-209.0"/>
+      <point x="439.25" y="-209.0" type="curve" smooth="yes"/>
+      <point x="506.0" y="-209.0"/>
+      <point x="550.75" y="-224.0"/>
+      <point x="550.75" y="-262.0" type="curve" smooth="yes"/>
+      <point x="550.75" y="-324.25"/>
+      <point x="471.5" y="-348.25"/>
+      <point x="343.5" y="-348.25" type="curve" smooth="yes"/>
+      <point x="306.0" y="-348.25"/>
+      <point x="226.0" y="-334.75"/>
+      <point x="195.5" y="-322.5" type="curve"/>
+      <point x="122.0" y="-493.0" type="line"/>
+      <point x="141.75" y="-498.5"/>
+      <point x="217.5" y="-515.75"/>
+    </contour>
+    <component base="e"/>
+    <component base="brevecomb" xOffset="124.75" yOffset="10.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCC</string>
+    </dict>
+  </lib>
+</glyph>

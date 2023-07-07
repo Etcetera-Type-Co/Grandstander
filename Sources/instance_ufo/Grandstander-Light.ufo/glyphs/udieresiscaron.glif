@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresiscaron" format="2">
+  <advance width="1178.0"/>
+  <unicode hex="01DA"/>
+  <anchor x="584.0" y="0.0" name="bottom"/>
+  <anchor x="763.5" y="0.0" name="ogonek"/>
+  <anchor x="584.0" y="1419.25" name="top"/>
+  <anchor x="952.25" y="930.5" name="topright"/>
+  <outline>
+    <contour>
+      <point x="827.75" y="1817.75" type="curve"/>
+      <point x="750.0" y="1739.75"/>
+      <point x="624.25" y="1610.25"/>
+      <point x="577.5" y="1562.25" type="curve"/>
+      <point x="589.75" y="1562.25" type="line"/>
+      <point x="565.0" y="1581.75"/>
+      <point x="437.5" y="1728.25"/>
+      <point x="364.75" y="1827.0" type="curve"/>
+      <point x="330.75" y="1814.0"/>
+      <point x="292.0" y="1789.5"/>
+      <point x="266.5" y="1772.25" type="curve"/>
+      <point x="355.5" y="1669.0"/>
+      <point x="437.25" y="1583.0"/>
+      <point x="518.0" y="1501.75" type="curve"/>
+      <point x="547.0" y="1499.75"/>
+      <point x="600.5" y="1498.25"/>
+      <point x="635.5" y="1498.25" type="curve"/>
+      <point x="672.5" y="1526.0"/>
+      <point x="777.75" y="1612.5"/>
+      <point x="931.5" y="1753.5" type="curve"/>
+      <point x="915.25" y="1766.25"/>
+      <point x="861.5" y="1803.0"/>
+    </contour>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="103.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCC</string>
+    </dict>
+  </lib>
+</glyph>

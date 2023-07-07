@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.case" format="2">
+  <anchor x="737.75" y="1291.0" name="_top"/>
+  <anchor x="860.75" y="1770.625" name="top"/>
+  <outline>
+    <contour>
+      <point x="736.125" y="1594.5" type="curve"/>
+      <point x="663.25" y="1543.875"/>
+      <point x="596.125" y="1489.875"/>
+      <point x="586.625" y="1476.5" type="curve"/>
+      <point x="627.875" y="1500.125"/>
+      <point x="678.0" y="1498.5"/>
+      <point x="709.75" y="1470.0" type="curve"/>
+      <point x="721.125" y="1474.5"/>
+      <point x="787.0" y="1518.625"/>
+      <point x="802.875" y="1539.125" type="curve"/>
+      <point x="786.375" y="1585.0"/>
+      <point x="743.875" y="1614.125"/>
+    </contour>
+    <contour>
+      <point x="970.125" y="1658.875" type="curve"/>
+      <point x="888.125" y="1624.875"/>
+      <point x="823.875" y="1587.25"/>
+      <point x="810.875" y="1575.75" type="curve"/>
+      <point x="838.0" y="1577.875"/>
+      <point x="836.25" y="1550.25"/>
+      <point x="859.25" y="1507.875" type="curve"/>
+      <point x="871.0" y="1507.875"/>
+      <point x="927.125" y="1525.125"/>
+      <point x="960.0" y="1553.875" type="curve"/>
+      <point x="963.25" y="1619.625"/>
+      <point x="971.75" y="1665.875"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>900</integer>
+    </dict>
+  </lib>
+</glyph>

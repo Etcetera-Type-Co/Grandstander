@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcedilla" format="2">
+  <advance width="1039"/>
+  <unicode hex="0162"/>
+  <anchor x="393" y="0" name="bottom"/>
+  <anchor x="551" y="646" name="center"/>
+  <anchor x="723.507" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="307" y="-537" type="curve" smooth="yes"/>
+      <point x="541" y="-537"/>
+      <point x="794" y="-453"/>
+      <point x="794" y="-231" type="curve" smooth="yes"/>
+      <point x="794" y="-124"/>
+      <point x="730" y="-77"/>
+      <point x="634" y="-77" type="curve" smooth="yes"/>
+      <point x="564" y="-77"/>
+      <point x="505" y="-105"/>
+      <point x="477" y="-139" type="curve"/>
+      <point x="522" y="39" type="line"/>
+      <point x="302" y="27" type="line"/>
+      <point x="211" y="-257" type="line"/>
+      <point x="248" y="-244"/>
+      <point x="332" y="-229"/>
+      <point x="409" y="-229" type="curve" smooth="yes"/>
+      <point x="474" y="-229"/>
+      <point x="525" y="-239"/>
+      <point x="525" y="-272" type="curve" smooth="yes"/>
+      <point x="525" y="-315"/>
+      <point x="456" y="-337"/>
+      <point x="334" y="-337" type="curve" smooth="yes"/>
+      <point x="301" y="-337"/>
+      <point x="219" y="-325"/>
+      <point x="191" y="-312" type="curve"/>
+      <point x="102" y="-515" type="line"/>
+      <point x="122" y="-520"/>
+      <point x="202" y="-537"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

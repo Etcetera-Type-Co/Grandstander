@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdieresis.ss01" format="2">
+  <advance width="964"/>
+  <anchor x="339.585" y="0.0" name="bottom"/>
+  <anchor x="482.134" y="532.0" name="center"/>
+  <anchor x="755" y="1859" name="top"/>
+  <anchor x="905" y="1422" name="topright"/>
+  <outline>
+    <component base="t.ss01"/>
+    <component base="dieresiscomb" xOffset="48" yOffset="373"/>
+  </outline>
+</glyph>

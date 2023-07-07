@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W.ss02" format="2">
+  <advance width="1344"/>
+  <anchor x="672" y="0" name="bottom"/>
+  <anchor x="672" y="1291" name="top"/>
+  <outline>
+    <contour>
+      <point x="329" y="-8" type="curve"/>
+      <point x="375" y="67"/>
+      <point x="607" y="620"/>
+      <point x="661" y="706" type="curve"/>
+      <point x="716" y="576"/>
+      <point x="863" y="123"/>
+      <point x="913" y="-17" type="curve"/>
+      <point x="1001" y="176"/>
+      <point x="1233" y="1053"/>
+      <point x="1278" y="1303" type="curve"/>
+      <point x="1195" y="1335" type="line"/>
+      <point x="1164" y="1153"/>
+      <point x="1013" y="513"/>
+      <point x="913" y="221" type="curve"/>
+      <point x="870" y="393"/>
+      <point x="734" y="756"/>
+      <point x="669" y="883" type="curve"/>
+      <point x="606" y="781"/>
+      <point x="424" y="407"/>
+      <point x="354" y="209" type="curve"/>
+      <point x="275" y="625"/>
+      <point x="197" y="1077"/>
+      <point x="159" y="1340" type="curve"/>
+      <point x="76" y="1314" type="line"/>
+      <point x="117" y="1053"/>
+      <point x="244" y="316"/>
+    </contour>
+  </outline>
+</glyph>

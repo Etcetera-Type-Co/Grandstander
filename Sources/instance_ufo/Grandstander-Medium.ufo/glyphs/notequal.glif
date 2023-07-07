@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="1050.0"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="727.5" y="1382.5" type="curve"/>
+      <point x="664.5" y="1217.5"/>
+      <point x="349.0" y="542.0"/>
+      <point x="146.0" y="246.0" type="curve"/>
+      <point x="161.0" y="238.0"/>
+      <point x="271.0" y="183.5"/>
+      <point x="295.0" y="173.5" type="curve"/>
+      <point x="472.5" y="439.0"/>
+      <point x="814.5" y="1152.0"/>
+      <point x="866.5" y="1304.0" type="curve"/>
+      <point x="849.5" y="1319.0"/>
+      <point x="758.5" y="1375.5"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

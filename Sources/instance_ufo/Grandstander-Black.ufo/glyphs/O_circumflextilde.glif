@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflextilde" format="2">
+  <advance width="1354"/>
+  <unicode hex="1ED6"/>
+  <anchor x="677" y="0" name="bottom"/>
+  <anchor x="610" y="646" name="center"/>
+  <anchor x="917" y="0" name="ogonek"/>
+  <anchor x="677" y="2150" name="top"/>
+  <anchor x="20" y="1291" name="topleft"/>
+  <anchor x="1001" y="1190" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexcomb_tildecomb" xOffset="225" yOffset="525"/>
+  </outline>
+</glyph>

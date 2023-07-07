@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacronacute" format="2">
+  <advance width="957"/>
+  <unicode hex="1E16"/>
+  <anchor x="479" y="0" name="bottom"/>
+  <anchor x="688" y="1" name="ogonek"/>
+  <anchor x="503" y="1915" name="top"/>
+  <anchor x="20" y="1291" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="macroncomb.case" xOffset="-52" yOffset="20"/>
+    <component base="acutecomb.case" xOffset="185" yOffset="279"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>macroncomb.case</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>acutecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

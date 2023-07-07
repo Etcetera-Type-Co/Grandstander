@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis.ss01" format="2">
+  <advance width="839.0"/>
+  <anchor x="420.0" y="0.0" name="bottom"/>
+  <anchor x="474.125" y="9.5" name="ogonek"/>
+  <anchor x="418.25" y="1764.375" name="top"/>
+  <anchor x="20.0" y="1291.0" name="topleft"/>
+  <outline>
+    <component base="I.ss01"/>
+    <component base="dieresiscomb.case" xOffset="-67.75" yOffset="27.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I.ss01</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresiscomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

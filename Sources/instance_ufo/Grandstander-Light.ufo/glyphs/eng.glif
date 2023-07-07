@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eng" format="2">
+  <advance width="1330.0"/>
+  <unicode hex="014B"/>
+  <anchor x="677.5" y="0.0" name="bottom"/>
+  <anchor x="677.5" y="1063.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="768.75" y="-366.5" type="curve" smooth="yes"/>
+      <point x="998.5" y="-366.5"/>
+      <point x="1106.0" y="-177.25"/>
+      <point x="1123.25" y="10.5" type="curve"/>
+      <point x="951.0" y="12.25" type="line"/>
+      <point x="927.25" y="-124.75"/>
+      <point x="876.0" y="-225.0"/>
+      <point x="767.25" y="-225.0" type="curve" smooth="yes"/>
+      <point x="661.0" y="-225.0"/>
+      <point x="616.75" y="-183.75"/>
+      <point x="585.5" y="-125.25" type="curve"/>
+      <point x="557.5" y="-145.75"/>
+      <point x="483.0" y="-210.25"/>
+      <point x="468.75" y="-225.0" type="curve"/>
+      <point x="520.5" y="-312.0"/>
+      <point x="630.0" y="-366.5"/>
+    </contour>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>n</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

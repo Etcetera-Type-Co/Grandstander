@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S_S" format="2">
+  <advance width="2287"/>
+  <anchor x="1139" y="0" name="caret_1"/>
+  <anchor x="1711" y="0" name="bottom"/>
+  <anchor x="1653" y="1319" name="top"/>
+  <outline>
+    <contour>
+      <point x="587" y="10" type="curve" smooth="yes"/>
+      <point x="866" y="10"/>
+      <point x="1023" y="175"/>
+      <point x="1023" y="402" type="curve" smooth="yes"/>
+      <point x="1023" y="654"/>
+      <point x="786" y="729"/>
+      <point x="517" y="799" type="curve" smooth="yes"/>
+      <point x="382" y="834"/>
+      <point x="218" y="887"/>
+      <point x="218" y="1038" type="curve" smooth="yes"/>
+      <point x="218" y="1181"/>
+      <point x="315" y="1238"/>
+      <point x="492" y="1238" type="curve" smooth="yes"/>
+      <point x="752" y="1238"/>
+      <point x="894" y="1142"/>
+      <point x="930" y="1117" type="curve"/>
+      <point x="938" y="1132"/>
+      <point x="954" y="1176"/>
+      <point x="957" y="1191" type="curve"/>
+      <point x="920" y="1216"/>
+      <point x="754" y="1309"/>
+      <point x="518" y="1309" type="curve" smooth="yes"/>
+      <point x="295" y="1309"/>
+      <point x="132" y="1241"/>
+      <point x="132" y="1027" type="curve" smooth="yes"/>
+      <point x="132" y="864"/>
+      <point x="270" y="771"/>
+      <point x="499" y="715" type="curve" smooth="yes"/>
+      <point x="725" y="660"/>
+      <point x="942" y="603"/>
+      <point x="942" y="398" type="curve" smooth="yes"/>
+      <point x="942" y="219"/>
+      <point x="823" y="91"/>
+      <point x="572" y="91" type="curve" smooth="yes"/>
+      <point x="336" y="91"/>
+      <point x="207" y="176"/>
+      <point x="108" y="296" type="curve"/>
+      <point x="84" y="279"/>
+      <point x="53" y="253"/>
+      <point x="39" y="240" type="curve"/>
+      <point x="105" y="153"/>
+      <point x="252" y="10"/>
+    </contour>
+    <component base="S" xOffset="1135"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>S</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="964.0"/>
+  <unicode hex="0167"/>
+  <anchor x="584.5" y="-13.25" name="bottom"/>
+  <anchor x="457.0" y="532.0" name="center"/>
+  <anchor x="395.0" y="1428.5" name="top"/>
+  <anchor x="557.0" y="1233.5" name="topright"/>
+  <outline>
+    <contour>
+      <point x="804.75" y="557.5" type="curve"/>
+      <point x="804.0" y="606.25"/>
+      <point x="800.25" y="661.0"/>
+      <point x="797.75" y="677.5" type="curve"/>
+      <point x="665.25" y="672.25"/>
+      <point x="162.5" y="639.25"/>
+      <point x="85.75" y="617.5" type="curve"/>
+      <point x="82.75" y="590.75"/>
+      <point x="82.75" y="548.5"/>
+      <point x="85.0" y="514.75" type="curve"/>
+      <point x="258.25" y="529.5"/>
+      <point x="658.25" y="551.5"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

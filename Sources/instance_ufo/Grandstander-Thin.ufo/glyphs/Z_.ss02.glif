@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z.ss02" format="2">
+  <advance width="1044"/>
+  <anchor x="582" y="0" name="bottom"/>
+  <anchor x="582" y="646" name="center"/>
+  <anchor x="582" y="1291" name="top"/>
+  <outline>
+    <contour>
+      <point x="934" y="-14" type="curve"/>
+      <point x="942" y="12"/>
+      <point x="950" y="42"/>
+      <point x="950" y="69" type="curve"/>
+      <point x="729" y="69"/>
+      <point x="474" y="76"/>
+      <point x="225" y="96" type="curve"/>
+      <point x="340" y="337"/>
+      <point x="866" y="1091"/>
+      <point x="978" y="1250" type="curve"/>
+      <point x="913" y="1269"/>
+      <point x="432" y="1294"/>
+      <point x="169" y="1294" type="curve"/>
+      <point x="169" y="1261"/>
+      <point x="174" y="1220"/>
+      <point x="177" y="1209" type="curve"/>
+      <point x="435" y="1209"/>
+      <point x="760" y="1201"/>
+      <point x="835" y="1191" type="curve"/>
+      <point x="709" y="1032"/>
+      <point x="211" y="288"/>
+      <point x="98" y="44" type="curve"/>
+      <point x="241" y="0"/>
+      <point x="740" y="-14"/>
+    </contour>
+  </outline>
+</glyph>

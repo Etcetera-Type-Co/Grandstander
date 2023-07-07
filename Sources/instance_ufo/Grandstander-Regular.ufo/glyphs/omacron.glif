@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omacron" format="2">
+  <advance width="1171.25"/>
+  <unicode hex="014D"/>
+  <anchor x="597.5" y="0.0" name="bottom"/>
+  <anchor x="597.5" y="532.0" name="center"/>
+  <anchor x="768.0" y="0.0" name="ogonek"/>
+  <anchor x="597.5" y="1341.625" name="top"/>
+  <anchor x="891.5" y="941.0" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="macroncomb" xOffset="64.25"/>
+  </outline>
+</glyph>

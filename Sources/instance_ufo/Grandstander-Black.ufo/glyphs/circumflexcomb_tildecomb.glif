@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb" format="2">
+  <anchor x="452" y="766" name="_top"/>
+  <anchor x="452" y="1625" name="top"/>
+  <outline>
+    <contour>
+      <point x="604" y="1237" type="curve"/>
+      <point x="553" y="1237"/>
+      <point x="395" y="1235"/>
+      <point x="354" y="1233" type="curve"/>
+      <point x="294" y="1199"/>
+      <point x="142" y="1089"/>
+      <point x="20" y="991" type="curve"/>
+      <point x="85" y="933"/>
+      <point x="205" y="856"/>
+      <point x="273" y="835" type="curve"/>
+      <point x="354" y="918"/>
+      <point x="461" y="1008"/>
+      <point x="492" y="1031" type="curve"/>
+      <point x="459" y="1031" type="line"/>
+      <point x="476" y="1012"/>
+      <point x="559" y="915"/>
+      <point x="631" y="828" type="curve"/>
+      <point x="701" y="849"/>
+      <point x="801" y="898"/>
+      <point x="884" y="956" type="curve"/>
+      <point x="811" y="1037"/>
+      <point x="679" y="1165"/>
+    </contour>
+    <contour>
+      <point x="90" y="1463" type="curve"/>
+      <point x="237" y="1336" type="line"/>
+      <point x="248" y="1360"/>
+      <point x="282" y="1428"/>
+      <point x="345" y="1428" type="curve" smooth="yes"/>
+      <point x="375" y="1428"/>
+      <point x="407" y="1408"/>
+      <point x="440" y="1383" type="curve" smooth="yes"/>
+      <point x="480" y="1353"/>
+      <point x="526" y="1320"/>
+      <point x="580" y="1320" type="curve" smooth="yes"/>
+      <point x="720" y="1320"/>
+      <point x="798" y="1454"/>
+      <point x="808" y="1509" type="curve"/>
+      <point x="658" y="1607" type="line"/>
+      <point x="644" y="1564"/>
+      <point x="612" y="1519"/>
+      <point x="564" y="1519" type="curve" smooth="yes"/>
+      <point x="530" y="1519"/>
+      <point x="501" y="1539"/>
+      <point x="471" y="1563" type="curve" smooth="yes"/>
+      <point x="435" y="1592"/>
+      <point x="393" y="1623"/>
+      <point x="330" y="1623" type="curve" smooth="yes"/>
+      <point x="217" y="1623"/>
+      <point x="118" y="1544"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>874</integer>
+    </dict>
+  </lib>
+</glyph>

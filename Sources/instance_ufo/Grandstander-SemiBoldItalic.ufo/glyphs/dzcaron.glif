@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzcaron" format="2">
+  <advance width="2269.0"/>
+  <unicode hex="01C6"/>
+  <anchor x="437.094375" y="0.0" name="bottom_1"/>
+  <anchor x="1562.5" y="0.0" name="bottom_2"/>
+  <anchor x="1066.0" y="1193.875" name="center_1"/>
+  <anchor x="1704.5" y="532.0" name="center_2"/>
+  <anchor x="830.42625" y="1470.0" name="top_1"/>
+  <anchor x="1846.5" y="1063.0" name="top_2"/>
+  <anchor x="1254.875" y="1013.625" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="z" xOffset="1195.0"/>
+    <component base="caroncomb" xOffset="1298.25"/>
+  </outline>
+</glyph>

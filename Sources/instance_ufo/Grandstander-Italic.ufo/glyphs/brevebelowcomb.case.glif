@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb.case" format="2">
+  <anchor x="368.625" y="0.0" name="_bottom"/>
+  <anchor x="228.375" y="-524.5" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="600.625" y="-176.125" type="curve"/>
+      <point x="571.75" y="-164.375"/>
+      <point x="514.75" y="-151.5"/>
+      <point x="454.625" y="-151.5" type="curve"/>
+      <point x="438.0" y="-285.25"/>
+      <point x="379.5" y="-394.375"/>
+      <point x="264.0" y="-394.375" type="curve" smooth="yes"/>
+      <point x="179.125" y="-394.375"/>
+      <point x="129.875" y="-350.625"/>
+      <point x="129.875" y="-243.625" type="curve" smooth="yes"/>
+      <point x="129.875" y="-216.125"/>
+      <point x="132.125" y="-187.25"/>
+      <point x="136.375" y="-156.0" type="curve"/>
+      <point x="92.875" y="-156.0"/>
+      <point x="27.25" y="-157.375"/>
+      <point x="-13.5" y="-168.25" type="curve"/>
+      <point x="-17.125" y="-199.375"/>
+      <point x="-19.125" y="-228.875"/>
+      <point x="-19.125" y="-255.75" type="curve" smooth="yes"/>
+      <point x="-19.125" y="-418.375"/>
+      <point x="51.125" y="-522.5"/>
+      <point x="249.5" y="-522.5" type="curve" smooth="yes"/>
+      <point x="434.875" y="-522.5"/>
+      <point x="576.375" y="-376.375"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>885</integer>
+    </dict>
+  </lib>
+</glyph>

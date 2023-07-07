@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <anchor x="837.375" y="1291.0" name="_top"/>
+  <anchor x="964.75" y="1767.125" name="top"/>
+  <outline>
+    <contour>
+      <point x="796.625" y="1767.125" type="curve"/>
+      <point x="705.625" y="1709.125"/>
+      <point x="542.875" y="1538.875"/>
+      <point x="495.25" y="1457.75" type="curve"/>
+      <point x="521.625" y="1441.75"/>
+      <point x="580.75" y="1416.75"/>
+      <point x="614.5" y="1404.125" type="curve"/>
+      <point x="690.75" y="1486.375"/>
+      <point x="842.125" y="1624.375"/>
+      <point x="959.25" y="1705.5" type="curve"/>
+      <point x="931.0" y="1730.625"/>
+      <point x="868.0" y="1765.875"/>
+    </contour>
+    <contour>
+      <point x="1174.0" y="1687.5" type="curve"/>
+      <point x="1094.0" y="1662.5"/>
+      <point x="914.625" y="1524.25"/>
+      <point x="842.625" y="1434.25" type="curve"/>
+      <point x="879.375" y="1418.0"/>
+      <point x="943.125" y="1392.75"/>
+      <point x="968.625" y="1385.875" type="curve"/>
+      <point x="1041.0" y="1449.5"/>
+      <point x="1192.75" y="1545.875"/>
+      <point x="1305.25" y="1594.375" type="curve"/>
+      <point x="1288.25" y="1623.125"/>
+      <point x="1229.25" y="1671.625"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1207</integer>
+    </dict>
+  </lib>
+</glyph>

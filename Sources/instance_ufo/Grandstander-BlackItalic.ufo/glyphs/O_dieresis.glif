@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresis" format="2">
+  <advance width="1354"/>
+  <unicode hex="00D6"/>
+  <anchor x="534.585" y="0.0" name="bottom"/>
+  <anchor x="661" y="646" name="center"/>
+  <anchor x="895" y="0" name="ogonek"/>
+  <anchor x="1005.568" y="1759.0" name="top"/>
+  <anchor x="223.507" y="1291.0" name="topleft"/>
+  <anchor x="1198" y="1190" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="dieresiscomb.case" xOffset="207"/>
+  </outline>
+</glyph>

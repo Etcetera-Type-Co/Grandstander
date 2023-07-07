@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb.case" format="2">
+  <anchor x="630" y="1291" name="_top"/>
+  <anchor x="752" y="1744" name="top"/>
+  <outline>
+    <contour>
+      <point x="335" y="1417" type="curve"/>
+      <point x="382" y="1394"/>
+      <point x="484" y="1373"/>
+      <point x="606" y="1373" type="curve"/>
+      <point x="622" y="1498"/>
+      <point x="658" y="1519"/>
+      <point x="696" y="1519" type="curve" smooth="yes"/>
+      <point x="724" y="1519"/>
+      <point x="747" y="1499"/>
+      <point x="747" y="1427" type="curve" smooth="yes"/>
+      <point x="747" y="1412"/>
+      <point x="746" y="1395"/>
+      <point x="743" y="1375" type="curve"/>
+      <point x="814" y="1375"/>
+      <point x="959" y="1377"/>
+      <point x="1021" y="1396" type="curve"/>
+      <point x="1024" y="1424"/>
+      <point x="1026" y="1451"/>
+      <point x="1026" y="1476" type="curve" smooth="yes"/>
+      <point x="1026" y="1648"/>
+      <point x="937" y="1744"/>
+      <point x="723" y="1744" type="curve" smooth="yes"/>
+      <point x="507" y="1744"/>
+      <point x="358" y="1611"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>885</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorntilde" format="2">
+  <advance width="1221"/>
+  <unicode hex="1EEF"/>
+  <anchor x="447" y="0" name="bottom"/>
+  <anchor x="813" y="1395" name="top"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="tildecomb" xOffset="85"/>
+  </outline>
+</glyph>

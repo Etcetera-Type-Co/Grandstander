@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z.ss02" format="2">
+  <advance width="1044.0"/>
+  <anchor x="337.75" y="0.0" name="bottom"/>
+  <anchor x="567.0" y="646.0" name="center"/>
+  <anchor x="746.0" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="768.0" y="-14.0" type="curve"/>
+      <point x="791.25" y="28.75"/>
+      <point x="819.25" y="95.25"/>
+      <point x="834.0" y="151.0" type="curve"/>
+      <point x="642.75" y="148.5"/>
+      <point x="419.0" y="150.25"/>
+      <point x="204.0" y="165.25" type="curve"/>
+      <point x="380.5" y="400.5"/>
+      <point x="1018.0" y="1091.5"/>
+      <point x="1162.5" y="1240.75" type="curve"/>
+      <point x="1100.75" y="1264.5"/>
+      <point x="645.75" y="1294.0"/>
+      <point x="322.75" y="1294.0" type="curve"/>
+      <point x="311.5" y="1252.5"/>
+      <point x="297.5" y="1164.5"/>
+      <point x="298.0" y="1141.5" type="curve"/>
+      <point x="521.0" y="1146.0"/>
+      <point x="812.0" y="1141.0"/>
+      <point x="887.75" y="1133.5" type="curve"/>
+      <point x="743.25" y="994.5"/>
+      <point x="121.0" y="307.25"/>
+      <point x="-59.0" y="57.0" type="curve"/>
+      <point x="71.25" y="9.0"/>
+      <point x="535.75" y="-10.5"/>
+    </contour>
+  </outline>
+</glyph>

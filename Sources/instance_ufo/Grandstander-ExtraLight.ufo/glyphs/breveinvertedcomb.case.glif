@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb.case" format="2">
+  <anchor x="414.5" y="1291.0" name="_top"/>
+  <anchor x="414.5" y="1687.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="184.25" y="1349.125" type="curve"/>
+      <point x="190.5" y="1502.875"/>
+      <point x="249.125" y="1579.875"/>
+      <point x="406.125" y="1579.875" type="curve" smooth="yes"/>
+      <point x="526.0" y="1595.5"/>
+      <point x="576.625" y="1553.5"/>
+      <point x="593.625" y="1491.375" type="curve" smooth="yes"/>
+      <point x="603.75" y="1454.625"/>
+      <point x="606.625" y="1408.875"/>
+      <point x="608.0" y="1358.125" type="curve"/>
+      <point x="632.125" y="1355.75"/>
+      <point x="648.125" y="1353.75"/>
+      <point x="671.75" y="1355.25" type="curve"/>
+      <point x="680.625" y="1388.5"/>
+      <point x="697.75" y="1419.375"/>
+      <point x="701.75" y="1449.75" type="curve" smooth="yes"/>
+      <point x="685.125" y="1587.0"/>
+      <point x="616.625" y="1652.25"/>
+      <point x="455.0" y="1655.875" type="curve" smooth="yes"/>
+      <point x="305.625" y="1676.25"/>
+      <point x="189.75" y="1614.875"/>
+      <point x="163.875" y="1401.375" type="curve"/>
+      <point x="153.5" y="1397.0"/>
+      <point x="164.125" y="1373.375"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>885</integer>
+    </dict>
+  </lib>
+</glyph>

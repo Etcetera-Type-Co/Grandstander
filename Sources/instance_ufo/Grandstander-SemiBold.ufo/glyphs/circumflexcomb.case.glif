@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case" format="2">
+  <anchor x="444.6875" y="1291.0" name="_top"/>
+  <anchor x="444.875" y="1718.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="557.125" y="1717.25" type="curve"/>
+      <point x="518.5" y="1716.75"/>
+      <point x="412.625" y="1715.5"/>
+      <point x="381.75" y="1715.5" type="curve"/>
+      <point x="342.125" y="1683.0"/>
+      <point x="168.625" y="1552.25"/>
+      <point x="49.25" y="1472.0" type="curve"/>
+      <point x="94.375" y="1432.0"/>
+      <point x="186.25" y="1374.125"/>
+      <point x="233.25" y="1359.125" type="curve"/>
+      <point x="315.375" y="1435.375"/>
+      <point x="452.0" y="1546.75"/>
+      <point x="478.875" y="1567.5" type="curve"/>
+      <point x="452.625" y="1567.5" type="line"/>
+      <point x="479.0" y="1538.375"/>
+      <point x="590.875" y="1422.25"/>
+      <point x="657.625" y="1352.5" type="curve"/>
+      <point x="707.75" y="1370.125"/>
+      <point x="776.625" y="1405.25"/>
+      <point x="836.375" y="1448.625" type="curve"/>
+      <point x="773.125" y="1500.0"/>
+      <point x="632.5" y="1634.875"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>874</integer>
+    </dict>
+  </lib>
+</glyph>

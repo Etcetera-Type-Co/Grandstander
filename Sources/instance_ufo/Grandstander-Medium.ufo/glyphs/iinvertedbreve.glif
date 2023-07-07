@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iinvertedbreve" format="2">
+  <advance width="581.0"/>
+  <unicode hex="020B"/>
+  <anchor x="235.5" y="0.0" name="bottom"/>
+  <anchor x="350.0" y="-3.5" name="ogonek"/>
+  <anchor x="268.75" y="1465.0" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="breveinvertedcomb" xOffset="-143.5" yOffset="-80.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>idotless</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breveinvertedcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

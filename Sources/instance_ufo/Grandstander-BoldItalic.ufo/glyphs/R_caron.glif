@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rcaron" format="2">
+  <advance width="1094.0"/>
+  <unicode hex="0158"/>
+  <anchor x="404.585" y="0.0" name="bottom"/>
+  <anchor x="807.5" y="1816.75" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="caroncomb.case" xOffset="99.5" yOffset="37.5"/>
+  </outline>
+</glyph>

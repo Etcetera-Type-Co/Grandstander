@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="1198.0"/>
+  <unicode hex="00D0"/>
+  <anchor x="456.585" y="0.0" name="bottom"/>
+  <anchor x="392.125" y="646.0" name="center"/>
+  <anchor x="716.0" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="635.0" y="602.375" type="curve"/>
+      <point x="649.625" y="655.875"/>
+      <point x="661.125" y="712.25"/>
+      <point x="663.25" y="729.875" type="curve"/>
+      <point x="543.875" y="729.875"/>
+      <point x="197.75" y="696.25"/>
+      <point x="106.25" y="675.625" type="curve"/>
+      <point x="96.125" y="645.5"/>
+      <point x="84.875" y="602.125"/>
+      <point x="78.625" y="566.875" type="curve"/>
+      <point x="241.25" y="585.5"/>
+      <point x="507.25" y="602.375"/>
+    </contour>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

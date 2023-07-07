@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M_M" format="2">
+  <advance width="2776.75"/>
+  <anchor x="1414.625" y="0.0" name="caret_1"/>
+  <anchor x="2107.875" y="0.0" name="bottom"/>
+  <anchor x="2107.875" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="221.125" y="-12.125" type="curve"/>
+      <point x="253.625" y="-11.25"/>
+      <point x="325.5" y="-6.5"/>
+      <point x="363.875" y="0.375" type="curve"/>
+      <point x="356.75" y="62.375"/>
+      <point x="299.625" y="624.0"/>
+      <point x="283.125" y="973.25" type="curve"/>
+      <point x="367.5" y="680.0"/>
+      <point x="588.75" y="97.5"/>
+      <point x="623.625" y="28.0" type="curve"/>
+      <point x="671.0" y="20.625"/>
+      <point x="722.875" y="20.375"/>
+      <point x="769.0" y="22.0" type="curve"/>
+      <point x="810.875" y="109.25"/>
+      <point x="1019.875" y="810.375"/>
+      <point x="1065.5" y="1037.875" type="curve"/>
+      <point x="1095.25" y="784.25"/>
+      <point x="1140.625" y="346.375"/>
+      <point x="1139.625" y="39.75" type="curve"/>
+      <point x="1188.875" y="35.875"/>
+      <point x="1242.625" y="37.5"/>
+      <point x="1276.125" y="38.375" type="curve"/>
+      <point x="1276.125" y="357.5"/>
+      <point x="1205.5" y="1033.25"/>
+      <point x="1144.875" y="1291.625" type="curve"/>
+      <point x="1102.25" y="1291.875"/>
+      <point x="1058.0" y="1292.375"/>
+      <point x="1016.25" y="1292.375" type="curve"/>
+      <point x="990.875" y="1198.0"/>
+      <point x="842.125" y="625.5"/>
+      <point x="696.125" y="187.0" type="curve"/>
+      <point x="637.125" y="356.375"/>
+      <point x="333.125" y="1179.625"/>
+      <point x="315.5" y="1209.125" type="curve"/>
+      <point x="297.0" y="1209.125"/>
+      <point x="192.5" y="1200.0"/>
+      <point x="162.625" y="1195.125" type="curve"/>
+      <point x="161.75" y="1041.875"/>
+      <point x="194.0" y="324.25"/>
+    </contour>
+    <component base="M" xOffset="1383.625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>M</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

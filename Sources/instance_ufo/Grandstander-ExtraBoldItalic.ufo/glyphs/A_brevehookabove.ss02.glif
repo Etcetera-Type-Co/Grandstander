@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevehookabove.ss02" format="2">
+  <advance width="1218.5"/>
+  <anchor x="497.25" y="0.0" name="bottom"/>
+  <anchor x="1173.5" y="5.5" name="ogonek"/>
+  <anchor x="1124.0" y="2250.75" name="top"/>
+  <outline>
+    <component base="A.ss02"/>
+    <component base="brevecomb.case" xOffset="253.375" yOffset="35.5"/>
+    <component base="hookabovecomb.case" xOffset="497.25" yOffset="512.125"/>
+  </outline>
+</glyph>

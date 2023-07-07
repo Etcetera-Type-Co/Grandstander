@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflexhookabove.ss02" format="2">
+  <advance width="1092.5"/>
+  <anchor x="562.0" y="0.0" name="bottom"/>
+  <anchor x="1000.0" y="-0.5" name="ogonek"/>
+  <anchor x="603.0" y="2134.375" name="top"/>
+  <outline>
+    <component base="A.ss02"/>
+    <component base="circumflexcomb.case" xOffset="160.875" yOffset="33.5"/>
+    <component base="hookabovecomb.case" xOffset="293.5" yOffset="434.5"/>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Llinebelow" format="2">
+  <advance width="961.0"/>
+  <unicode hex="1E3A"/>
+  <anchor x="498.0" y="-350.625" name="bottom"/>
+  <anchor x="498.5" y="646.0" name="center"/>
+  <anchor x="261.875" y="1298.25" name="top"/>
+  <anchor x="544.25" y="900.625" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="macronbelowcomb.case" xOffset="-34.75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>macronbelowcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

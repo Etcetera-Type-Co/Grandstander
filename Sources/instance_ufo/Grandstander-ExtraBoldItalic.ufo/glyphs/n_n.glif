@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n_n" format="2">
+  <advance width="2657.875"/>
+  <anchor x="1243.75" y="0.0" name="caret_1"/>
+  <anchor x="1850.46" y="0.0" name="bottom"/>
+  <anchor x="2135.29" y="1063.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="413.125" y="-1.75" type="curve"/>
+      <point x="435.875" y="112.125"/>
+      <point x="495.625" y="413.375"/>
+      <point x="522.75" y="557.125" type="curve"/>
+      <point x="581.25" y="621.875"/>
+      <point x="709.5" y="703.125"/>
+      <point x="820.375" y="703.125" type="curve" smooth="yes"/>
+      <point x="939.625" y="703.125"/>
+      <point x="982.75" y="644.375"/>
+      <point x="982.75" y="547.125" type="curve" smooth="yes"/>
+      <point x="982.75" y="426.5"/>
+      <point x="894.625" y="161.625"/>
+      <point x="833.5" y="2.375" type="curve"/>
+      <point x="863.625" y="2.375"/>
+      <point x="932.625" y="6.625"/>
+      <point x="1003.25" y="13.625" type="curve" smooth="yes"/>
+      <point x="1077.0" y="20.625"/>
+      <point x="1154.0" y="30.5"/>
+      <point x="1188.375" y="37.75" type="curve"/>
+      <point x="1282.625" y="336.75"/>
+      <point x="1342.25" y="540.25"/>
+      <point x="1342.25" y="708.625" type="curve" smooth="yes"/>
+      <point x="1342.25" y="900.5"/>
+      <point x="1252.875" y="1013.25"/>
+      <point x="996.5" y="1013.25" type="curve" smooth="yes"/>
+      <point x="817.625" y="1013.25"/>
+      <point x="645.625" y="925.0"/>
+      <point x="562.625" y="844.25" type="curve"/>
+      <point x="574.625" y="900.0"/>
+      <point x="583.75" y="959.0"/>
+      <point x="586.875" y="981.5" type="curve"/>
+      <point x="535.25" y="977.125"/>
+      <point x="255.875" y="940.0"/>
+      <point x="226.875" y="935.125" type="curve"/>
+      <point x="181.875" y="652.75"/>
+      <point x="111.375" y="229.25"/>
+      <point x="65.75" y="-20.375" type="curve"/>
+      <point x="130.875" y="-18.625"/>
+      <point x="335.75" y="-8.5"/>
+    </contour>
+    <component base="n" xOffset="1327.875"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>n</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

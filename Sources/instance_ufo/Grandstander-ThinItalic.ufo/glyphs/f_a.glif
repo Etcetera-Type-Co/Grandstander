@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_a" format="2">
+  <advance width="2053"/>
+  <anchor x="679" y="0" name="caret_1"/>
+  <anchor x="1234" y="0" name="bottom"/>
+  <anchor x="1804" y="10" name="ogonek"/>
+  <anchor x="1508" y="1063" name="top"/>
+  <outline>
+    <contour>
+      <point x="219" y="2" type="curve"/>
+      <point x="236" y="3"/>
+      <point x="286" y="12"/>
+      <point x="313" y="19" type="curve"/>
+      <point x="313" y="75"/>
+      <point x="325" y="398"/>
+      <point x="347" y="583" type="curve"/>
+      <point x="480" y="600"/>
+      <point x="673" y="614"/>
+      <point x="692" y="614" type="curve"/>
+      <point x="698" y="639"/>
+      <point x="704" y="672"/>
+      <point x="705" y="691" type="curve"/>
+      <point x="632" y="691"/>
+      <point x="429" y="670"/>
+      <point x="357" y="660" type="curve"/>
+      <point x="367" y="728"/>
+      <point x="387" y="840"/>
+      <point x="407" y="912" type="curve" smooth="yes"/>
+      <point x="461" y="1107"/>
+      <point x="562" y="1293"/>
+      <point x="750" y="1293" type="curve" smooth="yes"/>
+      <point x="933" y="1293"/>
+      <point x="933" y="1106"/>
+      <point x="933" y="815" type="curve"/>
+      <point x="1009" y="767" type="line"/>
+      <point x="1009" y="1135"/>
+      <point x="975" y="1362"/>
+      <point x="756" y="1362" type="curve" smooth="yes"/>
+      <point x="537" y="1362"/>
+      <point x="396" y="1170"/>
+      <point x="331" y="923" type="curve" smooth="yes"/>
+      <point x="309" y="839"/>
+      <point x="292" y="737"/>
+      <point x="278" y="646" type="curve"/>
+      <point x="250" y="641"/>
+      <point x="82" y="603"/>
+      <point x="54" y="593" type="curve"/>
+      <point x="53" y="568"/>
+      <point x="53" y="544"/>
+      <point x="53" y="520" type="curve"/>
+      <point x="98" y="535"/>
+      <point x="201" y="559"/>
+      <point x="267" y="571" type="curve"/>
+      <point x="242" y="368"/>
+      <point x="220" y="21"/>
+    </contour>
+    <component base="a" xOffset="758"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

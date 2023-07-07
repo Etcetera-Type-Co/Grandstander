@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal" format="2">
+  <advance width="1100.0"/>
+  <unicode hex="2265"/>
+  <outline>
+    <component base="greater" xOffset="79.625" yOffset="120.625"/>
+    <component base="minus" xOffset="-108.5" yOffset="-563.625"/>
+  </outline>
+</glyph>

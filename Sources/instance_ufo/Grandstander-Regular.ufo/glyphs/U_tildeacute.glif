@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Utildeacute" format="2">
+  <advance width="1212.0"/>
+  <unicode hex="1E78"/>
+  <anchor x="606.0" y="0.0" name="bottom"/>
+  <anchor x="773.125" y="0.0" name="ogonek"/>
+  <anchor x="620.375" y="2131.375" name="top"/>
+  <anchor x="1022.875" y="1174.0" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="tildecomb.case" xOffset="83.125" yOffset="36.75"/>
+    <component base="acutecomb.case" xOffset="341.75" yOffset="476.625"/>
+  </outline>
+</glyph>

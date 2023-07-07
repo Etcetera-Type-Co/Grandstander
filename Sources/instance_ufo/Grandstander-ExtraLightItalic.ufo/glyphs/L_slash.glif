@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="1121.0"/>
+  <unicode hex="0141"/>
+  <anchor x="499.585" y="0.0" name="bottom"/>
+  <anchor x="672.6800000000001" y="646.0" name="center"/>
+  <anchor x="626.5" y="1296.5" name="top"/>
+  <anchor x="760.5" y="907.5" name="topright"/>
+  <outline>
+    <contour>
+      <point x="137.375" y="402.875" type="curve"/>
+      <point x="357.125" y="506.375"/>
+      <point x="559.375" y="634.5"/>
+      <point x="829.125" y="821.875" type="curve"/>
+      <point x="829.125" y="842.625"/>
+      <point x="806.5" y="897.0"/>
+      <point x="794.625" y="920.0" type="curve"/>
+      <point x="609.0" y="777.125"/>
+      <point x="381.0" y="632.375"/>
+      <point x="108.0" y="492.875" type="curve"/>
+      <point x="109.75" y="475.75"/>
+      <point x="130.875" y="419.25"/>
+    </contour>
+    <component base="L" xOffset="161.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

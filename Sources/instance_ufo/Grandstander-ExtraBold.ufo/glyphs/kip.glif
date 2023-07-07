@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="1115.0"/>
+  <unicode hex="20AD"/>
+  <anchor x="558.0" y="0.0" name="bottom"/>
+  <anchor x="558.0" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1052.5" y="547.0" type="curve"/>
+      <point x="1052.5" y="622.625"/>
+      <point x="1041.875" y="721.5"/>
+      <point x="1037.25" y="748.625" type="curve"/>
+      <point x="849.125" y="748.625"/>
+      <point x="142.375" y="740.0"/>
+      <point x="-13.25" y="705.75" type="curve"/>
+      <point x="-14.0" y="653.875"/>
+      <point x="-7.375" y="589.25"/>
+      <point x="3.125" y="528.875" type="curve"/>
+      <point x="291.5" y="540.875"/>
+      <point x="883.375" y="547.0"/>
+    </contour>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

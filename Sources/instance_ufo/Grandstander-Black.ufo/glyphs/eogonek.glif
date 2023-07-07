@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eogonek" format="2">
+  <advance width="1123"/>
+  <unicode hex="0119"/>
+  <anchor x="572" y="10" name="bottom"/>
+  <anchor x="776" y="14" name="ogonek"/>
+  <anchor x="617" y="1063" name="top"/>
+  <outline>
+    <contour>
+      <point x="1024" y="-210" type="line"/>
+      <point x="985" y="-238"/>
+      <point x="940" y="-247"/>
+      <point x="897" y="-247" type="curve" smooth="yes"/>
+      <point x="844" y="-247"/>
+      <point x="790" y="-223"/>
+      <point x="790" y="-151" type="curve" smooth="yes"/>
+      <point x="790" y="-71"/>
+      <point x="865" y="13"/>
+      <point x="910" y="44" type="curve"/>
+      <point x="774" y="102" type="line"/>
+      <point x="709" y="83"/>
+      <point x="527" y="-68"/>
+      <point x="527" y="-240" type="curve" smooth="yes"/>
+      <point x="527" y="-407"/>
+      <point x="671" y="-492"/>
+      <point x="829" y="-492" type="curve" smooth="yes"/>
+      <point x="933" y="-492"/>
+      <point x="995" y="-479"/>
+      <point x="1024" y="-467" type="curve"/>
+    </contour>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

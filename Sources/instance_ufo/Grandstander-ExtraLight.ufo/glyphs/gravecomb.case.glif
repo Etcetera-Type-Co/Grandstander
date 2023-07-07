@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <anchor x="474.625" y="1256.0" name="_top"/>
+  <anchor x="408.25" y="1620.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="137.125" y="1605.0" type="curve"/>
+      <point x="108.625" y="1587.75"/>
+      <point x="68.25" y="1550.25"/>
+      <point x="49.875" y="1530.125" type="curve"/>
+      <point x="176.875" y="1498.0"/>
+      <point x="427.375" y="1410.0"/>
+      <point x="516.375" y="1359.375" type="curve"/>
+      <point x="570.125" y="1397.125" type="line"/>
+      <point x="459.125" y="1498.625"/>
+      <point x="190.375" y="1602.625"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>663</integer>
+    </dict>
+  </lib>
+</glyph>

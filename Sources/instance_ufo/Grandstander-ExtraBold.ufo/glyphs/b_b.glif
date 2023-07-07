@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b_b" format="2">
+  <advance width="2449.375"/>
+  <anchor x="1236.25" y="0.0" name="caret_1"/>
+  <anchor x="1866.875" y="5.0" name="bottom"/>
+  <anchor x="1866.875" y="1475.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="233.125" y="-5.75" type="curve"/>
+      <point x="330.875" y="-5.375"/>
+      <point x="470.0" y="-3.25"/>
+      <point x="578.875" y="3.875" type="curve"/>
+      <point x="578.0" y="21.0"/>
+      <point x="572.625" y="69.125"/>
+      <point x="566.0" y="107.375" type="curve"/>
+      <point x="602.625" y="67.625"/>
+      <point x="717.0" y="2.625"/>
+      <point x="834.125" y="2.625" type="curve" smooth="yes"/>
+      <point x="1068.375" y="2.625"/>
+      <point x="1233.125" y="183.25"/>
+      <point x="1233.125" y="472.125" type="curve" smooth="yes"/>
+      <point x="1233.125" y="731.625"/>
+      <point x="1058.125" y="935.625"/>
+      <point x="806.75" y="935.625" type="curve" smooth="yes"/>
+      <point x="687.375" y="935.625"/>
+      <point x="558.25" y="892.25"/>
+      <point x="475.375" y="806.625" type="curve"/>
+      <point x="447.75" y="989.875"/>
+      <point x="402.125" y="1265.625"/>
+      <point x="392.625" y="1312.5" type="curve"/>
+      <point x="255.125" y="1295.5"/>
+      <point x="116.375" y="1279.625"/>
+      <point x="67.125" y="1275.5" type="curve"/>
+      <point x="95.125" y="1047.625"/>
+      <point x="207.0" y="150.5"/>
+    </contour>
+    <contour>
+      <point x="646.125" y="326.375" type="curve" smooth="yes"/>
+      <point x="606.5" y="326.375"/>
+      <point x="573.625" y="337.0"/>
+      <point x="554.0" y="344.125" type="curve"/>
+      <point x="549.875" y="401.5"/>
+      <point x="538.375" y="486.875"/>
+      <point x="532.25" y="514.875" type="curve"/>
+      <point x="582.0" y="569.0"/>
+      <point x="667.25" y="610.75"/>
+      <point x="769.125" y="610.75" type="curve" smooth="yes"/>
+      <point x="839.25" y="610.75"/>
+      <point x="900.25" y="567.625"/>
+      <point x="900.25" y="490.0" type="curve" smooth="yes"/>
+      <point x="900.25" y="377.375"/>
+      <point x="783.75" y="326.375"/>
+    </contour>
+    <component base="b" xOffset="1249.375" yOffset="5.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>b</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

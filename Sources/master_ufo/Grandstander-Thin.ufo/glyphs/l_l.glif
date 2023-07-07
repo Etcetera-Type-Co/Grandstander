@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_l" format="2">
+  <advance width="942"/>
+  <anchor x="384" y="0" name="caret_1"/>
+  <anchor x="103" y="0" name="bottom"/>
+  <anchor x="300" y="735" name="center"/>
+  <anchor x="496" y="1470" name="top"/>
+  <anchor x="500" y="1063" name="topright"/>
+  <outline>
+    <contour>
+      <point x="651" y="-25" type="curve"/>
+      <point x="683" y="86"/>
+      <point x="752" y="333"/>
+      <point x="822" y="593" type="curve" smooth="yes"/>
+      <point x="905" y="901"/>
+      <point x="988" y="1227"/>
+      <point x="1009" y="1363" type="curve"/>
+      <point x="998" y="1366"/>
+      <point x="963" y="1369"/>
+      <point x="943" y="1369" type="curve"/>
+      <point x="717" y="555"/>
+      <point x="612" y="178"/>
+      <point x="540" y="-21" type="curve"/>
+      <point x="550" y="-22"/>
+      <point x="637" y="-25"/>
+    </contour>
+    <component base="l.ss01" xOffset="-37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l.ss01</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

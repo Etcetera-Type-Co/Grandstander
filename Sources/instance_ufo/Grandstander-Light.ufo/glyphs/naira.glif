@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="1282.0"/>
+  <unicode hex="20A6"/>
+  <anchor x="641.0" y="0.0" name="bottom"/>
+  <anchor x="641.0" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="61.5" y="846.0" type="curve"/>
+      <point x="55.0" y="739.0" type="line"/>
+      <point x="264.5" y="741.5"/>
+      <point x="920.75" y="744.0"/>
+      <point x="1181.25" y="744.0" type="curve"/>
+      <point x="1177.25" y="851.5" type="line"/>
+      <point x="916.25" y="851.5"/>
+      <point x="270.5" y="845.5"/>
+    </contour>
+    <contour>
+      <point x="57.0" y="580.75" type="curve"/>
+      <point x="51.0" y="495.75" type="line"/>
+      <point x="260.75" y="488.0"/>
+      <point x="926.0" y="466.75"/>
+      <point x="1192.25" y="466.75" type="curve"/>
+      <point x="1199.25" y="566.5" type="line"/>
+      <point x="933.25" y="566.5"/>
+      <point x="267.0" y="574.5"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etilde" format="2">
+  <advance width="957.0"/>
+  <unicode hex="1EBC"/>
+  <anchor x="496.5" y="0.0" name="bottom"/>
+  <anchor x="692.375" y="0.125" name="ogonek"/>
+  <anchor x="496.5" y="1786.375" name="top"/>
+  <anchor x="37.5" y="1291.0" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="tildecomb.case" xOffset="-32.875" yOffset="28.75"/>
+  </outline>
+</glyph>

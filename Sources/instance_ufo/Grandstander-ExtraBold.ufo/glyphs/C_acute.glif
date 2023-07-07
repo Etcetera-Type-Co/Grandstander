@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cacute" format="2">
+  <advance width="1137.0"/>
+  <unicode hex="0106"/>
+  <anchor x="569.0" y="0.0" name="bottom"/>
+  <anchor x="568.125" y="1684.75" name="top"/>
+  <outline>
+    <component base="C"/>
+    <component base="acutecomb.case" xOffset="342.0" yOffset="5.0"/>
+  </outline>
+</glyph>

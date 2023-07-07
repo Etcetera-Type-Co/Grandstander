@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency" format="2">
+  <advance width="974"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="113" y="106" type="curve"/>
+      <point x="191" y="185"/>
+      <point x="287" y="295"/>
+      <point x="330" y="345" type="curve"/>
+      <point x="272" y="391" type="line"/>
+      <point x="199" y="321"/>
+      <point x="116" y="241"/>
+      <point x="44" y="171" type="curve"/>
+      <point x="70" y="145"/>
+      <point x="87" y="129"/>
+    </contour>
+    <contour>
+      <point x="807" y="135" type="curve"/>
+      <point x="832" y="155"/>
+      <point x="844" y="168"/>
+      <point x="853" y="193" type="curve"/>
+      <point x="800" y="241"/>
+      <point x="737" y="297"/>
+      <point x="677" y="349" type="curve"/>
+      <point x="624" y="309" type="line"/>
+      <point x="667" y="274"/>
+      <point x="735" y="207"/>
+    </contour>
+    <contour>
+      <point x="268" y="704" type="curve"/>
+      <point x="323" y="761" type="line"/>
+      <point x="263" y="838"/>
+      <point x="195" y="913"/>
+      <point x="132" y="968" type="curve"/>
+      <point x="92" y="942"/>
+      <point x="72" y="926"/>
+      <point x="56" y="913" type="curve"/>
+      <point x="122" y="843"/>
+      <point x="191" y="771"/>
+    </contour>
+    <contour>
+      <point x="672" y="713" type="line"/>
+      <point x="732" y="758"/>
+      <point x="815" y="822"/>
+      <point x="887" y="892" type="curve"/>
+      <point x="862" y="918"/>
+      <point x="850" y="930"/>
+      <point x="824" y="956" type="curve"/>
+      <point x="752" y="884"/>
+      <point x="681" y="814"/>
+      <point x="626" y="764" type="curve"/>
+    </contour>
+    <component base="degree" xOffset="106" yOffset="-656"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>degree</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPPC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexgrave.ss01" format="2">
+  <advance width="1200.0"/>
+  <anchor x="457.585" y="0.0" name="bottom"/>
+  <anchor x="970.875" y="18.25" name="ogonek"/>
+  <anchor x="905.75" y="1655.625" name="top"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="circumflexcomb_gravecomb" xOffset="123.125"/>
+  </outline>
+</glyph>

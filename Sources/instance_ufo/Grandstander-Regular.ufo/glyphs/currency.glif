@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency" format="2">
+  <advance width="974.0"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="144.875" y="79.0" type="curve"/>
+      <point x="209.75" y="144.5"/>
+      <point x="331.25" y="286.375"/>
+      <point x="370.5" y="335.625" type="curve"/>
+      <point x="250.25" y="419.5" type="line"/>
+      <point x="178.0" y="351.0"/>
+      <point x="88.625" y="264.625"/>
+      <point x="16.625" y="194.625" type="curve"/>
+      <point x="42.625" y="167.5"/>
+      <point x="115.5" y="103.125"/>
+    </contour>
+    <contour>
+      <point x="801.0" y="105.75" type="curve"/>
+      <point x="826.375" y="128.375"/>
+      <point x="884.875" y="188.625"/>
+      <point x="900.25" y="214.0" type="curve"/>
+      <point x="849.125" y="262.0"/>
+      <point x="764.0" y="336.375"/>
+      <point x="697.625" y="393.625" type="curve"/>
+      <point x="595.125" y="313.125" type="line"/>
+      <point x="634.0" y="277.375"/>
+      <point x="729.0" y="177.75"/>
+    </contour>
+    <contour>
+      <point x="245.125" y="679.25" type="curve"/>
+      <point x="344.0" y="779.0" type="line"/>
+      <point x="284.375" y="855.625"/>
+      <point x="209.25" y="941.125"/>
+      <point x="149.625" y="996.125" type="curve"/>
+      <point x="110.0" y="970.125"/>
+      <point x="46.125" y="910.625"/>
+      <point x="30.5" y="893.125" type="curve"/>
+      <point x="95.0" y="823.125"/>
+      <point x="168.125" y="745.875"/>
+    </contour>
+    <contour>
+      <point x="697.5" y="684.875" type="line"/>
+      <point x="763.875" y="737.75"/>
+      <point x="856.625" y="821.625"/>
+      <point x="924.875" y="891.625" type="curve"/>
+      <point x="899.5" y="917.25"/>
+      <point x="832.75" y="981.75"/>
+      <point x="810.5" y="1007.75" type="curve"/>
+      <point x="740.75" y="939.5"/>
+      <point x="649.125" y="845.125"/>
+      <point x="590.75" y="787.25" type="curve"/>
+    </contour>
+    <component base="degree" xOffset="106.0" yOffset="-656.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>degree</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPPC</string>
+    </dict>
+  </lib>
+</glyph>

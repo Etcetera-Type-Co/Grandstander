@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="1178.0"/>
+  <unicode hex="00B5"/>
+  <anchor x="571.5" y="0.0" name="bottom"/>
+  <anchor x="807.25" y="0.0" name="ogonek"/>
+  <anchor x="571.5" y="1063.0" name="top"/>
+  <anchor x="1052.875" y="906.75" name="topright"/>
+  <outline>
+    <contour>
+      <point x="130.75" y="-423.25" type="curve"/>
+      <point x="233.0" y="-423.25"/>
+      <point x="365.75" y="-415.125"/>
+      <point x="439.625" y="-404.625" type="curve"/>
+      <point x="427.75" y="-286.625"/>
+      <point x="416.75" y="-120.0"/>
+      <point x="416.125" y="21.0" type="curve" smooth="yes"/>
+      <point x="415.125" y="253.0"/>
+      <point x="417.125" y="470.0"/>
+      <point x="426.75" y="710.875" type="curve"/>
+      <point x="65.5" y="740.625" type="line"/>
+      <point x="65.5" y="507.5"/>
+      <point x="95.0" y="-86.125"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

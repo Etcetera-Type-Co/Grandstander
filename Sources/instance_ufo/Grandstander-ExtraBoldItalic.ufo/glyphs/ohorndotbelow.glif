@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorndotbelow" format="2">
+  <advance width="1190.125"/>
+  <unicode hex="1EE3"/>
+  <anchor x="317.0" y="-458.0" name="bottom"/>
+  <anchor x="712.875" y="1063.0" name="top"/>
+  <outline>
+    <component base="ohorn"/>
+    <component base="dotbelowcomb" xOffset="320.625"/>
+  </outline>
+</glyph>

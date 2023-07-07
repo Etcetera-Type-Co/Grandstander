@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance width="564.0"/>
+  <unicode hex="0142"/>
+  <anchor x="323.0" y="0.0" name="bottom"/>
+  <anchor x="323.0" y="735.0" name="center"/>
+  <anchor x="323.0" y="1470.0" name="top"/>
+  <anchor x="387.0" y="1027.25" name="topright"/>
+  <outline>
+    <contour>
+      <point x="418.75" y="983.75" type="curve"/>
+      <point x="304.25" y="787.25"/>
+      <point x="77.5" y="478.25"/>
+      <point x="-86.75" y="299.75" type="curve"/>
+      <point x="-73.75" y="288.5"/>
+      <point x="-21.5" y="246.75"/>
+      <point x="-1.75" y="235.75" type="curve"/>
+      <point x="179.5" y="417.25"/>
+      <point x="389.75" y="689.25"/>
+      <point x="513.25" y="912.25" type="curve"/>
+      <point x="501.0" y="933.5"/>
+      <point x="447.25" y="971.5"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

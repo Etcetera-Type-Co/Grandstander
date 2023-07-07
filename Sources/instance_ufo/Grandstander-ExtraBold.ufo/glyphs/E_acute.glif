@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eacute" format="2">
+  <advance width="957.0"/>
+  <unicode hex="00C9"/>
+  <anchor x="496.5" y="0.0" name="bottom"/>
+  <anchor x="692.375" y="0.125" name="ogonek"/>
+  <anchor x="499.375" y="1712.25" name="top"/>
+  <anchor x="37.5" y="1291.0" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="acutecomb.case" xOffset="273.25" yOffset="32.5"/>
+  </outline>
+</glyph>

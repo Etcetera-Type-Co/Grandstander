@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L_L" format="2">
+  <advance width="1891.5"/>
+  <anchor x="896.875" y="0.0" name="caret_1"/>
+  <anchor x="1269.085" y="0.0" name="bottom"/>
+  <anchor x="1442.18" y="646.0" name="center"/>
+  <anchor x="1396.0" y="1296.5" name="top"/>
+  <anchor x="1530.0" y="907.5" name="topright"/>
+  <outline>
+    <contour>
+      <point x="215.5" y="7.375" type="curve" smooth="yes"/>
+      <point x="366.125" y="7.375"/>
+      <point x="569.5" y="18.75"/>
+      <point x="748.25" y="47.125" type="curve"/>
+      <point x="764.0" y="77.625"/>
+      <point x="792.125" y="156.375"/>
+      <point x="799.375" y="180.875" type="curve"/>
+      <point x="714.375" y="170.375"/>
+      <point x="382.625" y="127.625"/>
+      <point x="254.625" y="126.875" type="curve"/>
+      <point x="278.75" y="211.25"/>
+      <point x="434.5" y="879.875"/>
+      <point x="488.875" y="1193.75" type="curve"/>
+      <point x="475.125" y="1195.875"/>
+      <point x="462.125" y="1197.0"/>
+      <point x="447.125" y="1197.0" type="curve" smooth="yes"/>
+      <point x="419.75" y="1197.0"/>
+      <point x="384.75" y="1194.75"/>
+      <point x="366.125" y="1191.625" type="curve"/>
+      <point x="287.125" y="821.125"/>
+      <point x="197.5" y="480.625"/>
+      <point x="70.125" y="12.0" type="curve"/>
+      <point x="107.75" y="8.625"/>
+      <point x="157.5" y="7.375"/>
+    </contour>
+    <component base="L" xOffset="930.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

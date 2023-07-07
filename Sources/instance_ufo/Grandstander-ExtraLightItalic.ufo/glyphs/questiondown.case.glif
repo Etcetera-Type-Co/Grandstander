@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown.case" format="2">
+  <advance width="1036.0"/>
+  <outline>
+    <contour>
+      <point x="635.125" y="1073.625" type="curve"/>
+      <point x="573.0" y="842.125"/>
+      <point x="469.25" y="739.75"/>
+      <point x="354.125" y="666.5" type="curve" smooth="yes"/>
+      <point x="194.125" y="564.5"/>
+      <point x="85.75" y="426.75"/>
+      <point x="85.75" y="233.875" type="curve" smooth="yes"/>
+      <point x="85.75" y="71.625"/>
+      <point x="194.5" y="-10.0"/>
+      <point x="402.375" y="-10.0" type="curve" smooth="yes"/>
+      <point x="624.75" y="-10.0"/>
+      <point x="831.25" y="95.375"/>
+      <point x="940.5" y="321.625" type="curve"/>
+      <point x="843.375" y="365.75" type="line"/>
+      <point x="795.5" y="267.375"/>
+      <point x="687.375" y="93.875"/>
+      <point x="417.625" y="93.875" type="curve" smooth="yes"/>
+      <point x="268.25" y="93.875"/>
+      <point x="209.125" y="148.625"/>
+      <point x="209.125" y="258.625" type="curve" smooth="yes"/>
+      <point x="209.125" y="408.625"/>
+      <point x="295.25" y="515.875"/>
+      <point x="443.875" y="606.625" type="curve" smooth="yes"/>
+      <point x="626.875" y="719.25"/>
+      <point x="706.625" y="894.5"/>
+      <point x="752.0" y="1062.5" type="curve"/>
+      <point x="717.125" y="1068.625"/>
+      <point x="675.375" y="1073.625"/>
+    </contour>
+    <contour>
+      <point x="782.25" y="1472.0" type="curve" smooth="yes"/>
+      <point x="708.25" y="1472.0"/>
+      <point x="637.125" y="1402.75"/>
+      <point x="637.125" y="1322.5" type="curve" smooth="yes"/>
+      <point x="637.125" y="1271.625"/>
+      <point x="671.875" y="1239.25"/>
+      <point x="734.875" y="1239.25" type="curve" smooth="yes"/>
+      <point x="796.875" y="1239.25"/>
+      <point x="876.375" y="1286.875"/>
+      <point x="876.375" y="1377.375" type="curve" smooth="yes"/>
+      <point x="876.375" y="1435.0"/>
+      <point x="839.5" y="1472.0"/>
+    </contour>
+  </outline>
+</glyph>

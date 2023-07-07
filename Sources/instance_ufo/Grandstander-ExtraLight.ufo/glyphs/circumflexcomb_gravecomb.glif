@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_gravecomb" format="2">
+  <anchor x="435.0" y="1063.0" name="_top"/>
+  <anchor x="450.25" y="1597.875" name="top"/>
+  <outline>
+    <contour>
+      <point x="705.875" y="1098.375" type="curve"/>
+      <point x="729.5" y="1111.5"/>
+      <point x="756.875" y="1128.125"/>
+      <point x="785.625" y="1152.0" type="curve"/>
+      <point x="704.75" y="1232.125"/>
+      <point x="580.625" y="1347.0"/>
+      <point x="498.625" y="1421.625" type="curve"/>
+      <point x="476.5" y="1423.375"/>
+      <point x="440.125" y="1423.125"/>
+      <point x="422.75" y="1422.875" type="curve"/>
+      <point x="381.125" y="1395.0"/>
+      <point x="204.625" y="1263.125"/>
+      <point x="92.25" y="1177.375" type="curve"/>
+      <point x="110.875" y="1161.375"/>
+      <point x="165.25" y="1129.0"/>
+      <point x="184.25" y="1122.0" type="curve"/>
+      <point x="256.5" y="1175.25"/>
+      <point x="444.0" y="1329.125"/>
+      <point x="465.375" y="1346.875" type="curve"/>
+      <point x="448.125" y="1346.875" type="line"/>
+      <point x="467.75" y="1330.5"/>
+      <point x="641.75" y="1168.75"/>
+    </contour>
+    <contour>
+      <point x="846.625" y="1350.75" type="curve"/>
+      <point x="852.375" y="1357.25"/>
+      <point x="876.5" y="1404.375"/>
+      <point x="884.75" y="1425.625" type="curve"/>
+      <point x="820.875" y="1488.125"/>
+      <point x="587.75" y="1595.375"/>
+      <point x="536.0" y="1597.875" type="curve"/>
+      <point x="507.25" y="1580.25"/>
+      <point x="466.625" y="1543.125"/>
+      <point x="447.875" y="1523.0" type="curve"/>
+      <point x="570.5" y="1489.75"/>
+      <point x="759.875" y="1400.75"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>874</integer>
+    </dict>
+  </lib>
+</glyph>

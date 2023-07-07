@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scedilla" format="2">
+  <advance width="989.75"/>
+  <unicode hex="015F"/>
+  <anchor x="337.75" y="-67.5" name="bottom"/>
+  <anchor x="645.0" y="1117.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="238.25" y="-555.75" type="curve" smooth="yes"/>
+      <point x="467.5" y="-555.75"/>
+      <point x="700.0" y="-473.5"/>
+      <point x="700.0" y="-260.75" type="curve" smooth="yes"/>
+      <point x="700.0" y="-161.75"/>
+      <point x="637.25" y="-117.0"/>
+      <point x="543.5" y="-117.0" type="curve" smooth="yes"/>
+      <point x="479.0" y="-117.0"/>
+      <point x="417.75" y="-142.75"/>
+      <point x="390.5" y="-171.5" type="curve"/>
+      <point x="433.0" y="-43.5" type="line"/>
+      <point x="249.25" y="-51.5" type="line"/>
+      <point x="163.5" y="-283.25" type="line"/>
+      <point x="202.75" y="-269.0"/>
+      <point x="292.0" y="-249.0"/>
+      <point x="364.25" y="-249.0" type="curve" smooth="yes"/>
+      <point x="429.5" y="-249.0"/>
+      <point x="473.5" y="-264.0"/>
+      <point x="473.5" y="-301.25" type="curve" smooth="yes"/>
+      <point x="473.5" y="-363.5"/>
+      <point x="394.25" y="-388.25"/>
+      <point x="265.5" y="-388.25" type="curve" smooth="yes"/>
+      <point x="228.0" y="-388.25"/>
+      <point x="148.0" y="-374.75"/>
+      <point x="118.25" y="-362.5" type="curve"/>
+      <point x="39.5" y="-533.0" type="line"/>
+      <point x="58.5" y="-538.5"/>
+      <point x="133.5" y="-555.75"/>
+    </contour>
+    <component base="s"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

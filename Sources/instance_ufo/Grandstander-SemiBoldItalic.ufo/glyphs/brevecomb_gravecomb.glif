@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb" format="2">
+  <anchor x="505.625" y="860.0" name="_top"/>
+  <anchor x="692.5" y="1630.625" name="top"/>
+  <outline>
+    <contour>
+      <point x="857.375" y="1228.0" type="curve"/>
+      <point x="827.5" y="1241.125"/>
+      <point x="765.625" y="1254.75"/>
+      <point x="697.0" y="1254.75" type="curve"/>
+      <point x="682.5" y="1140.75"/>
+      <point x="638.0" y="1070.0"/>
+      <point x="558.5" y="1070.0" type="curve" smooth="yes"/>
+      <point x="499.75" y="1070.0"/>
+      <point x="464.5" y="1102.5"/>
+      <point x="464.5" y="1184.75" type="curve" smooth="yes"/>
+      <point x="464.5" y="1205.375"/>
+      <point x="466.0" y="1228.0"/>
+      <point x="469.375" y="1251.25" type="curve"/>
+      <point x="424.25" y="1251.25"/>
+      <point x="345.625" y="1250.25"/>
+      <point x="304.5" y="1238.625" type="curve"/>
+      <point x="302.125" y="1213.625"/>
+      <point x="299.75" y="1187.75"/>
+      <point x="299.75" y="1164.75" type="curve" smooth="yes"/>
+      <point x="299.75" y="1020.875"/>
+      <point x="366.25" y="932.5"/>
+      <point x="542.75" y="932.5" type="curve" smooth="yes"/>
+      <point x="711.625" y="932.5"/>
+      <point x="836.75" y="1055.875"/>
+    </contour>
+    <contour>
+      <point x="405.5" y="1630.625" type="curve"/>
+      <point x="346.625" y="1582.5"/>
+      <point x="292.75" y="1500.375"/>
+      <point x="278.125" y="1479.75" type="curve"/>
+      <point x="392.625" y="1449.875"/>
+      <point x="608.625" y="1377.375"/>
+      <point x="688.875" y="1331.0" type="curve"/>
+      <point x="704.375" y="1339.5"/>
+      <point x="758.875" y="1399.375"/>
+      <point x="782.125" y="1437.875" type="curve"/>
+      <point x="682.375" y="1531.25"/>
+      <point x="457.5" y="1626.125"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>885</integer>
+    </dict>
+  </lib>
+</glyph>

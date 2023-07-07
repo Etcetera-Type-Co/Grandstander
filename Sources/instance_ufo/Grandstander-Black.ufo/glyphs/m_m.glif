@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m_m" format="2">
+  <advance width="3568"/>
+  <anchor x="1884" y="0" name="caret_1"/>
+  <anchor x="929" y="0" name="bottom"/>
+  <anchor x="929" y="1063" name="top"/>
+  <outline>
+    <contour>
+      <point x="2333" y="-58" type="curve"/>
+      <point x="2329" y="-6"/>
+      <point x="2313" y="212"/>
+      <point x="2313" y="532" type="curve"/>
+      <point x="2318" y="638"/>
+      <point x="2370" y="720"/>
+      <point x="2429" y="720" type="curve" smooth="yes"/>
+      <point x="2480" y="720"/>
+      <point x="2522" y="686"/>
+      <point x="2522" y="535" type="curve" smooth="yes"/>
+      <point x="2522" y="416"/>
+      <point x="2526" y="140"/>
+      <point x="2530" y="-51" type="curve"/>
+      <point x="2563" y="-55"/>
+      <point x="2624" y="-57"/>
+      <point x="2703" y="-57" type="curve" smooth="yes"/>
+      <point x="2770" y="-57"/>
+      <point x="2836" y="-55"/>
+      <point x="2870" y="-53" type="curve"/>
+      <point x="2870" y="604"/>
+      <point x="2925" y="716"/>
+      <point x="3004" y="716" type="curve" smooth="yes"/>
+      <point x="3077" y="716"/>
+      <point x="3101" y="651"/>
+      <point x="3101" y="474" type="curve" smooth="yes"/>
+      <point x="3101" y="389"/>
+      <point x="3097" y="79"/>
+      <point x="3090" y="-39" type="curve"/>
+      <point x="3100" y="-40"/>
+      <point x="3116" y="-41"/>
+      <point x="3136" y="-41" type="curve" smooth="yes"/>
+      <point x="3235" y="-41"/>
+      <point x="3430" y="-28"/>
+      <point x="3453" y="-22" type="curve"/>
+      <point x="3480" y="156"/>
+      <point x="3502" y="377"/>
+      <point x="3502" y="564" type="curve" smooth="yes"/>
+      <point x="3502" y="692"/>
+      <point x="3487" y="808"/>
+      <point x="3442" y="898" type="curve" smooth="yes"/>
+      <point x="3386" y="1011"/>
+      <point x="3283" y="1082"/>
+      <point x="3103" y="1082" type="curve" smooth="yes"/>
+      <point x="2914" y="1082"/>
+      <point x="2768" y="891"/>
+      <point x="2751" y="823" type="curve"/>
+      <point x="2749" y="848"/>
+      <point x="2737" y="880"/>
+      <point x="2718" y="913" type="curve" smooth="yes"/>
+      <point x="2675" y="987"/>
+      <point x="2591" y="1063"/>
+      <point x="2468" y="1063" type="curve" smooth="yes"/>
+      <point x="2371" y="1063"/>
+      <point x="2274" y="1009"/>
+      <point x="2234" y="937" type="curve"/>
+      <point x="2234" y="964"/>
+      <point x="2234" y="1050"/>
+      <point x="2234" y="1091" type="curve"/>
+      <point x="2213" y="1091"/>
+      <point x="1936" y="1080"/>
+      <point x="1901" y="1074" type="curve"/>
+      <point x="1914" y="904"/>
+      <point x="1964" y="97"/>
+      <point x="1964" y="-51" type="curve"/>
+      <point x="2014" y="-56"/>
+      <point x="2140" y="-60"/>
+      <point x="2227" y="-60" type="curve" smooth="yes"/>
+      <point x="2260" y="-60"/>
+      <point x="2317" y="-59"/>
+    </contour>
+    <component base="m"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>m</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

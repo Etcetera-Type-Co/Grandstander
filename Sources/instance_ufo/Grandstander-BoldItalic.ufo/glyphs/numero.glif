@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="2000.0"/>
+  <unicode hex="2116"/>
+  <anchor x="453.585" y="0.0" name="bottom"/>
+  <anchor x="799.507" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1883.0" y="464.75" type="curve"/>
+      <point x="1839.25" y="469.0"/>
+      <point x="1746.25" y="469.75"/>
+      <point x="1632.0" y="469.75" type="curve" smooth="yes"/>
+      <point x="1513.25" y="469.75"/>
+      <point x="1381.25" y="463.0"/>
+      <point x="1310.5" y="459.25" type="curve"/>
+      <point x="1293.25" y="396.0"/>
+      <point x="1275.5" y="328.25"/>
+      <point x="1265.25" y="279.75" type="curve"/>
+      <point x="1439.0" y="279.75"/>
+      <point x="1649.0" y="279.75"/>
+      <point x="1831.25" y="279.75" type="curve"/>
+      <point x="1844.75" y="322.5"/>
+      <point x="1868.5" y="410.0"/>
+    </contour>
+    <component base="N" xOffset="-45.0"/>
+    <component base="ordmasculine" xOffset="1201.75" yOffset="-191.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>N</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ordmasculine</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCC</string>
+    </dict>
+  </lib>
+</glyph>

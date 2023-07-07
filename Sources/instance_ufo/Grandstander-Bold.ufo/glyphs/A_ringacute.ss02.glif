@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute.ss02" format="2">
+  <advance width="1187.0"/>
+  <anchor x="571.0" y="0.0" name="bottom"/>
+  <anchor x="1102.0" y="4.0" name="ogonek"/>
+  <anchor x="644.75" y="2306.5" name="top"/>
+  <outline>
+    <component base="A.ss02"/>
+    <component base="ringcomb.case" xOffset="275.75" yOffset="35.0"/>
+    <component base="acutecomb.case" xOffset="405.5" yOffset="633.0"/>
+  </outline>
+</glyph>

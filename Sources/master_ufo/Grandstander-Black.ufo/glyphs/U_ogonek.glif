@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="1212"/>
+  <unicode hex="0172"/>
+  <anchor x="463.585" y="0.0" name="bottom"/>
+  <anchor x="652" y="0" name="ogonek"/>
+  <anchor x="835" y="1318" name="top"/>
+  <anchor x="1261" y="1174" name="topright"/>
+  <outline>
+    <contour>
+      <point x="860" y="-219" type="line"/>
+      <point x="821" y="-247"/>
+      <point x="776" y="-256"/>
+      <point x="733" y="-256" type="curve" smooth="yes"/>
+      <point x="680" y="-256"/>
+      <point x="626" y="-232"/>
+      <point x="626" y="-160" type="curve" smooth="yes"/>
+      <point x="626" y="-80"/>
+      <point x="701" y="4"/>
+      <point x="746" y="35" type="curve"/>
+      <point x="610" y="93" type="line"/>
+      <point x="545" y="74"/>
+      <point x="363" y="-77"/>
+      <point x="363" y="-249" type="curve" smooth="yes"/>
+      <point x="363" y="-416"/>
+      <point x="507" y="-501"/>
+      <point x="665" y="-501" type="curve" smooth="yes"/>
+      <point x="769" y="-501"/>
+      <point x="831" y="-488"/>
+      <point x="860" y="-476" type="curve"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

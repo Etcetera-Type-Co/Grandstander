@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c_c" format="2">
+  <advance width="1960.875"/>
+  <anchor x="1046.0" y="0.0" name="caret_1"/>
+  <anchor x="513.0" y="0.0" name="bottom"/>
+  <anchor x="513.0" y="1063.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1523.25" y="77.125" type="curve" smooth="yes"/>
+      <point x="1692.0" y="77.125"/>
+      <point x="1814.75" y="129.5"/>
+      <point x="1869.25" y="179.125" type="curve"/>
+      <point x="1861.375" y="198.5"/>
+      <point x="1817.375" y="266.75"/>
+      <point x="1805.375" y="283.375" type="curve"/>
+      <point x="1787.0" y="263.375"/>
+      <point x="1699.625" y="190.0"/>
+      <point x="1528.75" y="190.0" type="curve" smooth="yes"/>
+      <point x="1331.5" y="190.0"/>
+      <point x="1169.875" y="355.375"/>
+      <point x="1169.875" y="549.875" type="curve" smooth="yes"/>
+      <point x="1169.875" y="805.625"/>
+      <point x="1358.5" y="930.5"/>
+      <point x="1496.875" y="930.5" type="curve" smooth="yes"/>
+      <point x="1645.75" y="930.5"/>
+      <point x="1751.5" y="849.0"/>
+      <point x="1761.5" y="834.875" type="curve"/>
+      <point x="1818.75" y="939.5" type="line"/>
+      <point x="1749.625" y="997.625"/>
+      <point x="1632.625" y="1040.625"/>
+      <point x="1505.875" y="1040.625" type="curve" smooth="yes"/>
+      <point x="1222.625" y="1040.625"/>
+      <point x="1050.625" y="803.75"/>
+      <point x="1050.625" y="555.125" type="curve" smooth="yes"/>
+      <point x="1050.625" y="267.125"/>
+      <point x="1253.75" y="77.125"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

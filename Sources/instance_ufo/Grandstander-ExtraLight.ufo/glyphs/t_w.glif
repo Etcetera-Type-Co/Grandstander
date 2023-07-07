@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_w" format="2">
+  <advance width="2329.375"/>
+  <anchor x="805.5" y="0.0" name="caret_1"/>
+  <anchor x="1569.375" y="-4.875" name="bottom"/>
+  <anchor x="1569.375" y="1058.125" name="top"/>
+  <outline>
+    <contour>
+      <point x="1013.25" y="961.75" type="curve"/>
+      <point x="1086.625" y="1049.625" type="line"/>
+      <point x="1033.625" y="1073.0"/>
+      <point x="845.75" y="1088.125"/>
+      <point x="719.875" y="1088.125" type="curve" smooth="yes"/>
+      <point x="651.875" y="1088.125"/>
+      <point x="583.5" y="1084.75"/>
+      <point x="541.5" y="1082.125" type="curve"/>
+      <point x="536.5" y="1231.0"/>
+      <point x="527.375" y="1412.25"/>
+      <point x="525.625" y="1432.5" type="curve"/>
+      <point x="392.625" y="1438.25" type="line"/>
+      <point x="398.625" y="1361.75"/>
+      <point x="409.375" y="1210.75"/>
+      <point x="413.75" y="1070.75" type="curve"/>
+      <point x="315.75" y="1063.0"/>
+      <point x="107.75" y="1027.875"/>
+      <point x="48.375" y="1015.375" type="curve"/>
+      <point x="48.375" y="988.25"/>
+      <point x="52.375" y="929.625"/>
+      <point x="61.125" y="896.125" type="curve"/>
+      <point x="92.875" y="904.375"/>
+      <point x="263.75" y="939.375"/>
+      <point x="417.0" y="960.0" type="curve"/>
+      <point x="417.0" y="403.125"/>
+      <point x="406.0" y="121.25"/>
+      <point x="400.25" y="4.75" type="curve"/>
+      <point x="423.375" y="1.875"/>
+      <point x="479.375" y="-2.0"/>
+      <point x="516.125" y="-2.0" type="curve"/>
+      <point x="529.125" y="100.875"/>
+      <point x="546.375" y="438.875"/>
+      <point x="546.375" y="969.125" type="curve"/>
+      <point x="592.75" y="975.375"/>
+      <point x="680.5" y="980.125"/>
+      <point x="745.25" y="980.125" type="curve" smooth="yes"/>
+      <point x="858.25" y="980.125"/>
+      <point x="953.125" y="974.5"/>
+    </contour>
+    <component base="w" xOffset="809.375" yOffset="-4.875"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>w</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

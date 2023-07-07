@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflextilde" format="2">
+  <advance width="957.0"/>
+  <unicode hex="1EC4"/>
+  <anchor x="336.89625" y="0.0" name="bottom"/>
+  <anchor x="594.5" y="0.0" name="ogonek"/>
+  <anchor x="901.25" y="2211.25" name="top"/>
+  <anchor x="223.87675000000002" y="1291.0" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcomb.case" xOffset="67.0" yOffset="27.5"/>
+    <component base="tildecomb.case" xOffset="76.25" yOffset="467.5"/>
+  </outline>
+</glyph>

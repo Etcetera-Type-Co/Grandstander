@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dong" format="2">
+  <advance width="1195.0"/>
+  <unicode hex="20AB"/>
+  <anchor x="440.68874999999997" y="0.0" name="bottom"/>
+  <anchor x="1070.5" y="1210.75" name="center"/>
+  <anchor x="834.3525" y="1470.0" name="top"/>
+  <anchor x="1225.25" y="1004.25" name="topright"/>
+  <outline>
+    <contour>
+      <point x="1334.75" y="1134.25" type="curve"/>
+      <point x="1346.0" y="1169.5"/>
+      <point x="1360.5" y="1218.25"/>
+      <point x="1364.5" y="1237.75" type="curve"/>
+      <point x="1203.75" y="1237.75"/>
+      <point x="830.5" y="1222.5"/>
+      <point x="736.5" y="1214.25" type="curve"/>
+      <point x="701.5" y="1126.5" type="line"/>
+      <point x="885.5" y="1130.25"/>
+      <point x="1213.5" y="1134.75"/>
+    </contour>
+    <contour>
+      <point x="859.0" y="-173.5" type="curve"/>
+      <point x="868.5" y="-136.5"/>
+      <point x="877.75" y="-90.75"/>
+      <point x="878.5" y="-78.75" type="curve"/>
+      <point x="713.0" y="-78.75"/>
+      <point x="93.0" y="-90.25"/>
+      <point x="-6.0" y="-105.0" type="curve"/>
+      <point x="-16.25" y="-124.75"/>
+      <point x="-26.0" y="-160.75"/>
+      <point x="-30.25" y="-186.5" type="curve"/>
+      <point x="185.5" y="-180.0"/>
+      <point x="675.5" y="-173.5"/>
+    </contour>
+    <component base="d" xOffset="-7.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

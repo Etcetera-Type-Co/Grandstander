@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nmacronbelow.ss02" format="2">
+  <advance width="1282.0"/>
+  <anchor x="422.5" y="-386.375" name="bottom"/>
+  <anchor x="823.25" y="1291.0" name="top"/>
+  <outline>
+    <component base="N.ss02"/>
+    <component base="macronbelowcomb.case" xOffset="115.875"/>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="1171.25"/>
+  <unicode hex="00F8"/>
+  <anchor x="737.415" y="1063.0" name="top"/>
+  <anchor x="433.875" y="0.0" name="bottom"/>
+  <anchor x="575.875" y="532.0" name="center"/>
+  <anchor x="627.25" y="0.0" name="ogonek"/>
+  <anchor x="976.0" y="941.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="1178.625" y="1063.875" type="curve"/>
+      <point x="1154.875" y="1084.625"/>
+      <point x="1101.375" y="1115.25"/>
+      <point x="1055.625" y="1139.625" type="curve"/>
+      <point x="828.625" y="839.25"/>
+      <point x="224.75" y="256.125"/>
+      <point x="-45.625" y="5.375" type="curve"/>
+      <point x="-24.625" y="-33.0"/>
+      <point x="23.0" y="-74.375"/>
+      <point x="52.625" y="-92.375" type="curve"/>
+      <point x="292.125" y="99.5"/>
+      <point x="871.375" y="629.625"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

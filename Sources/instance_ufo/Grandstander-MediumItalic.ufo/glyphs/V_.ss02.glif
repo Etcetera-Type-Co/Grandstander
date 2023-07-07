@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V.ss02" format="2">
+  <advance width="1174.5"/>
+  <anchor x="467.5" y="0.0" name="bottom"/>
+  <anchor x="812.5" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="461.5" y="-35.5" type="curve"/>
+      <point x="592.0" y="183.5"/>
+      <point x="1112.5" y="985.0"/>
+      <point x="1316.0" y="1253.5" type="curve"/>
+      <point x="1292.0" y="1278.5"/>
+      <point x="1138.0" y="1312.5"/>
+      <point x="1092.5" y="1317.5" type="curve"/>
+      <point x="1003.5" y="1217.0"/>
+      <point x="626.0" y="616.5"/>
+      <point x="545.0" y="456.0" type="curve"/>
+      <point x="506.5" y="627.5"/>
+      <point x="501.5" y="1226.0"/>
+      <point x="513.5" y="1370.0" type="curve"/>
+      <point x="442.0" y="1351.5"/>
+      <point x="306.0" y="1308.0"/>
+      <point x="249.5" y="1284.0" type="curve"/>
+      <point x="238.5" y="960.0"/>
+      <point x="338.5" y="144.0"/>
+    </contour>
+  </outline>
+</glyph>

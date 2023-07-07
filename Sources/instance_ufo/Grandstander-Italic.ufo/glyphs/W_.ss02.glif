@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W.ss02" format="2">
+  <advance width="1344.0"/>
+  <anchor x="515.0" y="0.0" name="bottom"/>
+  <anchor x="919.75" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="211.125" y="-23.75" type="curve"/>
+      <point x="284.625" y="54.625"/>
+      <point x="595.625" y="487.25"/>
+      <point x="676.75" y="585.25" type="curve"/>
+      <point x="702.375" y="441.375"/>
+      <point x="743.0" y="82.875"/>
+      <point x="765.125" y="-25.625" type="curve"/>
+      <point x="899.875" y="138.125"/>
+      <point x="1347.0" y="930.375"/>
+      <point x="1494.25" y="1258.75" type="curve"/>
+      <point x="1333.75" y="1329.375" type="line"/>
+      <point x="1260.375" y="1162.375"/>
+      <point x="1009.125" y="666.375"/>
+      <point x="858.875" y="411.125" type="curve"/>
+      <point x="846.125" y="558.375"/>
+      <point x="804.875" y="829.875"/>
+      <point x="775.0" y="929.5" type="curve"/>
+      <point x="692.125" y="841.375"/>
+      <point x="475.75" y="561.125"/>
+      <point x="362.5" y="393.875" type="curve"/>
+      <point x="384.75" y="725.5"/>
+      <point x="421.625" y="1113.75"/>
+      <point x="448.25" y="1326.125" type="curve"/>
+      <point x="246.125" y="1276.5" type="line"/>
+      <point x="202.5" y="899.25"/>
+      <point x="192.625" y="213.625"/>
+    </contour>
+  </outline>
+</glyph>

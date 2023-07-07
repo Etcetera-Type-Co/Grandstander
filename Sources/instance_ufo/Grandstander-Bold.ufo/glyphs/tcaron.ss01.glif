@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron.ss01" format="2">
+  <advance width="964.0"/>
+  <anchor x="482.0" y="0.0" name="bottom"/>
+  <anchor x="482.0" y="532.0" name="center"/>
+  <anchor x="448.0" y="1424.0" name="top"/>
+  <anchor x="663.0" y="1367.25" name="topright"/>
+  <outline>
+    <component base="t.ss01"/>
+    <component base="caroncomb.alt" xOffset="626.5" yOffset="304.25"/>
+  </outline>
+</glyph>

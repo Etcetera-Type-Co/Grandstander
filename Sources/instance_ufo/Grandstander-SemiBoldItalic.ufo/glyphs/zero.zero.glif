@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.zero" format="2">
+  <advance width="1087.0"/>
+  <outline>
+    <contour>
+      <point x="213.75" y="445.25" type="curve"/>
+      <point x="304.625" y="313.25" type="line"/>
+      <point x="409.25" y="412.625"/>
+      <point x="828.0" y="792.25"/>
+      <point x="922.625" y="866.75" type="curve"/>
+      <point x="845.75" y="1006.75" type="line"/>
+      <point x="757.875" y="946.625"/>
+      <point x="337.875" y="582.0"/>
+    </contour>
+    <component base="zero"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

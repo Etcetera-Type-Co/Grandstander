@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresismacron" format="2">
+  <advance width="1178.0"/>
+  <unicode hex="01D6"/>
+  <anchor x="583.98" y="1673.0" name="top"/>
+  <anchor x="584.0" y="0.0" name="bottom"/>
+  <anchor x="763.5" y="0.0" name="ogonek"/>
+  <anchor x="952.25" y="930.5" name="topright"/>
+  <outline>
+    <contour>
+      <point x="869.75" y="1555.75" type="curve"/>
+      <point x="869.75" y="1600.75"/>
+      <point x="867.0" y="1649.25"/>
+      <point x="865.5" y="1664.25" type="curve"/>
+      <point x="741.0" y="1664.25"/>
+      <point x="394.25" y="1634.0"/>
+      <point x="315.5" y="1616.0" type="curve"/>
+      <point x="311.75" y="1590.75"/>
+      <point x="311.75" y="1553.0"/>
+      <point x="313.5" y="1523.25" type="curve"/>
+      <point x="471.75" y="1539.75"/>
+      <point x="732.75" y="1555.75"/>
+    </contour>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="103.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCC</string>
+    </dict>
+  </lib>
+</glyph>

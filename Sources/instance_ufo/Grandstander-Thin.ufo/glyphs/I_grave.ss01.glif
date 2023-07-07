@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Igrave.ss01" format="2">
+  <advance width="839"/>
+  <anchor x="420" y="0" name="bottom"/>
+  <anchor x="440" y="6" name="ogonek"/>
+  <anchor x="345" y="1660" name="top"/>
+  <anchor x="20" y="1291" name="topleft"/>
+  <outline>
+    <component base="I.ss01"/>
+    <component base="gravecomb.case" xOffset="-64" yOffset="50"/>
+  </outline>
+</glyph>

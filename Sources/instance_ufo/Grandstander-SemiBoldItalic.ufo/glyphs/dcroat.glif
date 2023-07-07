@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="1195.0"/>
+  <unicode hex="0111"/>
+  <anchor x="437.094375" y="0.0" name="bottom"/>
+  <anchor x="1066.0" y="1193.875" name="center"/>
+  <anchor x="830.42625" y="1470.0" name="top"/>
+  <anchor x="1254.875" y="1013.625" name="topright"/>
+  <outline>
+    <contour>
+      <point x="1341.25" y="1097.375" type="curve"/>
+      <point x="1357.75" y="1140.125"/>
+      <point x="1370.625" y="1180.875"/>
+      <point x="1380.625" y="1223.625" type="curve"/>
+      <point x="1266.625" y="1245.625"/>
+      <point x="886.75" y="1273.375"/>
+      <point x="749.125" y="1273.375" type="curve"/>
+      <point x="740.75" y="1252.0"/>
+      <point x="718.375" y="1187.75"/>
+      <point x="702.375" y="1125.625" type="curve"/>
+      <point x="837.875" y="1125.625"/>
+      <point x="1154.0" y="1113.0"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

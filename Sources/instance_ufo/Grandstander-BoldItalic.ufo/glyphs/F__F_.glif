@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F_F" format="2">
+  <advance width="1863.0"/>
+  <anchor x="721.5" y="0.0" name="caret_1"/>
+  <anchor x="317.89625" y="0.0" name="bottom"/>
+  <anchor x="663.87675" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1169.75" y="-6.5" type="line"/>
+      <point x="1204.0" y="72.75"/>
+      <point x="1271.0" y="272.25"/>
+      <point x="1310.25" y="424.75" type="curve" smooth="yes"/>
+      <point x="1316.25" y="448.0"/>
+      <point x="1321.5" y="468.75"/>
+      <point x="1326.25" y="488.25" type="curve"/>
+      <point x="1444.5" y="488.25"/>
+      <point x="1627.25" y="450.25"/>
+      <point x="1683.75" y="434.25" type="curve"/>
+      <point x="1724.75" y="537.75"/>
+      <point x="1757.0" y="641.5"/>
+      <point x="1777.5" y="718.0" type="curve"/>
+      <point x="1716.75" y="737.25"/>
+      <point x="1515.75" y="758.0"/>
+      <point x="1400.0" y="764.5" type="curve"/>
+      <point x="1421.0" y="837.5"/>
+      <point x="1441.75" y="912.5"/>
+      <point x="1459.25" y="985.5" type="curve"/>
+      <point x="1588.5" y="984.25"/>
+      <point x="1861.5" y="957.5"/>
+      <point x="1898.5" y="953.5" type="curve"/>
+      <point x="1907.5" y="974.5"/>
+      <point x="1952.0" y="1086.75"/>
+      <point x="1988.75" y="1227.25" type="curve"/>
+      <point x="1840.75" y="1243.5"/>
+      <point x="1457.5" y="1262.25"/>
+      <point x="1226.0" y="1262.25" type="curve"/>
+      <point x="1188.5" y="1065.25"/>
+      <point x="1143.25" y="870.0"/>
+      <point x="1090.25" y="672.0" type="curve" smooth="yes"/>
+      <point x="1031.5" y="451.0"/>
+      <point x="962.0" y="228.25"/>
+      <point x="887.25" y="10.5" type="curve"/>
+    </contour>
+    <component base="F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>F</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

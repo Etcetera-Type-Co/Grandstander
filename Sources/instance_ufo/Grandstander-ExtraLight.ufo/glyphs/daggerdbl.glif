@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="1060.0"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="909.625" y="145.5" type="curve"/>
+      <point x="909.625" y="180.5"/>
+      <point x="907.375" y="221.0"/>
+      <point x="904.25" y="232.5" type="curve"/>
+      <point x="721.625" y="232.5"/>
+      <point x="208.375" y="200.625"/>
+      <point x="108.0" y="184.25" type="curve"/>
+      <point x="101.0" y="167.125"/>
+      <point x="100.25" y="132.0"/>
+      <point x="101.625" y="110.125" type="curve"/>
+      <point x="327.5" y="126.5"/>
+      <point x="699.375" y="145.5"/>
+    </contour>
+    <component base="dagger"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

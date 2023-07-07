@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d_d" format="2">
+  <advance width="2261"/>
+  <anchor x="1058" y="0" name="caret_1"/>
+  <anchor x="1520.585" y="-5.0" name="bottom"/>
+  <anchor x="2151" y="1217" name="center"/>
+  <anchor x="1914.47" y="1465.0" name="top"/>
+  <anchor x="2283" y="993" name="topright"/>
+  <outline>
+    <contour>
+      <point x="389" y="52" type="curve" smooth="yes"/>
+      <point x="545" y="52"/>
+      <point x="734" y="139"/>
+      <point x="831" y="268" type="curve"/>
+      <point x="827" y="248"/>
+      <point x="800" y="106"/>
+      <point x="794" y="70" type="curve"/>
+      <point x="823" y="72"/>
+      <point x="875" y="83"/>
+      <point x="894" y="89" type="curve"/>
+      <point x="975" y="502"/>
+      <point x="1020" y="725"/>
+      <point x="1095" y="1005" type="curve" smooth="yes"/>
+      <point x="1120" y="1098"/>
+      <point x="1154" y="1217"/>
+      <point x="1188" y="1332" type="curve"/>
+      <point x="1108" y="1337" type="line"/>
+      <point x="1088" y="1281"/>
+      <point x="1031" y="1078"/>
+      <point x="968" y="842" type="curve"/>
+      <point x="942" y="867"/>
+      <point x="829" y="952"/>
+      <point x="638" y="952" type="curve" smooth="yes"/>
+      <point x="317" y="952"/>
+      <point x="77" y="720"/>
+      <point x="77" y="392" type="curve" smooth="yes"/>
+      <point x="77" y="201"/>
+      <point x="174" y="52"/>
+    </contour>
+    <contour>
+      <point x="402" y="131" type="curve" smooth="yes"/>
+      <point x="236" y="131"/>
+      <point x="168" y="250"/>
+      <point x="168" y="402" type="curve" smooth="yes"/>
+      <point x="168" y="673"/>
+      <point x="374" y="884"/>
+      <point x="640" y="884" type="curve" smooth="yes"/>
+      <point x="797" y="884"/>
+      <point x="908" y="787"/>
+      <point x="940" y="746" type="curve"/>
+      <point x="926" y="688"/>
+      <point x="861" y="416"/>
+      <point x="848" y="356" type="curve"/>
+      <point x="721" y="247"/>
+      <point x="580" y="131"/>
+    </contour>
+    <component base="d" xOffset="1065" yOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

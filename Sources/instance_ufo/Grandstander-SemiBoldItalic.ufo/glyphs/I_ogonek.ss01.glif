@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek.ss01" format="2">
+  <advance width="839.0"/>
+  <anchor x="277.585" y="0.0" name="bottom"/>
+  <anchor x="567.375" y="-9.375" name="ogonek"/>
+  <anchor x="640.25" y="1313.5" name="top"/>
+  <anchor x="223.507" y="1291.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="524.875" y="-287.5" type="line"/>
+      <point x="473.125" y="-317.375"/>
+      <point x="426.625" y="-330.5"/>
+      <point x="364.5" y="-330.5" type="curve" smooth="yes"/>
+      <point x="297.625" y="-330.5"/>
+      <point x="242.5" y="-303.875"/>
+      <point x="242.5" y="-220.625" type="curve" smooth="yes"/>
+      <point x="242.5" y="-128.25"/>
+      <point x="338.125" y="-25.5"/>
+      <point x="408.25" y="10.0" type="curve"/>
+      <point x="298.875" y="63.125" type="line"/>
+      <point x="206.125" y="29.125"/>
+      <point x="45.875" y="-117.75"/>
+      <point x="45.875" y="-278.875" type="curve" smooth="yes"/>
+      <point x="45.875" y="-431.625"/>
+      <point x="165.875" y="-513.625"/>
+      <point x="316.0" y="-513.625" type="curve" smooth="yes"/>
+      <point x="420.0" y="-513.625"/>
+      <point x="485.75" y="-497.25"/>
+      <point x="524.875" y="-480.75" type="curve"/>
+    </contour>
+    <component base="I.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

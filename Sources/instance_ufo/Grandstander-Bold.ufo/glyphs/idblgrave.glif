@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idblgrave" format="2">
+  <advance width="581.0"/>
+  <unicode hex="0209"/>
+  <anchor x="247.25" y="0.0" name="bottom"/>
+  <anchor x="391.0" y="-5.25" name="ogonek"/>
+  <anchor x="275.25" y="1523.25" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dblgravecomb" xOffset="-286.25" yOffset="-84.25"/>
+  </outline>
+</glyph>

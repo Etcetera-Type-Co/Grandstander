@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="1344"/>
+  <unicode hex="20A9"/>
+  <anchor x="529.585" y="0.0" name="bottom"/>
+  <anchor x="875.507" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="224" y="765" type="curve"/>
+      <point x="197" y="686" type="line"/>
+      <point x="413" y="686"/>
+      <point x="1061" y="686"/>
+      <point x="1269" y="686" type="curve"/>
+      <point x="1284" y="758" type="line"/>
+      <point x="1076" y="758"/>
+      <point x="439" y="761"/>
+    </contour>
+    <contour>
+      <point x="154" y="520" type="curve"/>
+      <point x="133" y="462" type="line"/>
+      <point x="352" y="456"/>
+      <point x="1006" y="444"/>
+      <point x="1219" y="444" type="curve"/>
+      <point x="1244" y="512" type="line"/>
+      <point x="1031" y="512"/>
+      <point x="374" y="516"/>
+    </contour>
+    <component base="W"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="1027.0"/>
+  <unicode hex="0024"/>
+  <anchor x="407.125" y="95.5" name="bottom"/>
+  <anchor x="722.5" y="1258.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="382.0" y="-82.0" type="line"/>
+      <point x="398.375" y="-30.125"/>
+      <point x="438.125" y="87.375"/>
+      <point x="455.125" y="131.375" type="curve"/>
+      <point x="343.875" y="138.125" type="line"/>
+      <point x="328.75" y="104.125"/>
+      <point x="275.75" y="-45.125"/>
+      <point x="268.5" y="-74.375" type="curve"/>
+    </contour>
+    <contour>
+      <point x="658.0" y="1219.0" type="curve"/>
+      <point x="761.25" y="1219.25" type="line"/>
+      <point x="772.875" y="1257.25"/>
+      <point x="802.25" y="1362.5"/>
+      <point x="815.75" y="1411.5" type="curve"/>
+      <point x="713.75" y="1408.125" type="line"/>
+      <point x="704.25" y="1374.0"/>
+      <point x="667.625" y="1250.0"/>
+    </contour>
+    <component base="s" xOffset="67.5" yOffset="156.75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

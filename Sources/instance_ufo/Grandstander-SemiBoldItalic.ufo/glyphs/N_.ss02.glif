@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N.ss02" format="2">
+  <advance width="1282.0"/>
+  <anchor x="525.875" y="0.0" name="bottom"/>
+  <anchor x="823.25" y="1291.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="256.625" y="-6.25" type="curve"/>
+      <point x="291.75" y="125.125"/>
+      <point x="442.375" y="638.25"/>
+      <point x="477.0" y="765.875" type="curve"/>
+      <point x="539.625" y="647.75"/>
+      <point x="869.875" y="78.125"/>
+      <point x="959.75" y="-16.375" type="curve"/>
+      <point x="1016.875" y="102.0"/>
+      <point x="1247.125" y="834.25"/>
+      <point x="1368.75" y="1286.625" type="curve"/>
+      <point x="1303.75" y="1286.625"/>
+      <point x="1142.5" y="1261.875"/>
+      <point x="1073.5" y="1248.75" type="curve"/>
+      <point x="877.75" y="512.625" type="line"/>
+      <point x="764.25" y="716.75"/>
+      <point x="505.625" y="1176.625"/>
+      <point x="386.0" y="1320.25" type="curve"/>
+      <point x="308.875" y="1108.875"/>
+      <point x="-3.875" y="144.25"/>
+      <point x="-39.375" y="9.75" type="curve"/>
+      <point x="15.0" y="3.5"/>
+      <point x="152.375" y="-7.0"/>
+    </contour>
+  </outline>
+</glyph>

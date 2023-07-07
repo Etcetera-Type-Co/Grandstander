@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.case" format="2">
+  <anchor x="717.0" y="1291.0" name="_top"/>
+  <anchor x="833.0" y="1740.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="796.5" y="1542.0" type="curve"/>
+      <point x="739.0" y="1502.5"/>
+      <point x="688.5" y="1465.5"/>
+      <point x="681.5" y="1456.0" type="curve"/>
+      <point x="695.5" y="1498.5"/>
+      <point x="688.0" y="1521.0"/>
+      <point x="703.0" y="1500.0" type="curve"/>
+      <point x="708.5" y="1502.0"/>
+      <point x="754.0" y="1532.5"/>
+      <point x="762.5" y="1545.5" type="curve"/>
+      <point x="773.5" y="1572.0"/>
+      <point x="786.5" y="1570.5"/>
+    </contour>
+    <contour>
+      <point x="926.5" y="1591.5" type="curve"/>
+      <point x="861.5" y="1565.5"/>
+      <point x="812.5" y="1542.0"/>
+      <point x="802.5" y="1534.0" type="curve"/>
+      <point x="802.0" y="1556.5"/>
+      <point x="750.0" y="1551.0"/>
+      <point x="758.0" y="1517.5" type="curve"/>
+      <point x="764.0" y="1515.5"/>
+      <point x="802.5" y="1523.5"/>
+      <point x="825.0" y="1542.5" type="curve"/>
+      <point x="853.0" y="1588.5"/>
+      <point x="910.0" y="1607.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>900</integer>
+    </dict>
+  </lib>
+</glyph>
