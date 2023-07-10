@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="plusminus" format="2">
-  <advance width="1050"/>
-  <unicode hex="00B1"/>
-  <outline>
-    <component base="plus" xOffset="2" yOffset="208"/>
-    <component base="minus" xOffset="84" yOffset="-505"/>
-  </outline>
-</glyph>

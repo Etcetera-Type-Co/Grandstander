@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="fl" format="2">
-  <advance width="1271.625"/>
-  <unicode hex="FB02"/>
-  <anchor x="625.375" y="0.0" name="caret_1"/>
-  <outline>
-    <component base="f_l"/>
-  </outline>
-</glyph>

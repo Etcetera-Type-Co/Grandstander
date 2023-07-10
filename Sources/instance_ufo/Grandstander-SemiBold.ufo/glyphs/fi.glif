@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="fi" format="2">
-  <advance width="1348.0"/>
-  <unicode hex="FB01"/>
-  <anchor x="725.0" y="0.0" name="caret_1"/>
-  <outline>
-    <component base="f_i"/>
-  </outline>
-</glyph>
